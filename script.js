@@ -6,7 +6,7 @@ const SITE_SETTINGS = {
       ["Welcome to NŌRÉVA", "اكتشف لمعة جديدة كل يوم."],
       ["Scent Check", "اختار عطرك قبل ما العرض يخلص."],
       ["Glow Moment", "منتجات مختارة بعناية للرجال والنساء."],
-      ["Limited Feel", "الطلب التجريبي جاهز للتجربة."],
+      ["Limited Feel", "الطلب الاطلب الآن!"],
     ],
     en: [
       ["Welcome to NŌRÉVA", "Your New Addiction Starts Here."],
@@ -476,7 +476,7 @@ function closeCart() {
 function openOrderModal() {
   const entries = [...state.cart.values()];
   if (!entries.length) {
-    alert("السلة فاضية. ضيف منتج الأول عشان تعمل طلب تجريبي.");
+    alert("السلة فاضية. ضيف منتج الأول عشان تكمل طلبك.");
     return;
   }
 
@@ -585,7 +585,7 @@ function closeOrderModal() {
 }
 
 function paymentLabel(value) {
-  if (value === "card") return "بطاقة بنكية تجريبية";
+  if (value === "card") return "بطاقة بنكية";
   if (value === "wallet") return "محفظة إلكترونية";
   return "الدفع عند الاستلام";
 }
