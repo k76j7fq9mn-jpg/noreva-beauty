@@ -654,6 +654,30 @@ checkoutForm.addEventListener("submit", (event) => {
         : "استلام من الفرع",
   };
   createReceipt(formData);
+
+  // === WhatsApp Order Notification ===
+  (function() {
+    var _entries = Array.from(state.cart.values());
+    var _totals = orderTotals(_entries);
+    var _name = document.querySelector('#customerName').value.trim();
+    var _phone = document.querySelector('#customerPhone').value.trim();
+    var _city = document.querySelector('#customerCity') ? document.querySelector('#customerCity').value.trim() : '';
+    var _address = document.querySelector('#customerAddress').value.trim();
+    var _pm = document.querySelector('#paymentMethod');
+    var _payment = _pm ? _pm.options[_pm.selectedIndex].text : 'الدفع عند الاستلام';
+    var _da = document.querySelector('#deliveryArea');
+    var _daText = _da ? _da.options[_da.selectedIndex].text : '';
+    var _orderNum = 'NOR-' + Date.now().toString().slice(-6);
+    var _items = '';
+    _entries.forEach(function(item) {
+      _items += '\n  • ' + item.name + ' x' + item.qty + ' = ' + (item.price * item.qty) + ' جنيه';
+    });
+    var _msg = '*🛒 طلب جديد من NŌRÉVA Beauty*' + '\n────────────────────' + '\n📃 *رقم الطلب:* ' + _orderNum + '\n────────────────────' + '\n👤 *بيانات العميل:*' + '\nالاسم: ' + _name + '\n📞 الموبايل: ' + _phone + '\n📍 العنوان: ' + _city + ' - ' + _address + '\n────────────────────' + '\n📦 *المنتجات:*' + _items + '\n────────────────────' + '\n💰 *الحساب:*' + '\nالمجموع قبل الخصم: ' + _totals.subtotal + ' جنيه' + (_totals.discount > 0 ? '\nالخصم: -' + _totals.discount + ' جنيه' : '') + '\nالتوصيل: ' + _totals.delivery + ' جنيه' + '\n⭐ *الإجمالي النهائي: ' + _totals.total + ' جنيه*' + '\n────────────────────' + '\n💳 *طريقة الدفع:* ' + _payment + '\n🚚 *منطقة التوصيل:* ' + _daText + '\n────────────────────';
+    var _waUrl = 'https://wa.me/201018591535?text=' + encodeURIComponent(_msg);
+    setTimeout(function() { window.open(_waUrl, '_blank'); }, 700);
+  })();
+  // === End WhatsApp ===
+
   checkoutStep.hidden = true;
   receiptStep.hidden = false;
 });
