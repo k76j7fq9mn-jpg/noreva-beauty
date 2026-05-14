@@ -116,7 +116,7 @@
             <p class="eyebrow">Customer Reviews</p>
             <h2>آراء العملاء</h2>
           </div>
-          <p>تقييمات تجريبية تعرض شكل الثقة الاجتماعية داخل الموقع.</p>
+          <p></p>
         </div>
         <div class="reviews-grid" id="reviewsGrid"></div>
       </section>
@@ -176,15 +176,14 @@
       </div>
     </aside>
 
-    <section class="order-modal" id="orderModal" aria-hidden="true" aria-label="تأكيد الطلب التجريبي">
+    <section class="order-modal" id="orderModal" aria-hidden="true" aria-label="تأكيد الطلب">
       <div class="order-card glass-panel">
         <button class="icon-button order-close" type="button" id="closeOrderModal" aria-label="إغلاق تأكيد الطلب">×</button>
         <div id="checkoutStep">
           <p class="eyebrow">Demo Checkout</p>
           <h2>بيانات الطلب والدفع</h2>
           <p class="order-note">
-            دي تجربة محلية فقط. اكتب أي بيانات وهمية للتجربة، ومفيش دفع حقيقي هيتم.
-          </p>
+            </p>
           <form class="checkout-form" id="checkoutForm">
             <div class="form-grid">
               <input id="customerName" type="text" placeholder="اسم العميل" required />
@@ -211,7 +210,7 @@
               <select id="paymentMethod">
                 <option value="cash">الدفع عند الاستلام</option>
                 <option value="wallet">محفظة إلكترونية</option>
-                <option value="card">بطاقة بنكية تجريبية</option>
+                <option value="card">بطاقة بنكية</option>
               </select>
             </label>
             <div class="demo-payment" id="demoPayment">
@@ -220,7 +219,7 @@
               <input id="cardCvv" type="text" inputmode="numeric" placeholder="CVV" />
             </div>
             <div class="order-summary" id="checkoutSummary"></div>
-            <button class="primary-action checkout-submit" type="submit">تأكيد الطلب التجريبي</button>
+            <button class="primary-action checkout-submit" type="submit">تأكيد الطلب</button>
           </form>
         </div>
         <div id="receiptStep" hidden>
