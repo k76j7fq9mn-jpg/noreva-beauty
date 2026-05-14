@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NŌRÉVA Beauty | Perfume & Makeup</title>
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#" aria-label="NŌRÉVA Beauty">
+        <span class="brand-mark">N</span>
+        <span class="brand-copy">
+          <span class="logo-name">NŌRÉVA Beauty</span>
+          <span class="logo-tagline">The Soul of Scent & Glow</span>
+        </span>
+      </a>
+      <nav class="nav" aria-label="القائمة الرئيسية">
+        <a href="#products">المنتجات</a>
+        <a href="#brandSpotlight">البراندات</a>
+        <a href="#reviews">الآراء</a>
+        <a href="#social">السوشيال</a>
+        <a href="#offers">العروض</a>
+        <a href="#contact">تواصل</a>
+      </nav>
+      <button class="cart-toggle" type="button" aria-label="فتح السلة">
+        <span>السلة</span>
+        <strong id="cartCount">0</strong>
+      </button>
+    </header>
+
+    <main>
+      <section class="hero">
+        <img src="assets/noreva-hero.jpg" alt="NŌRÉVA Beauty perfume and makeup on black marble" />
+        <div class="hero-content" data-aos="fade-up" data-aos-duration="900">
+          <p class="eyebrow">Beauty • Fragrance • Makeup</p>
+          <h1>NŌRÉVA Beauty</h1>
+          <p class="hero-subtitle">Where elegance meets your skin.</p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#products">تسوق الآن</a>
+            <a class="secondary-action" href="#brandSpotlight">استعرض البراندات</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="toolbar glass-panel" aria-label="بحث وتصفية المنتجات" data-aos="fade-up">
+        <label class="search">
+          <span>بحث</span>
+          <input id="searchInput" type="search" placeholder="اكتب اسم المنتج أو البراند..." />
+        </label>
+        <div class="filters" role="group" aria-label="تصنيف المنتجات">
+          <button class="filter active" type="button" data-filter="all">الكل</button>
+          <button class="filter" type="button" data-filter="perfume">بيرفيوم</button>
+          <button class="filter" type="button" data-filter="makeup">ميك أب</button>
+          <button class="filter" type="button" data-filter="offer">عروض</button>
+        </div>
+        <label class="brand-select">
+          <span>البراند</span>
+          <select id="brandSelect" aria-label="اختيار البراند">
+            <option value="all">كل البراندات</option>
+            <option value="NŌRÉVA">NŌRÉVA</option>
+            <option value="Ajmal">Ajmal</option>
+            <option value="Catrice">Catrice</option>
+            <option value="Essence">Essence</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="section-heading" id="products" data-aos="fade-up">
+        <div>
+          <p class="eyebrow">New Collection</p>
+          <h2>منتجات مختارة</h2>
+        </div>
+        <p>تصفية حسب النوع أو البراند، مع كروت زجاجية على ستايل الرخام الأسود.</p>
+      </section>
+
+      <section class="products" id="productGrid" aria-live="polite"></section>
+
+      <section class="brand-spotlight" id="brandSpotlight">
+        <div class="section-heading compact" data-aos="fade-up">
+          <div>
+            <p class="eyebrow">Brand Spotlight</p>
+            <h2>اختار البراند</h2>
+          </div>
+          <p>اضغط على أي براند وهيعرض منتجاته بس.</p>
+        </div>
+        <div class="spotlight-grid">
+          <button class="spotlight-card ajmal" type="button" data-brand="Ajmal" data-aos="zoom-in">
+            <span>Ajmal</span>
+            <strong>Deep oriental fragrance</strong>
+          </button>
+          <button class="spotlight-card catrice" type="button" data-brand="Catrice" data-aos="zoom-in" data-aos-delay="100">
+            <span>Catrice</span>
+            <strong>Glow makeup essentials</strong>
+          </button>
+          <button class="spotlight-card essence" type="button" data-brand="Essence" data-aos="zoom-in" data-aos-delay="200">
+            <span>Essence</span>
+            <strong>Fresh everyday beauty</strong>
+          </button>
+        </div>
+      </section>
+
+      <section class="offer-band glass-panel" id="offers" data-aos="fade-up">
+        <div>
+          <p class="eyebrow" id="offerLabel">Live Offer</p>
+          <h2 id="offerTitle">العروض الحالية</h2>
+          <p class="offer-details" id="offerDetails">العروض بتتحدث تلقائيًا حسب إعدادات الخصم.</p>
+        </div>
+        <a class="primary-action" href="#products">اختار الباقة</a>
+      </section>
+
+      <section class="reviews-section" id="reviews">
+        <div class="section-heading compact" data-aos="fade-up">
+          <div>
+            <p class="eyebrow">Customer Reviews</p>
+            <h2>آراء العملاء</h2>
+          </div>
+          <p>تقييمات تجريبية تعرض شكل الثقة الاجتماعية داخل الموقع.</p>
+        </div>
+        <div class="reviews-grid" id="reviewsGrid"></div>
+      </section>
+
+      <section class="social-section" id="social">
+        <div class="section-heading compact" data-aos="fade-up">
+          <div>
+            <p class="eyebrow">Social QR</p>
+            <h2>تابعنا على السوشيال</h2>
+          </div>
+          <p>امسح الكود وافتح صفحة Instagram أو TikTok مباشرة.</p>
+        </div>
+        <div class="social-grid">
+          <a class="social-card glass-panel" id="instagramLink" href="#" target="_blank" rel="noopener" data-aos="zoom-in">
+            <img id="instagramQr" alt="QR Code لصفحة Instagram" />
+            <span>Instagram</span>
+            <strong>@norevabeauty</strong>
+          </a>
+          <a class="social-card glass-panel" id="tiktokLink" href="#" target="_blank" rel="noopener" data-aos="zoom-in" data-aos-delay="100">
+            <img id="tiktokQr" alt="QR Code لصفحة TikTok" />
+            <span>TikTok</span>
+            <strong>@norevabeauty</strong>
+          </a>
+        </div>
+      </section>
+
+      <section class="contact" id="contact">
+        <div data-aos="fade-up">
+          <p class="eyebrow">Contact</p>
+          <h2>جاهزين للطلبات والاستفسار</h2>
+          <p>اكتب لنا تفاصيل الطلب، أو ابعت أسماء المنتجات اللي عجبتك من السلة.</p>
+          <a class="suggestions-phone" href="tel:01018591535">
+            رقم المقترحات: 01018591535
+          </a>
+        </div>
+        <form class="contact-form glass-panel" data-aos="fade-up" data-aos-delay="120">
+          <input type="text" placeholder="الاسم" aria-label="الاسم" />
+          <input type="tel" placeholder="رقم الموبايل" aria-label="رقم الموبايل" />
+          <textarea placeholder="تفاصيل الطلب" aria-label="تفاصيل الطلب"></textarea>
+          <button class="primary-action" type="submit">إرسال الطلب</button>
+        </form>
+      </section>
+    </main>
+
+    <aside class="cart-panel" id="cartPanel" aria-label="سلة التسوق" aria-hidden="true">
+      <div class="cart-header">
+        <h2>سلة التسوق</h2>
+        <button class="icon-button" type="button" id="closeCart" aria-label="إغلاق السلة">×</button>
+      </div>
+      <div class="cart-items" id="cartItems"></div>
+      <div class="cart-footer">
+        <div>
+          <span>الإجمالي</span>
+          <strong id="cartTotal">0 جنيه</strong>
+        </div>
+        <button class="primary-action checkout" type="button">إتمام الطلب</button>
+      </div>
+    </aside>
+
+    <section class="order-modal" id="orderModal" aria-hidden="true" aria-label="تأكيد الطلب التجريبي">
+      <div class="order-card glass-panel">
+        <button class="icon-button order-close" type="button" id="closeOrderModal" aria-label="إغلاق تأكيد الطلب">×</button>
+        <div id="checkoutStep">
+          <p class="eyebrow">Demo Checkout</p>
+          <h2>بيانات الطلب والدفع</h2>
+          <p class="order-note">
+            دي تجربة محلية فقط. اكتب أي بيانات وهمية للتجربة، ومفيش دفع حقيقي هيتم.
+          </p>
+          <form class="checkout-form" id="checkoutForm">
+            <div class="form-grid">
+              <input id="customerName" type="text" placeholder="اسم العميل" required />
+              <input id="customerPhone" type="tel" placeholder="رقم الموبايل" required />
+              <input id="customerCity" type="text" placeholder="المدينة / المنطقة" required />
+              <input id="customerAddress" type="text" placeholder="العنوان" required />
+            </div>
+            <div class="form-grid">
+              <label class="payment-choice">
+                <span>طريقة الاستلام</span>
+                <select id="fulfillmentMethod">
+                  <option value="delivery">توصيل للعنوان</option>
+                  <option value="pickup">استلام من الفرع</option>
+                </select>
+              </label>
+              <label class="payment-choice">
+                <span>منطقة التوصيل</span>
+                <select id="deliveryArea"></select>
+              </label>
+            </div>
+            <p class="delivery-status" id="deliveryStatus"></p>
+            <label class="payment-choice">
+              <span>طريقة الدفع</span>
+              <select id="paymentMethod">
+                <option value="cash">الدفع عند الاستلام</option>
+                <option value="wallet">محفظة إلكترونية</option>
+                <option value="card">بطاقة بنكية تجريبية</option>
+              </select>
+            </label>
+            <div class="demo-payment" id="demoPayment">
+              <input id="cardNumber" type="text" inputmode="numeric" placeholder="رقم بطاقة وهمي: 4242 4242 4242 4242" />
+              <input id="cardExpiry" type="text" placeholder="MM/YY" />
+              <input id="cardCvv" type="text" inputmode="numeric" placeholder="CVV" />
+            </div>
+            <div class="order-summary" id="checkoutSummary"></div>
+            <button class="primary-action checkout-submit" type="submit">تأكيد الطلب التجريبي</button>
+          </form>
+        </div>
+        <div id="receiptStep" hidden>
+          <p class="eyebrow">Receipt</p>
+          <h2>فاتورة الطلب</h2>
+          <div class="receipt-layout">
+            <div class="order-summary" id="orderSummary"></div>
+            <div class="rating-qr">
+              <img id="ratingQr" alt="QR Code لتقييم الطلب" />
+              <strong>QR لتقييم التجربة</strong>
+              <span>امسح الكود بعد الطلب واكتب رأيك في NŌRÉVA.</span>
+            </div>
+          </div>
+          <div class="order-next">
+            <strong>الخطوة التالية</strong>
+            <span>تأكيد البيانات، تجهيز الطلب، ثم التواصل مع العميل لتأكيد الدفع والتوصيل.</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <a class="floating-sticker" href="#products" aria-label="Welcome to NŌRÉVA">
+      <span>Welcome to NŌRÉVA</span>
+      <strong>Your New Addiction Starts Here.</strong>
+    </a>
+    <div class="overlay" id="overlay"></div>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
