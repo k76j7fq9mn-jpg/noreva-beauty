@@ -7,12 +7,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: 3614274708400. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274708400-1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/stronger-with-you-eau-de-parfum-amber-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1001,
@@ -22,12 +18,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: STRONGER WITH YOU PARFUM. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/a/ga_2025_ea-swy-parfum_100ml_3614274219579_rvb-4000_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/stronger-with-you-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1002,
@@ -37,12 +29,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7200,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: Armani Code Eau de Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/o/copy_of_copy_of_ga_2024_armani-code-edp_75ml_3614273636414_rvb-4000.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/armani-code-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1003,
@@ -52,12 +40,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6500,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: GA NEW CODE EDT V. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/a/ga_2023_armani-code-edt_75ml_3614273636568_rvb-4000.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ga-new-code-edt-v",
-    "source": "Mazaya"
   },
   {
     "id": 1004,
@@ -67,12 +51,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8800,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: Armani Code Le Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/a/ga_2022_armani-code-parfum_125ml_3614273604932_rvb-4000-photoroom_2_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/armani-code-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1005,
@@ -82,12 +62,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5700,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: YOU ABSOLUTELY. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/r/armani_1a.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/you-absolutely123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1006,
@@ -97,12 +73,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7200,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: Armani Stronger With You Intensely EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/3/13_5.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/emporio-armani-stronger-with-you-intensely-edp123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1007,
@@ -112,12 +84,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5600,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: 3614273762137. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273762137.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/stronger-with-you-amber-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1008,
@@ -127,12 +95,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3700,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: 3614272225695. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/3/131175384-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/emporio-armani-stronger-with-you-intensely-30ml",
-    "source": "Mazaya"
   },
   {
     "id": 1009,
@@ -142,12 +106,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: 3614274040067. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/a/ga_2024_ea-swy-tobacco_100ml_bf_3614274040067_rvb-4000r.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/stronger-with-you-tobacco",
-    "source": "Mazaya"
   },
   {
     "id": 1010,
@@ -157,12 +117,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8800,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: 3614273604895. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273604895.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/armani-code-parfum-refill-150ml",
-    "source": "Mazaya"
   },
   {
     "id": 1011,
@@ -172,12 +128,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5600,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: 3614273662413. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/_/2_3_3-photoroom.png-photoroom_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/acqua-di-gio-eau-de-parfum-refill-150-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1012,
@@ -187,12 +139,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6300,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: Aqua Di Gio Eau de Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/_/2_2_3resize_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/aqua-di-gio-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1013,
@@ -202,12 +150,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5600,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: ARMANI CODE EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/o/code-men-edp-spray-60-ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/armani-code-edp-23123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1014,
@@ -217,12 +161,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: Acqua Di Gio Profondo EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/_/1_2_3.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/acqua-di-gio-profondo-edp123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1015,
@@ -232,12 +172,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6500,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Giorgio Armani Men product from Mazaya selection.",
-    "details": "SKU: Giorgio Armani Acqua Di Gio for Men EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/q/aqua_de_gio_man_100_ml_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/aqua-de-gio-man-edt123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1016,
@@ -247,12 +183,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1785,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290362346548. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290362346548_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-asad-elixir-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1017,
@@ -262,12 +194,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2130,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290362342373. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/n/untitled-1_15_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-khamrah-dukhan-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1018,
@@ -277,12 +205,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2530,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290360599113. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/spray-his-confession-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1019,
@@ -292,12 +216,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1955,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290360598345. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/i/kingdom-men-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-the-kingdom-man-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1020,
@@ -307,12 +227,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2070,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291107456744. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/maahir-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-maahir-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1021,
@@ -322,12 +238,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2070,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290360590189. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/maahir_legacy-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-maahir-legacy-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1022,
@@ -337,12 +249,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1805,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290362340362. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/s/asad-bourbon-6290362340362.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-asad-bourbon-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1023,
@@ -352,12 +260,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1495,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291107456058. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6291107456058---.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-fakhar-lattafa-man-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1024,
@@ -367,12 +271,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2045,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290360593661. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/h/khamra_qahwa.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-khamrah-qahwa-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1025,
@@ -382,12 +282,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2045,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291108737194. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/h/khamra.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-khamrah-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1026,
@@ -397,12 +293,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1840,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290360593142. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/a/badee_el_oud_suplime.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-badee-al-oud-sublime-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1027,
@@ -412,12 +304,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1555,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291108735411. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/s/asad-01.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-asad-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1028,
@@ -427,12 +315,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1095,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291106066890. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/n/ana_el_abiyad.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-ana-abiyedh-60-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1029,
@@ -442,12 +326,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2130,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291108738252. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6291108738252.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lattafa-pride-spray-al-ameed-silver-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1030,
@@ -457,12 +337,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2130,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291108738665. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/s/ishq_al_shuyukh_gold-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lattafa-pride-spray-ishq-al-shuyukh-gold-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1031,
@@ -472,12 +348,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1030,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291108734056. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/h/a/hayaati_al_maleky-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-hayaati-al-maleky-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1032,
@@ -487,12 +359,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 980,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291106063981. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/h/sheikh_al_shuyukh_luxe_edition-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-sheikh-al-shuyukh-luxe-edition-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1033,
@@ -502,12 +370,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 980,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291107450582. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/q/i/qimmah_man-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-qimmah-man-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1034,
@@ -517,12 +381,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 920,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291108739020. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/q/a/qaed_al_fursan_unlimited-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-qaed-al-fursan-unlimited-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1035,
@@ -532,12 +392,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 890,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291106060065. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/spray-raghba-for-man-100-ml-50-ml-deo",
-    "source": "Mazaya"
   },
   {
     "id": 1036,
@@ -547,12 +403,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1580,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290360598666. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/s/asad_zanzibar-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-asad-zanzibar-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1037,
@@ -562,12 +414,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1840,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6290360591544. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/l/al-nashama-1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-al-nashama-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1038,
@@ -577,12 +425,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 980,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291106066722. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/a/ramz_lattafa_silver_-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-ramz-lattafa-silver-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1039,
@@ -592,12 +436,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 140,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291107456133. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6291107456133_qvwhjg7vakreeuhu.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/perfumed-spray-target-homme-250-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1040,
@@ -607,12 +447,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 795,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291106062175. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6291106062175_gjsw1pat6fdpsrqc.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-precious-moments-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1041,
@@ -622,12 +458,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1840,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Lattafa Men product from Mazaya selection.",
-    "details": "SKU: 6291108733875. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6291108733875.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-badee-al-oud-amethyst-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1042,
@@ -637,12 +469,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8800,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: 3614274337341. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274337341-3.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/valentino-born-in-roma-uomo-rendez-vous-ivory-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1043,
@@ -652,12 +480,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: Born in Roma Uomo Green Stravaganza. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/a/valentino-uomo-born-in-roma-green-stravaganza-768x768.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/born-in-roma-uomo-green-stravaganza",
-    "source": "Mazaya"
   },
   {
     "id": 1044,
@@ -667,12 +491,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7900,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: 3614272761469. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614272761469_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/biroma-uomo-man-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1045,
@@ -682,12 +502,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: 3614272761452. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/1/213_1_4.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/uomo-born-in-roma-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 1046,
@@ -697,12 +513,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7900,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: UOMO BORN IN ROMA YELLOW DREAM EAU DE TOILETTE. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/a/valentino_fragrance_-_uomo_-_bir_yd_-_3614273261425_-_packshot_front_view_100ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/uomo-born-in-roma-yellow-dream-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 1047,
@@ -712,12 +524,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: 3614273261432. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273261432_5.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/uomo-born-in-roma-yellow-dream-eau-de-toilette-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1048,
@@ -727,12 +535,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: 3614273672122. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/2/12.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/uomo-born-in-roma-coral-fantasy-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 1049,
@@ -742,12 +546,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8800,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: 3614274350739. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274350739-main.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/born-in-roma-uomo-extradose-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1050,
@@ -757,12 +557,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: 3614272732278. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/a/valentino_21_-_gamme_new_capot_-_uomo_intense_100ml_-_flacon_etui_-_ec2_dhd_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/uomo-intense-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1051,
@@ -772,12 +568,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7700,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: 3614272732209. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614272732209.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/garavani-men-uomo-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1052,
@@ -787,12 +579,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7200,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: Valentino BIR UOMO EDP INTENSE Man. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273790833_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/valentino-bir-uomo-edp-intense-man",
-    "source": "Mazaya"
   },
   {
     "id": 1053,
@@ -802,12 +590,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7000,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Valentino Men product from Mazaya selection.",
-    "details": "SKU: 3614272731899. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/_/1_9_3.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/valentino-uomo-intense-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1054,
@@ -817,12 +601,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8200,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: MYSLF LABSOLU. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274329384_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/myslf-labsolu",
-    "source": "Mazaya"
   },
   {
     "id": 1055,
@@ -832,12 +612,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8200,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: Y LE PARFUM-1. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/f/lf113500_ysl_dmi_fram_y_le-parfum_reno_packshot_threequarter_100ml_03614274266801_rgb.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/y-le-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1056,
@@ -847,12 +623,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8500,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: 3614273852807. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273852807.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/myslf-refill-v150ml",
-    "source": "Mazaya"
   },
   {
     "id": 1057,
@@ -862,12 +634,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8700,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: 3614274057348. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274057348_3.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/y-edp-refill-150ml",
-    "source": "Mazaya"
   },
   {
     "id": 1058,
@@ -877,12 +645,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: MYSLF LE PARFUM. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/y/myslf_le_parfum_100ml_3614274114645_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/myslf-le-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1059,
@@ -892,12 +656,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7200,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: YSL MYSLF EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_fram_myslf_edp_digital-still-life_range-on-the-floor_square_3000x3000px_rgb_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ysl-myslf-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1060,
@@ -907,12 +667,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: Y Eau De Parfum Intense. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/z/ezgif-2-a1ea2779c9.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/y-eau-de-parfum-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1061,
@@ -922,12 +678,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6300,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: Y EAU DE TOILETTE. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_fram_y-edt_packshot_threequarter_100ml_1000x1000px_3614273683401_rgb_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/y-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 1062,
@@ -937,12 +689,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7000,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: Yves Saint Laurent Y EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614272050358_100ml_y-eau-de-parfum_alt1_1_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/yves-saint-laurent-y-edp123455-html12344",
-    "source": "Mazaya"
   },
   {
     "id": 1063,
@@ -952,12 +700,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8700,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: 6222066406938. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6222066406938.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/y-edp-set",
-    "source": "Mazaya"
   },
   {
     "id": 1064,
@@ -967,12 +711,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8800,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: 3614273846035. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273846035_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ysl-y-le-parfum-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1065,
@@ -982,12 +722,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5500,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: LA NUIT DE L'HOMME BLEU ELECTRIQUE EAU DE TOILETTE. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/v/yves-saint-laurent-la-nuit-de-l-homme-eau-electrique-edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-nuit-de-l-homme-bleu-electrique-eau-de-toilette123455-html12344",
-    "source": "Mazaya"
   },
   {
     "id": 1066,
@@ -997,12 +733,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7800,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: Y LE PARFUM. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/v/yves-saint-laurent-y-le-parfum-eau-de-parfum-60-ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/y-le-parfum123455-html12344",
-    "source": "Mazaya"
   },
   {
     "id": 1067,
@@ -1012,12 +744,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6500,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Yves Saint Laurent Men product from Mazaya selection.",
-    "details": "SKU: L’Homme Le Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/50m_4.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-homme-le-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1068,
@@ -1027,12 +755,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2420,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: 679602001335. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/o/police_rich_guy_100ml_v2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rich-guy-for-man-edt-100ml-vapo",
-    "source": "Mazaya"
   },
   {
     "id": 1069,
@@ -1042,12 +766,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: 679602591010. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602591010-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-contemporary-silver-allure-for-man-eau-de-toilette-100-ml-vapo",
-    "source": "Mazaya"
   },
   {
     "id": 1070,
@@ -1057,12 +777,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: 679602531108. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602531108-1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-amber-gold-for-man-eau-de-toilette-100-ml-vapo",
-    "source": "Mazaya"
   },
   {
     "id": 1071,
@@ -1072,12 +788,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: 679602241106. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602241106_xpgkaalutk9ha1p7.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-eau-de-toilette-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1072,
@@ -1087,12 +799,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: 679602221108. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602221108_0leqjy8u8rjc0wru.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/deep-blue-eau-de-toilette-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1073,
@@ -1102,12 +810,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: Police Frozen EDT Spray. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/-/s-l1600_24.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-frozen-edt-spray123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1074,
@@ -1117,12 +821,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: POLICE Original EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/78170529_max_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-original-edt123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1075,
@@ -1132,12 +832,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: Police cosmopolitan EDT perfume for men. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/6/66cc73cdd6422f1eac0b3a382d16c303_images_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-cosmopolitan-edt-perfume-for-men123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1076,
@@ -1147,12 +843,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: Police Energy for Men Eau De Toilette Spray. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/1/61weyo6u4rl._sl1500__2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-energy-for-men-eau-de-toilette-spray123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1077,
@@ -1162,12 +854,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Police Men product from Mazaya selection.",
-    "details": "SKU: Police Contemporary for Men - Eau de Toilette. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/9/e/9e5ee7a365e8bd52b73bfb3c8b801a9d_images_mini_2_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-contemporary-for-men-eau-de-toilette123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1078,
@@ -1177,12 +865,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8500,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Prada Men product from Mazaya selection.",
-    "details": "SKU: 3614274182910. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274182910_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paradigme-eau-de-parfum-refill-150ml",
-    "source": "Mazaya"
   },
   {
     "id": 1079,
@@ -1192,12 +876,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6500,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Prada Men product from Mazaya selection.",
-    "details": "SKU: Paradigme Eau de Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274172997_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paradigme-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1080,
@@ -1207,12 +887,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Prada Men product from Mazaya selection.",
-    "details": "SKU: 8435137759781. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/u/luna_rossa_carbon_eau_de_toilette_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/luna-rossa-carbon-eau-de-toilette-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1081,
@@ -1222,12 +898,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8200,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Prada Men product from Mazaya selection.",
-    "details": "SKU: 8435137782949. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/u/luna_rossa_black_eau_de_parfum.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/luna-rossa-black-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1082,
@@ -1237,12 +909,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8200,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Prada Men product from Mazaya selection.",
-    "details": "SKU: 3614273768832. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/_/1_4_4.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/luna-rossa-ocean-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1083,
@@ -1252,12 +920,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9200,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Prada Men product from Mazaya selection.",
-    "details": "SKU: 8435137764730. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/r/prada-fragrance-lhommeprada-intenseedp100ml-8435137764730-packshot-front.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-homme-eau-de-parfum-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1084,
@@ -1267,12 +931,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3630,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Armaf Men product from Mazaya selection.",
-    "details": "SKU: 6294015164152. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6294015164152-1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/club-de-nuit-blue-iconic-105ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1085,
@@ -1282,12 +942,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3630,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Armaf Men product from Mazaya selection.",
-    "details": "SKU: 6294015164176. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6294015164176.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/club-de-nuit-red-untold-105ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1086,
@@ -1297,12 +953,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3575,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Armaf Men product from Mazaya selection.",
-    "details": "SKU: 6294015136470. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6294015136470.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/club-de-nuit-sillage-105ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1087,
@@ -1312,12 +964,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2805,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Armaf Men product from Mazaya selection.",
-    "details": "SKU: 6085010044712. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/n/intense_man_bottle-1_copy.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/club-de-nuit-intense-man-105ml",
-    "source": "Mazaya"
   },
   {
     "id": 1088,
@@ -1327,12 +975,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2475,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Armaf Men product from Mazaya selection.",
-    "details": "SKU: 6294015163513. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6294015163513.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/club-de-nuit-urban-man-elixir-105ml",
-    "source": "Mazaya"
   },
   {
     "id": 1089,
@@ -1342,12 +986,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1815,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Armaf Men product from Mazaya selection.",
-    "details": "SKU: 6294015149371. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/o/d/odyssey-mandarine-sky-100ml-box-1_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/odyssey-mandarin-sky-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1090,
@@ -1357,12 +997,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9900,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Jean Paul Gaultier Men product from Mazaya selection.",
-    "details": "SKU: 8435415102346. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415102346.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-male-elixir-absolu-intense-125-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1091,
@@ -1372,12 +1008,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Jean Paul Gaultier Men product from Mazaya selection.",
-    "details": "SKU: 8435415102728. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415102728_5_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/scandal-intense-men-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1092,
@@ -1387,12 +1019,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6600,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Jean Paul Gaultier Men product from Mazaya selection.",
-    "details": "SKU: SCANDAL RE24 HIM PARFUM. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415080378_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/scandal-re24-him-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1093,
@@ -1402,12 +1030,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4300,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Jean Paul Gaultier Men product from Mazaya selection.",
-    "details": "SKU: 8435415081177. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415081177_fyjdmjn43iicr5hr.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/edt125ml-xmas-collector-hd23",
-    "source": "Mazaya"
   },
   {
     "id": 1094,
@@ -1417,12 +1041,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6200,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Jean Paul Gaultier Men product from Mazaya selection.",
-    "details": "SKU: 8435415091428. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415091428.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-male-lover-eau-de-parfum-125-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1095,
@@ -1432,12 +1052,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9200,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Jean Paul Gaultier Men product from Mazaya selection.",
-    "details": "SKU: 8435415076944. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415076944.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-male-elixir-125-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1096,
@@ -1447,12 +1063,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10200,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Jean Paul Gaultier Men product from Mazaya selection.",
-    "details": "SKU: 8435415091169. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415091169.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gaultier-divine-re24-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1097,
@@ -1462,12 +1074,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7700,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Jean Paul Gaultier Men product from Mazaya selection.",
-    "details": "SKU: 8435415032360. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415032360.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-male-le-parfum-edp-intense-200ml",
-    "source": "Mazaya"
   },
   {
     "id": 1098,
@@ -1477,12 +1085,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8400,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Jean Paul Gaultier Men product from Mazaya selection.",
-    "details": "SKU: 8435415065191. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415065191.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/jean-paul-gaultier-men-s-scandal-le-parfum-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1099,
@@ -1492,12 +1096,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6200,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: Million Gold Elixir Parfum Intense. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668644933.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/million-gold-elixir-parfum-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1100,
@@ -1507,12 +1107,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: 3349668588732. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668588732.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/invictus-victory-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1101,
@@ -1522,12 +1118,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5600,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: Million Gold EDP INTENSE. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668630349_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/million-gold-edp-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1102,
@@ -1537,12 +1129,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7800,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: 3349668622009. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668622009.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paco-rabanne-men-s-1-million-golden-oud-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1103,
@@ -1552,12 +1140,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7900,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: 3349668641833. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668641833_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/invictus-victory-absolu-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1104,
@@ -1567,12 +1151,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: 3349668600298. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668600298.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/1million-elixir-parf-intense-200ml",
-    "source": "Mazaya"
   },
   {
     "id": 1105,
@@ -1582,12 +1162,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5700,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: INVICTUS RE 2024 PARFUM. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668627523_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/invictus-re-2024-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1106,
@@ -1597,12 +1173,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7300,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: 3349668581948. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668581948.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paco-rabanne-1m",
-    "source": "Mazaya"
   },
   {
     "id": 1107,
@@ -1612,12 +1184,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7200,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: 3349668589678. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668589678.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pr-invictus-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1108,
@@ -1627,12 +1195,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: 3349668592388. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668592388---.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/invictus-victory",
-    "source": "Mazaya"
   },
   {
     "id": 1109,
@@ -1642,12 +1206,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: 3349668600304. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668600304.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/1-million-elixir-parfum-intense-for-men-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1110,
@@ -1657,12 +1217,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8600,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Paco Rabanne Men product from Mazaya selection.",
-    "details": "SKU: INVICTUS VICTORY ELIXIR. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/d/sda_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/invictus-victory-elixir",
-    "source": "Mazaya"
   },
   {
     "id": 1111,
@@ -1672,12 +1228,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10120,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Montale Men product from Mazaya selection.",
-    "details": "SKU: 3760260450034. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760260450034_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/black-aoud-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1112,
@@ -1687,12 +1239,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8415,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Montale Men product from Mazaya selection.",
-    "details": "SKU: 3760260453707. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760260453707.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/white-musk-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1113,
@@ -1702,12 +1250,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6930,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Montale Men product from Mazaya selection.",
-    "details": "SKU: 3760260452106. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760260452106.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/montale-wild-aoud-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1114,
@@ -1717,12 +1261,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9200,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Montale Men product from Mazaya selection.",
-    "details": "SKU: MONTALE Black Aoud by Montale for Men - Eau de Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/e/3ef2d3e5bdb5ab8f165ea80b85c8540e_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/montale-black-aoud-by-montale-for-men-eau-de-parfum123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1115,
@@ -1732,12 +1272,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6435,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Elie Saab Men product from Mazaya selection.",
-    "details": "SKU: 7640233342565. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/6/7640233342565_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-homme-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1116,
@@ -1747,12 +1283,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1350,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708019946. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708019946_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nomad-noir-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1117,
@@ -1762,12 +1294,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2180,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708017485. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/v/evoke_midnight_edition_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/evoke-midnight-him-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1118,
@@ -1777,12 +1305,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1485,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708015344. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/r/gray-510-x-465_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gray-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1119,
@@ -1792,12 +1316,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2180,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708015627. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/m/amaze_edp_100ml-_7.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/amaze-him-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1120,
@@ -1807,12 +1327,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4620,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708018758. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/w/i/wisal_layl.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wisal-layl-eau-de-parfum-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1121,
@@ -1822,12 +1338,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2260,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708018765. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/h/shadow_ice.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/shadow-ice-eau-de-parfum-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1122,
@@ -1837,12 +1349,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2180,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: AJMAL Evoke Silver Edition Eau De Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708008926_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/evoke-silver-edition-eau-de-parfum123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1123,
@@ -1852,12 +1360,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8485,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: PATCHOULI WOOD EAU DE PARFUM. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708008612_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/patchouli-wood-eau-de-parfum12",
-    "source": "Mazaya"
   },
   {
     "id": 1124,
@@ -1867,12 +1371,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1705,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: KURO EAU DE PARFUM. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708008049_2_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kuro-eau-de-parfum123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1125,
@@ -1882,12 +1382,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1705,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708008049. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/u/kuro_edp_90ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kuro-eau-de-parfum-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1126,
@@ -1897,12 +1393,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8760,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: AJMAL ROSE WOOD EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007776_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-rose-wood-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1127,
@@ -1912,12 +1404,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6160,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: AJMAL AMBER MUSC EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007486_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-amber-musc-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1128,
@@ -1927,12 +1415,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6160,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: AJMAL VIOLET MUSC EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007462_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-violet-musc-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1129,
@@ -1942,12 +1426,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2805,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: AJMAL WISAL GOLD. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007295_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-wisal-gold12",
-    "source": "Mazaya"
   },
   {
     "id": 1130,
@@ -1957,12 +1437,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8760,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: AJMAL SANDAL WOOD. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708006755_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-sandal-wood12",
-    "source": "Mazaya"
   },
   {
     "id": 1131,
@@ -1972,12 +1448,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8760,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: AJMAL HATKORA WOOD EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708006748.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-hatkora-wood-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1132,
@@ -1987,12 +1459,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1705,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: Ajmal Blu For Men. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/6/663192467blu-bolt_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-blu-for-men123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1133,
@@ -2002,12 +1470,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1705,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708006106. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/l/blu_homme_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-blu-for-men-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1134,
@@ -2017,12 +1481,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1485,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: Ajmal Silver Shade. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/7/2747967538728960257-56839__01495.1536796835_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-silver-shade123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1135,
@@ -2032,12 +1492,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1485,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708005352. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/i/silvershade_edp_100ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-silver-shade-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1136,
@@ -2047,12 +1503,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1720,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: Ajmal Shadow For Him. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/o/pol_pl_ajmal-shadow-for-him-ii-edp-spray-75ml-425_1_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-shadow123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1137,
@@ -2062,12 +1514,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1960,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708002092. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/j/ajmal-wisal-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-wisal123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1138,
@@ -2077,12 +1525,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 935,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708001484. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/e/neutron_edp_100ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-neutron",
-    "source": "Mazaya"
   },
   {
     "id": 1139,
@@ -2092,12 +1536,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: Ajmal Carbon EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/1/71xq4s9ws1l._sl1500__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-carbon-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1140,
@@ -2107,12 +1547,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708000425. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/1/71xq4s9ws1l._sl1500__2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-carbon-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1141,
@@ -2122,12 +1558,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1485,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708019779. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/electron_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/electron-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1142,
@@ -2137,12 +1569,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1760,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708020263. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/l/alcheme.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/alcheme-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1143,
@@ -2152,12 +1580,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2545,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708013036. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708013036.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/aurum-winter-eau-de-parfum-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1144,
@@ -2167,12 +1591,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708010394. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708010394.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/avid-body-spray-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1145,
@@ -2182,12 +1602,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708010370. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708010370.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/evoke-silver-him-body-spray-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1146,
@@ -2197,12 +1613,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 250,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708010349. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/i/mizyaan-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mizyaan-body-spray-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1147,
@@ -2212,12 +1624,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 250,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708007929. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007929.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wisal-dahab-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1148,
@@ -2227,12 +1635,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708007684. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007684.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/blue-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1149,
@@ -2242,12 +1646,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708006892. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/i/silver_shade.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/silver-shade-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1150,
@@ -2257,12 +1657,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: 6293708006878. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/j/ajmal_shadow_him_deo_200_ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/shadow-him-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1151,
@@ -2272,12 +1668,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: AJMAL CUIR MUSC EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007479_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-cuir-musc-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1152,
@@ -2287,12 +1679,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1280,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Ajmal Men product from Mazaya selection.",
-    "details": "SKU: Ajmal Utopia II. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/375x500.26793_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-utopia-ii123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1153,
@@ -2302,12 +1690,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 26150,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666411048. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411048-2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/reasons-essence-de-parfum-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1154,
@@ -2317,12 +1701,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 26150,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666411284. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411055-4.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/outlands-essence-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1155,
@@ -2332,12 +1712,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666410591. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410591-2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/opus-xiv-royal-tobacco-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1156,
@@ -2347,12 +1723,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 30250,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666410737. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410737.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/interlude-man-53-extrait-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1157,
@@ -2362,12 +1734,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666410430. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/70166410430_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/purpose-100ml-edp-1",
-    "source": "Mazaya"
   },
   {
     "id": 1158,
@@ -2377,12 +1745,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666410195. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410195.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/interlude-man-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1159,
@@ -2392,12 +1756,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666410058. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410058_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/reflection-man-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1160,
@@ -2407,12 +1767,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 30250,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666410706. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410706-1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/reflection-man-45-extrait-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1161,
@@ -2422,12 +1778,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 26150,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666411031. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411031-5.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lustre-essence-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1162,
@@ -2437,12 +1789,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666411178. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411178-5.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/existence-edp-i00-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1163,
@@ -2452,12 +1800,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666411185. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411185-7.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/decision-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1164,
@@ -2467,12 +1811,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 30250,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666410966. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410966_1__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/jubilation-man-40",
-    "source": "Mazaya"
   },
   {
     "id": 1165,
@@ -2482,12 +1822,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666410218. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410218_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/interlude-black-iris-man-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1166,
@@ -2497,12 +1833,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Amouage Men product from Mazaya selection.",
-    "details": "SKU: 701666410348. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410348_1_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/beachhut-man-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1167,
@@ -2512,12 +1844,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5500,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Dolce & Gabbana Men product from Mazaya selection.",
-    "details": "SKU: K EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8054754403282_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/k-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1168,
@@ -2527,12 +1855,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5700,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Dolce & Gabbana Men product from Mazaya selection.",
-    "details": "SKU: K by Dolce and Gabbana Intense. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/_/k_by_dolce_and_gabbana_intense.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/k-by-dolce-and-gabbana-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1169,
@@ -2542,12 +1866,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8200,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Dolce & Gabbana Men product from Mazaya selection.",
-    "details": "SKU: 8054754401059. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8054754401059_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/devotion-edp-men-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1170,
@@ -2557,12 +1877,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 3616305040572. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305040572_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-scent-perfume-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1171,
@@ -2572,12 +1888,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7700,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 3616305480620. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305480620_2__1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/men-s-bottled-absolu-parfum-intense-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1172,
@@ -2587,12 +1899,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4600,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 3616304697371. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304697371_6jv6wqg5vws1ovw0.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-intense-eau-de-parfum-for-men-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1173,
@@ -2602,12 +1910,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 3614229823806. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614229823806.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hman-rg-edt-spry-revamp-125ml-21-iv",
-    "source": "Mazaya"
   },
   {
     "id": 1174,
@@ -2617,12 +1921,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6300,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: HUGO INTENSE EAU DE PARFUM FOR MEN. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/h/u/hugo_intense_eau_de_parfum_for_men_75_ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-intense-eau-de-parfum-for-men",
-    "source": "Mazaya"
   },
   {
     "id": 1175,
@@ -2632,12 +1932,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5000,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 737052352060. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/3/737052352060.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/boss-night",
-    "source": "Mazaya"
   },
   {
     "id": 1176,
@@ -2647,12 +1943,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7800,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: Hugo Boss Mens Perfume Bottled Elixir. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304691652_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-boss-men-s-perfume-bottled-elixir",
-    "source": "Mazaya"
   },
   {
     "id": 1177,
@@ -2662,12 +1954,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4300,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: BOSS NO 6 BOSS BOTTLE EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/boss_no_6_boss_bottle_100_ml_edt_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/boss-no-6-boss-bottle-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1178,
@@ -2677,12 +1965,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4000,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 3614229823790. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614229823790_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-man-edt-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1179,
@@ -2692,12 +1976,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8500,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 3616305040633. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/h/the_scent_elixir_parfum_intense_-100-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-scent-elixir-parfum-intense-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1180,
@@ -2707,12 +1987,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 3616305160584. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305160584.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bottled-triumph-elixir-intense-parfum100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1181,
@@ -2722,12 +1998,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: BOSS THE SCENT ELIXIR PARFUM INTENSE. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305169198-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/boss-the-scent-elixir-parfum-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1182,
@@ -2737,12 +2009,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 3616303173098. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303173098_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-boss-men-s-bottled-parfum-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1183,
@@ -2752,12 +2020,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4800,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: 3614229823875. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614229823875.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-just-different-edt-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1184,
@@ -2767,12 +2031,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6100,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: HUGO BOSS SCENT MAN EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/h/u/hugo_boss_scent_man_100ml_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-boss-scent-man-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1185,
@@ -2782,12 +2042,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5000,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Boss Men product from Mazaya selection.",
-    "details": "SKU: BOSS UN LIMITED MAN EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/boss_un_limited_man_100_ml_edt_2_3.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/boss-un-limited-man-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1186,
@@ -2797,12 +2053,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6900,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Gucci Men product from Mazaya selection.",
-    "details": "SKU: 3616305820846. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305820846.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gucci-guilty-essence",
-    "source": "Mazaya"
   },
   {
     "id": 1187,
@@ -2812,12 +2064,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10400,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Gucci Men product from Mazaya selection.",
-    "details": "SKU: 3616301794592. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616301794592.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parfum-ph-iv-edp-150-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1188,
@@ -2827,12 +2075,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6300,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Gucci Men product from Mazaya selection.",
-    "details": "SKU: 3616301794615. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616301794615_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pour-homme-edp-50ml-le-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1189,
@@ -2842,12 +2086,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Gucci Men product from Mazaya selection.",
-    "details": "SKU: 737052924922. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/3/737052924922.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gucci-guilty-eau-de-toilette-for-men-150ml",
-    "source": "Mazaya"
   },
   {
     "id": 1190,
@@ -2857,12 +2097,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7800,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Gucci Men product from Mazaya selection.",
-    "details": "SKU: 3616304175893. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304175893.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gucci-guilty-elixir-60ml",
-    "source": "Mazaya"
   },
   {
     "id": 1191,
@@ -2872,12 +2108,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6615,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: Men's Gentleman Society Ambree. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872480810_4_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/men-s-gentleman-society-ambree",
-    "source": "Mazaya"
   },
   {
     "id": 1192,
@@ -2887,12 +2119,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8105,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: L interdit Absolu EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872473683-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-interdit-absolu-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1193,
@@ -2902,12 +2130,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 12070,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872461642. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872461642.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-edp-200ml",
-    "source": "Mazaya"
   },
   {
     "id": 1194,
@@ -2917,12 +2141,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6285,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: GENTLEMAN SOSIETY EXTREME. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872467965-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-sosiety-extreme",
-    "source": "Mazaya"
   },
   {
     "id": 1195,
@@ -2932,12 +2152,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7940,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872441033. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872441033-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-relift",
-    "source": "Mazaya"
   },
   {
     "id": 1196,
@@ -2947,12 +2163,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7940,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872441057. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/i/givenchy_gentleman_boisee_eau_de_parfum_spray_200_ml_3274872451698_236304_20230403010057_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-edp-boise-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1197,
@@ -2962,12 +2174,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8535,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872448780. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/z/ezgif.com-webp-to-jpg_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-society-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1198,
@@ -2977,12 +2185,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7940,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872439078. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/0/00217602-3-1000x1000.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-reserve-privee-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1199,
@@ -2992,12 +2196,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6615,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872395503. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872395503_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pi-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1200,
@@ -3007,12 +2207,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9700,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872396197. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872396197_osc2etmlasyg3kru.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/aod-edp-vapo-100ml-r1",
-    "source": "Mazaya"
   },
   {
     "id": 1201,
@@ -3022,12 +2218,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 12675,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872462687. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872462687.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-society-edp-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1202,
@@ -3037,12 +2229,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5595,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872424982. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872424982.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-black",
-    "source": "Mazaya"
   },
   {
     "id": 1203,
@@ -3052,12 +2240,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4850,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872424999. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/gentleman",
-    "source": "Mazaya"
   },
   {
     "id": 1204,
@@ -3067,12 +2251,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5955,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872425002. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872425002-_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-boisee-60-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1205,
@@ -3082,12 +2262,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6615,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872428829. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872428829-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/xeryus-rouge-new-mythical",
-    "source": "Mazaya"
   },
   {
     "id": 1206,
@@ -3097,12 +2273,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6285,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872448773. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872448773_5_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gs-23",
-    "source": "Mazaya"
   },
   {
     "id": 1207,
@@ -3112,12 +2284,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5955,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: 3274872439061. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/i/givenchy-gentleman-givenchy-gentleman-reserve-privee-eau-de-parfum-60-ml-3274872439061.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gentleman-reserve-privee-eau-de-parfum-60-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1208,
@@ -3127,12 +2295,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6945,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Givenchy Men product from Mazaya selection.",
-    "details": "SKU: Givenchy Men's Gentleman Intense EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/1/31sooq3gopl._ac_sy450__2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/givenchy-men-s-gentleman-intense-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1209,
@@ -3142,12 +2306,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6200,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061106303. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061106303_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bad-boy-elixir-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1210,
@@ -3157,12 +2317,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6300,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061093849. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061093849.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/212amber-sky-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1211,
@@ -3172,12 +2328,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8700,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061106297. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061106297_11_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bad-boy-elixir-for-him-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1212,
@@ -3187,12 +2339,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 212 VIP MEN BLACK EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061105009_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/212-vip-men-black-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1213,
@@ -3202,12 +2350,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061085523. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061085523.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/birds-of-paradise-100-ml-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1214,
@@ -3217,12 +2361,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5300,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061723760. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061723760.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/212-vip-men-edt-100ml-repack",
-    "source": "Mazaya"
   },
   {
     "id": 1215,
@@ -3232,12 +2372,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6000,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061782347. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061782347-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/212-vip-man-200ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1216,
@@ -3247,12 +2383,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6900,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061093818. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061093818-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/212-vip-black-edp-le-24-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1217,
@@ -3262,12 +2394,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9300,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061083772. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061083772_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bad-boy-cobalt-elixir-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1218,
@@ -3277,12 +2405,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6600,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061991886. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061991886_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bad-boy-le-parfum-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1219,
@@ -3292,12 +2416,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: 8411061027837. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061027837_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bad-boy-cobalt-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1220,
@@ -3307,12 +2427,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6800,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Carolina Herrera Men product from Mazaya selection.",
-    "details": "SKU: CH MAN EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/h/ch_man_200_ml_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ch-man-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1221,
@@ -3322,12 +2438,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20200,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Marly Men product from Mazaya selection.",
-    "details": "SKU: 3700578502919. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700578502919_4_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/perseus-edp-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1222,
@@ -3337,12 +2449,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20350,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Marly Men product from Mazaya selection.",
-    "details": "SKU: 3700578502360. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700578502360.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pegasus-edp-125mi",
-    "source": "Mazaya"
   },
   {
     "id": 1223,
@@ -3352,12 +2460,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 23850,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Marly Men product from Mazaya selection.",
-    "details": "SKU: 3700578503305. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700578503305_1_4_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/haltane-125ml-edp-spray",
-    "source": "Mazaya"
   },
   {
     "id": 1224,
@@ -3367,12 +2471,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20200,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Marly Men product from Mazaya selection.",
-    "details": "SKU: 3700578502322. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700578502322.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/layton-edp-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1225,
@@ -3382,12 +2482,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20350,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Marly Men product from Mazaya selection.",
-    "details": "SKU: 3700578502353. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700578502353.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/herod-edp-125mi",
-    "source": "Mazaya"
   },
   {
     "id": 1226,
@@ -3397,12 +2493,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20350,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Marly Men product from Mazaya selection.",
-    "details": "SKU: 3700578502315. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/0/20_250.00.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/percival-edp-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1227,
@@ -3412,12 +2504,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20350,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Marly Men product from Mazaya selection.",
-    "details": "SKU: 3700578504364. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/d/pdm_althair-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marly-althair-edp-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1228,
@@ -3427,12 +2515,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 24050,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Marly Men product from Mazaya selection.",
-    "details": "SKU: 3700578502209. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/d/pdm_pegasus_exclusif-1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marly-pegasus-exclusif-edp-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1229,
@@ -3442,12 +2526,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 24150,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Marly Men product from Mazaya selection.",
-    "details": "SKU: 3700578502223. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/d/pdm_layton_exclusif-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marly-layton-exclusif-edp-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1230,
@@ -3457,12 +2537,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5350,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: 3616305616128. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5070761686.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/eternity-amber-essence-parfum-intense-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1231,
@@ -3472,12 +2548,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4675,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: 088300605514. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/k/ck_eternity_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/eternity-man-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1232,
@@ -3487,12 +2559,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5740,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: CK Defy EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/calvin_klein_defy_edp_100ml-visual_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ck-defy-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1233,
@@ -3502,12 +2570,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4850,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: Calvin Klein Ck Defy. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/calvin-klein-ck-defy-eau-de-toilette-100-ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/calvin-klein-ck-defy123455-html11",
-    "source": "Mazaya"
   },
   {
     "id": 1234,
@@ -3517,12 +2581,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3760,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: Calvin Klein euphoria men Eau de Toilette Spray. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/1/71dpp7fyvtl._sl1500__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/calvin-klein-euphoria-intense-for-men-eau-de-toilette123455-html11",
-    "source": "Mazaya"
   },
   {
     "id": 1235,
@@ -3532,12 +2592,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4750,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: CK ONE EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/k/ck_one_edt_100_ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ck-one-edt11",
-    "source": "Mazaya"
   },
   {
     "id": 1236,
@@ -3547,12 +2603,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3290,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: 088300196890. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/088300196890.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/in-2-u-edt-100-ml-men",
-    "source": "Mazaya"
   },
   {
     "id": 1237,
@@ -3562,12 +2614,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4015,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: DEFY Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304175978_3.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/defy-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1238,
@@ -3577,12 +2625,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3760,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: Everyone EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616301781172_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/everyone-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1239,
@@ -3592,12 +2636,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4840,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: 3616303549763. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/a/vadqj_sq1_0000000036_gold_slf.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ck-eternity-for-men-parfum-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1240,
@@ -3607,12 +2647,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4050,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: Calvin Klein Eternity for Men - Eau de Toilette. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/calvin-klein-eternity-edt__27069.1526408168_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/calvin-klein-eternity-for-men-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 1241,
@@ -3622,12 +2658,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3265,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: Calvin Klein Man Eau de Toilette. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/calvin_klein_man_2_2_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/calvin-klein-man-eau-de-toilette123455-html11",
-    "source": "Mazaya"
   },
   {
     "id": 1242,
@@ -3637,12 +2669,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3665,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Calvin Klein Men product from Mazaya selection.",
-    "details": "SKU: Calvin Klein CK Be Unisex Eau de Toilette Spray/Pour. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/k/ck_ck_be_edt_spray_200_6.7oz.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ck-ck-be-edt-spray11",
-    "source": "Mazaya"
   },
   {
     "id": 1243,
@@ -3652,12 +2680,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8250,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "The merchant of Venice Men product from Mazaya selection.",
-    "details": "SKU: 679602491150. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602491150.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/venetian-blue-blu-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1244,
@@ -3667,12 +2691,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8250,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "The merchant of Venice Men product from Mazaya selection.",
-    "details": "SKU: 679602491044. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602491044-1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ottoman-amber-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1245,
@@ -3682,12 +2702,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 11750,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "The merchant of Venice Men product from Mazaya selection.",
-    "details": "SKU: 679602411127. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602411127.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nobilhomo-gold-regatta-edpv-100-ml-new",
-    "source": "Mazaya"
   },
   {
     "id": 1246,
@@ -3697,12 +2713,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8250,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "The merchant of Venice Men product from Mazaya selection.",
-    "details": "SKU: 679602004916. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602004916.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nobilhomo-damascus-desert-viola-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1247,
@@ -3712,12 +2724,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9800,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Michael Cinco Men product from Mazaya selection.",
-    "details": "SKU: 3770032647104. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/4/m4-1-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/michael-cinco-m4-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1248,
@@ -3727,12 +2735,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 13050,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Juliette has a gun Men product from Mazaya selection.",
-    "details": "SKU: 3760022731326. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760022731326.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/in-the-mood-for-oud-75ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1249,
@@ -3742,12 +2746,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 13050,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Juliette has a gun Men product from Mazaya selection.",
-    "details": "SKU: 3760022730770. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760022730770.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/liquid-illusion-edp-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1250,
@@ -3757,12 +2757,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Juliette has a gun Men product from Mazaya selection.",
-    "details": "SKU: 3760022733924. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/j/h/jhag_ode-to-dullness_100ml_06c.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ode-to-dullness-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1251,
@@ -3772,12 +2768,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 14150,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Juliette has a gun Men product from Mazaya selection.",
-    "details": "SKU: 3760022730381. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/metal_chypre-face_cmjn_d_tour_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/metal-chypre-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1252,
@@ -3787,12 +2779,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458603323. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458603323.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lalibela-75ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1253,
@@ -3802,12 +2790,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 14150,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458602982. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458611359_1nnnn.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/edp-irish-leather-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1254,
@@ -3817,12 +2801,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 30700,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458604542. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/2/523224586-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marfa-edp-200ml",
-    "source": "Mazaya"
   },
   {
     "id": 1255,
@@ -3832,12 +2812,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 31350,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458604375. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/cardamom_geranium_leather_accord_rose_essence.-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/african-leather-rose",
-    "source": "Mazaya"
   },
   {
     "id": 1256,
@@ -3847,12 +2823,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458602487. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458602487.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/edp-sicilian-leather-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1257,
@@ -3862,12 +2834,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458602524. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458602524.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/corfu-edp-75mi",
-    "source": "Mazaya"
   },
   {
     "id": 1258,
@@ -3877,12 +2845,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458604610. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458604610.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sherwood-edp-75mi",
-    "source": "Mazaya"
   },
   {
     "id": 1259,
@@ -3892,12 +2856,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 31350,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458603064. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458603064-removebg-preview_2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marla-spices-edp-75mi",
-    "source": "Mazaya"
   },
   {
     "id": 1260,
@@ -3907,12 +2867,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 31350,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458604382. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458604382-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lalibela-oud-edp-75mi",
-    "source": "Mazaya"
   },
   {
     "id": 1261,
@@ -3922,12 +2878,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458602999. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/mem012_memoparis_african-leather_1560x1960-sjfo3_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/memo-edp-african-leather-75ml12344-1",
-    "source": "Mazaya"
   },
   {
     "id": 1262,
@@ -3937,12 +2889,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458618938. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/p/up3700458618938.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/memo-edp-jannat-75ml12344",
-    "source": "Mazaya"
   },
   {
     "id": 1263,
@@ -3952,12 +2900,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458603040. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458603040_ue6ypybb41mr8ixd.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/edp-italian-leather-75ml-new",
-    "source": "Mazaya"
   },
   {
     "id": 1264,
@@ -3967,12 +2911,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4410,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458616804. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/l/blue-plain-leather-travel-case-569_900x-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/memo-travel-case-blue-plain-leath12344",
-    "source": "Mazaya"
   },
   {
     "id": 1265,
@@ -3982,12 +2922,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Memo Men product from Mazaya selection.",
-    "details": "SKU: 3700458618594. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/memmem031_memoparis_moroccanleather_1560x1960-fbhf4jpg.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/memo-edp-moroccan-leather-75ml12344",
-    "source": "Mazaya"
   },
   {
     "id": 1266,
@@ -3997,12 +2933,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6460,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124042768. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124042768_ekrzqpcp4zqfcoic.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/essence-of-casablanca-1404-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1267,
@@ -4012,12 +2944,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6460,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124042799. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124042799_4_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spirit-of-valencia-1404-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1268,
@@ -4027,12 +2955,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6460,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124042782. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124042782_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/passion-of-venice-1404-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1269,
@@ -4042,12 +2966,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6965,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124036835. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124036835_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/oud74-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1270,
@@ -4057,12 +2977,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6965,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124041006. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041006.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/musk74-poudre-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1271,
@@ -4072,12 +2988,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6965,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124037931. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124037931_4_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rose01-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1272,
@@ -4087,12 +2999,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6965,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124036804. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124036804_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/musk07-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1273,
@@ -4102,12 +3010,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4750,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124031250. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124031250_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gharaam-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1274,
@@ -4117,12 +3021,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4970,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124041266. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041266_5_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/shaghaf-oud-azraq-985-75ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1275,
@@ -4132,12 +3032,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3720,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Swiss Arabian Men product from Mazaya selection.",
-    "details": "SKU: 6295124024290. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/w/swiss_casablanca.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/casablanca-1043-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1276,
@@ -4147,12 +3043,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Parour Men product from Mazaya selection.",
-    "details": "SKU: 679602331104. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602331104.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sport-eau-de-toilette-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1277,
@@ -4162,12 +3054,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 845,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Parour Men product from Mazaya selection.",
-    "details": "SKU: PAROUR LOMANI XXX EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/o/lomani-xxx_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parour-lomani-xxx-edt123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1278,
@@ -4177,12 +3065,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1110,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Parour Men product from Mazaya selection.",
-    "details": "SKU: 3610400000912. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3610400000912_upyyjhfswl8rb8dd.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vizzari-men-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1279,
@@ -4192,12 +3076,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 835,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Parour Men product from Mazaya selection.",
-    "details": "SKU: PAROUR Lomani Only Blue EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/1/61vrlfnopll._sl1000__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parour-lomani-only-blue-edt123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1280,
@@ -4207,12 +3087,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 845,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Parour Men product from Mazaya selection.",
-    "details": "SKU: PAROUR LOMANI WHY NOT EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/e/res_68233b490a7007db791b8bfff9866988_full_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parour-lomani-why-not-edt123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1281,
@@ -4222,12 +3098,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6710,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: 3432240506306. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240506306_w4saxpdmukrmismy.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pasha-de-cartier-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1282,
@@ -4237,12 +3109,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6710,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: Pasha De Cartier Ed. Noir Sport EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240506207_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pasha-de-cartier-ed-noir-sport-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1283,
@@ -4252,12 +3120,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8215,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: 3432240501875. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240501875.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/declaration-parfum-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1284,
@@ -4267,12 +3131,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6535,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: PASHA DE CARTIER. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/9/e/9e0114d5-e4e1-4aea-b98f-63fdf46f8989_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pasha-de-cartier",
-    "source": "Mazaya"
   },
   {
     "id": 1285,
@@ -4282,12 +3142,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5560,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: 3432240506276. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240506276_ydclumi8gqcbzaoi.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pasha-de-cartier-parfum-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1286,
@@ -4297,12 +3153,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7740,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: 3432240501141. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240501141_xcrdqmo3jmt7oj3i.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-envol-edp-r-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1287,
@@ -4312,12 +3164,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6535,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: 3432240029263. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240029263_ppdsz2rnv5o6c6oh.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/declaration-d-un-soir-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1288,
@@ -4327,12 +3175,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2580,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: 3432240005908. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240005908_zjhv7d8cd0agv0jv.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/eau-de-cartier-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1289,
@@ -4342,12 +3186,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2785,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: 3432240500403. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240029263.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/declaration-d-un-soir-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1290,
@@ -4357,12 +3197,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5890,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: L Envol EDT Noir. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240501455_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-envol-edt-noir",
-    "source": "Mazaya"
   },
   {
     "id": 1291,
@@ -4372,12 +3208,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8560,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: 3432240507129. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240507129.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pasha-de-cartier-noir-absolu-parfum-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1292,
@@ -4387,12 +3219,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6535,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Cartier Men product from Mazaya selection.",
-    "details": "SKU: 3432240502131. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240502131.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/declaration-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1293,
@@ -4402,12 +3230,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5300,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Michael Kors Men product from Mazaya selection.",
-    "details": "SKU: POUR HOMME EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/o/pour_homme_edp_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pour-homme-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1294,
@@ -4417,12 +3241,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5700,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Michael Kors Men product from Mazaya selection.",
-    "details": "SKU: POUR FEMME EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/o/pour_femme_edp_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pour-femme-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1295,
@@ -4432,12 +3252,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "ExNihilo Men product from Mazaya selection.",
-    "details": "SKU: 3760264096702. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264096702.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vesper-glitz-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1296,
@@ -4447,12 +3263,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "ExNihilo Men product from Mazaya selection.",
-    "details": "SKU: 3760264095309. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264095309.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/santal-calling-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1297,
@@ -4462,12 +3274,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "ExNihilo Men product from Mazaya selection.",
-    "details": "SKU: EXPLICITE. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264093251_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/explicite",
-    "source": "Mazaya"
   },
   {
     "id": 1298,
@@ -4477,12 +3285,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "ExNihilo Men product from Mazaya selection.",
-    "details": "SKU: BLUE TALISMAN. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264097440_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/blue-talisman",
-    "source": "Mazaya"
   },
   {
     "id": 1299,
@@ -4492,12 +3296,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 24850,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "ExNihilo Men product from Mazaya selection.",
-    "details": "SKU: 3760264092193. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264092193.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/atlas-fever-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1300,
@@ -4507,12 +3307,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 25100,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "ExNihilo Men product from Mazaya selection.",
-    "details": "SKU: 3760264092162. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264092162.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/amber-sky-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1301,
@@ -4522,12 +3318,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "ExNihilo Men product from Mazaya selection.",
-    "details": "SKU: GOLD IMMORTALS. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264093565_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gold-immortals",
-    "source": "Mazaya"
   },
   {
     "id": 1302,
@@ -4537,12 +3329,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "ExNihilo Men product from Mazaya selection.",
-    "details": "SKU: 3760264094166. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264094166_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-hedonist-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1303,
@@ -4552,12 +3340,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4840,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: 3595471061171. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471061171-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/intense-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1304,
@@ -4567,12 +3351,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5170,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: 3595471024787. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471024787--.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/intense-by-mercedes-benz-edt-spray",
-    "source": "Mazaya"
   },
   {
     "id": 1305,
@@ -4582,12 +3362,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5610,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: 3595471022967. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471022967-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ultimate-by-mercedes-benz-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1306,
@@ -4597,12 +3373,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4950,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: 3595471028334. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471028334.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sign-your-power-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1307,
@@ -4612,12 +3384,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6380,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: 3595471095367. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471095367-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/amg-red-thrill-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1308,
@@ -4627,12 +3395,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6380,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: 3595471095329. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471095329_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/amg-silver-thrill-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1309,
@@ -4642,12 +3406,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6380,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: 3595471095282. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471095282-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/amg-black-thrill-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1310,
@@ -4657,12 +3417,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4840,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: 3595471111012. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471111012.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sign-eau-de-perfume-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1311,
@@ -4672,12 +3428,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5060,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: Mercedes Benz Select Night. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/mercedes-benz-mercedes-benz-select-night-100ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mercedes-benz-select-night123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1312,
@@ -4687,12 +3439,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5280,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: Mercedes Benz for Men - Eau de Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471061096_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mercedes-benz-for-men-eau-de-parfum123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1313,
@@ -4702,12 +3450,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4620,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: MERCEDES-BENZ MAN EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/mercedes-benz_man_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mercedes-benz-man-edt123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1314,
@@ -4717,12 +3461,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4950,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: Mercedes Benz Club BLACK EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471041197_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mercedes-benz-club-black-men-edt123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1315,
@@ -4732,12 +3472,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4290,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: Mercedes Benz The Move by Mercedes Benz Eau De Toilette Spray. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471091017_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mercedes-benz-the-move-by-mercedes-benz-eau-de-toilette-spray123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1316,
@@ -4747,12 +3483,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4230,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: MERCEDES-BENZ FOR MEN INTENSE EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/mercedes-benz_for_men_intense_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mercedes-benz-for-men-intense-edt123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1317,
@@ -4762,12 +3494,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4840,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Mercedes Benz Men product from Mazaya selection.",
-    "details": "SKU: MERCEDES-BENZ FOR MEN EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/mercedes-benz_for_men_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mercedes-benz-for-men-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1318,
@@ -4777,12 +3505,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8140,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Chopard Men product from Mazaya selection.",
-    "details": "SKU: 7640177360656. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/malaki_cedar_edp_80ml_-_pic1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/malaki-cedar-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1319,
@@ -4792,12 +3516,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8140,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Chopard Men product from Mazaya selection.",
-    "details": "SKU: 7640177361127. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/6/7640177361127.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/leather-malaki-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1320,
@@ -4807,12 +3527,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9075,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Chopard Men product from Mazaya selection.",
-    "details": "SKU: 7640177360083. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/malaki_oud_edp_80ml_-_pic1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/malaki-oud-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1321,
@@ -4822,12 +3538,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8140,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Chopard Men product from Mazaya selection.",
-    "details": "SKU: 7640177360366. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/malaki_black_incense_edp_80ml_-_pic1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/malaki-black-incense-edp234",
-    "source": "Mazaya"
   },
   {
     "id": 1322,
@@ -4837,12 +3549,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833276. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833276-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extrait-de-perfume-insignia-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1323,
@@ -4852,12 +3560,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21550,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833696. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833696.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extract-de-perfume-the-hope-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1324,
@@ -4867,12 +3571,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 19000,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 724120146928. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/2/724120146928.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/soml-extract-de-perfume-sceptre",
-    "source": "Mazaya"
   },
   {
     "id": 1325,
@@ -4882,12 +3582,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 18150,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833566. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833566.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/soml-extract-de-perfume-red-cullinan-dimaond",
-    "source": "Mazaya"
   },
   {
     "id": 1326,
@@ -4897,12 +3593,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21550,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833702. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833702.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extract-de-perfume-peacock-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1327,
@@ -4912,12 +3604,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 25200,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833719. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833719.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extract-de-perfume-nooroloain-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1328,
@@ -4927,12 +3615,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833658. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833658.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fanfare-cologne-euxir",
-    "source": "Mazaya"
   },
   {
     "id": 1329,
@@ -4942,12 +3626,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833337. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833337.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/discovery-set-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1330,
@@ -4957,12 +3637,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 31350,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833320. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833320.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/perfume-treasure-collection",
-    "source": "Mazaya"
   },
   {
     "id": 1331,
@@ -4972,12 +3648,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 15400,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833115. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833115.webp.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sovereign-collection-box-4in1",
-    "source": "Mazaya"
   },
   {
     "id": 1332,
@@ -4987,12 +3659,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833924. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833924-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/chords-100mi-cologne-elixir",
-    "source": "Mazaya"
   },
   {
     "id": 1333,
@@ -5002,12 +3670,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21550,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905832484. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905832484.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extract-de-perfume-amber-room-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1334,
@@ -5017,12 +3681,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833856. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833856.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bravi-100ml-cologne-elixir",
-    "source": "Mazaya"
   },
   {
     "id": 1335,
@@ -5032,12 +3692,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833795. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/n/untitledrrrr_111_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bohemian-infusion-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1336,
@@ -5047,12 +3703,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 724120146959. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/2/724120146959.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/royal-sapphire-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1337,
@@ -5062,12 +3714,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 19000,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 724120146904. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/imperial_crown_50_mlr.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/imperial-crown",
-    "source": "Mazaya"
   },
   {
     "id": 1338,
@@ -5077,12 +3725,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21550,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905832491. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905832491.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-cora-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1339,
@@ -5092,12 +3736,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 22200,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 724120147062. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/n/untitledrrr-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/riviere-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1340,
@@ -5107,12 +3747,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 28500,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905832460. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/e/regent_leather_100_ml-r.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/regent-leather-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1341,
@@ -5122,12 +3758,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 22200,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905832569. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/a/patiala_100_mlr.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/patiala-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1342,
@@ -5137,12 +3769,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20900,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905832507. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/r/green_pearl_100_mlrrr.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/green-pearl-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1343,
@@ -5152,12 +3780,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 22550,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 724120147079. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/2/724120147079-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/carved-oud-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1344,
@@ -5167,12 +3791,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 22200,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905833689. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/l/blue_heart_100ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/blue-heart-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1345,
@@ -5182,12 +3802,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 724120146911. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/2/724120146911_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/soml-extract-de-perfume-diadem",
-    "source": "Mazaya"
   },
   {
     "id": 1346,
@@ -5197,12 +3813,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21900,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Thameen Men product from Mazaya selection.",
-    "details": "SKU: 5060905832477. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/e/peregrina_100_mlr.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/peregrina-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1347,
@@ -5212,12 +3824,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1065,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124043406. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124043406.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/maison-de-luxe-1600-100ml-edp-sap",
-    "source": "Mazaya"
   },
   {
     "id": 1348,
@@ -5227,12 +3835,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 935,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124027932. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124027932.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/solid-oud-917-100ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1349,
@@ -5242,12 +3846,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 935,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124020148. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124020148.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/solid-black-917-100ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1350,
@@ -5257,12 +3857,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 825,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124030369. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124030369.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rave1172-100ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1351,
@@ -5272,12 +3868,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124039553. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039553.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/qamar-1192-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1352,
@@ -5287,12 +3879,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124039515. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039515.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/oud-al-lail-1190-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1353,
@@ -5302,12 +3890,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124039508. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039508.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/oud-al-hayat-1190-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1354,
@@ -5317,12 +3901,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1090,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124041136. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041136.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ode-1194-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1355,
@@ -5332,12 +3912,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 825,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124002168. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124002168.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nice-feelings350u-75ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1356,
@@ -5347,12 +3923,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1090,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124041129. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041129.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/legend-1196-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1357,
@@ -5362,12 +3934,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124039546. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039546.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/laheeb-1192-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1358,
@@ -5377,12 +3945,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1040,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124039614. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039614.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/intense-noir1166-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1359,
@@ -5392,12 +3956,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 825,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124023675. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124023675.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/disclosure-white347-100ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1360,
@@ -5407,12 +3967,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 825,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124003059. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124003059.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/disclosure347u-100ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1361,
@@ -5422,12 +3978,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124039522. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039522.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/albi-694-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1362,
@@ -5437,12 +3989,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1065,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124043383. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124043383.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/maison-de-bois-1600-100ml-edp-sap",
-    "source": "Mazaya"
   },
   {
     "id": 1363,
@@ -5452,12 +4000,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 935,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124001611. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124001611.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/solid-917u-100ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1364,
@@ -5467,12 +4011,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 825,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124000690. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124000690.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nice-feelings-black-350u-75ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1365,
@@ -5482,12 +4022,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1040,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124030307. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124030307.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/intense1166-100ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1366,
@@ -5497,12 +4033,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1040,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Sapil Men product from Mazaya selection.",
-    "details": "SKU: 6295124030246. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124030246.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bound1168-100ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1367,
@@ -5512,12 +4044,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17000,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: 8054320900900. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8054320900900.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kemi-50ml-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1368,
@@ -5527,12 +4055,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 25850,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: XXY Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-xxy-parfum-100ml-flacon-photoroom.png-photoroom_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/xxy-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1369,
@@ -5542,12 +4066,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 24850,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: Symphonium Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-symphonium-parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/symphonium-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1370,
@@ -5557,12 +4077,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 25850,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: Homme Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-homme-parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/homme-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1371,
@@ -5572,12 +4088,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 11100,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: Accento EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-accento-eau_de_parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/accento-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1372,
@@ -5587,12 +4099,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 14350,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: 8054320900849. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8054320900849.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/luna-50mi-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1373,
@@ -5602,12 +4110,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 22250,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: 8054320900733. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8054320900733_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hayat-100mi-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1374,
@@ -5617,12 +4121,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 12350,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: 8033488158842. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-opera-eau_de_parfum-100ml-flacon_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/opera-edp-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1375,
@@ -5632,12 +4132,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 11100,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: Soprano EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/o/soprano_edp.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/soprano-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1376,
@@ -5647,12 +4143,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 11800,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: 8054320900276. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/img_8879.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/jtc-join-the-club-400-edp-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1377,
@@ -5662,12 +4154,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 19300,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Xerjoff Men product from Mazaya selection.",
-    "details": "SKU: 8033488156367. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-opera-eau_de_parfum-100ml-flacon.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/opera-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1378,
@@ -5677,12 +4165,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Orto Paris Men product from Mazaya selection.",
-    "details": "SKU: 8717774840832. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/k/kkkk.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/brutus-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1379,
@@ -5692,12 +4176,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Orto Paris Men product from Mazaya selection.",
-    "details": "SKU: 8717774840849. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/7/8717774840849.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/boccanera-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1380,
@@ -5707,12 +4187,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Orto Paris Men product from Mazaya selection.",
-    "details": "SKU: 8717774840818. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/7/8717774840818_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/stercus-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1381,
@@ -5722,12 +4198,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Orto Paris Men product from Mazaya selection.",
-    "details": "SKU: 8717774840825. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/7/8717774840825-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/viride-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1382,
@@ -5737,12 +4209,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Orto Paris Men product from Mazaya selection.",
-    "details": "SKU: 8717774840856. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/7/8717774840856_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/seminalis-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1383,
@@ -5752,12 +4220,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Orto Paris Men product from Mazaya selection.",
-    "details": "SKU: 8717774840887. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/7/8717774840887.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cuoium-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1384,
@@ -5767,12 +4231,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 960,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102032076. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/w/i/wilddeep_1100x.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wild-deep-edp-115ml",
-    "source": "Mazaya"
   },
   {
     "id": 1385,
@@ -5782,12 +4242,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102030584. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102030584_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/maleficent-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1386,
@@ -5797,12 +4253,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1140,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102032014. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102032014_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wow-oud-53-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1387,
@@ -5812,12 +4264,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1155,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102023883. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/a/baugsons_leave_your_fears_behind_edp_100ml.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/baugsons-leave-your-fears-behind-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1388,
@@ -5827,12 +4275,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102031758. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102031758_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/scudo-electrique-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1389,
@@ -5842,12 +4286,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1140,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102032069. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102032069_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fabulicious-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1390,
@@ -5857,12 +4297,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102029700. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102029700.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/late-night-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1391,
@@ -5872,12 +4308,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102030614. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102030614_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/murano-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1392,
@@ -5887,12 +4319,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 745,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6390902027934. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/3/6390902027934_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kingdom-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1393,
@@ -5902,12 +4330,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 955,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102030621. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102030621_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rhapsody-edp-85ml",
-    "source": "Mazaya"
   },
   {
     "id": 1394,
@@ -5917,12 +4341,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102030577. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102030577_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/dark-scudo-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1395,
@@ -5932,12 +4352,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102031697. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102031697_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rider-blue-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1396,
@@ -5947,12 +4363,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102032458. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102032458_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/evoque-men-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1397,
@@ -5962,12 +4374,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 960,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102030560. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102030560_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-eternal-club-edp-200ml",
-    "source": "Mazaya"
   },
   {
     "id": 1398,
@@ -5977,12 +4385,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 805,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6390902028016. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/3/6390902028016_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sensitive-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1399,
@@ -5992,12 +4396,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 960,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102031918. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102031918_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/conquer-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1400,
@@ -6007,12 +4407,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 955,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: 6290102030607. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102030607_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/titanium-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1401,
@@ -6022,12 +4418,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1395,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "My Perfume Men product from Mazaya selection.",
-    "details": "SKU: Bougsons My Perfumes BIZARRE Edp. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/i/bizarre-380pixcel_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bougsons-my-perfumes-bizarre-edp123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1402,
@@ -6037,12 +4429,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8500,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Issey Miyake Men product from Mazaya selection.",
-    "details": "SKU: 3423470485448. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423470485448.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-eau-d-issey-men-edt-200ml",
-    "source": "Mazaya"
   },
   {
     "id": 1403,
@@ -6052,12 +4440,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6500,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Issey Miyake Men product from Mazaya selection.",
-    "details": "SKU: 3423222010133. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/z/ezgif-4-506dbad4d4.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fusion-d-issey-extreme-edt-spray-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1404,
@@ -6067,12 +4451,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Issey Miyake Men product from Mazaya selection.",
-    "details": "SKU: Nuit Homme Eau de Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/s/issey_miyake_nuit_homme_edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/issey-miyake-nuit-homme-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1405,
@@ -6082,12 +4462,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6500,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Issey Miyake Men product from Mazaya selection.",
-    "details": "SKU: 3423470311365. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423470311365.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/leau-dissey-man-125ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1406,
@@ -6097,12 +4473,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3300,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Issey Miyake Men product from Mazaya selection.",
-    "details": "SKU: 3423222090715. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222090715-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/im-eh-edm-23",
-    "source": "Mazaya"
   },
   {
     "id": 1407,
@@ -6112,12 +4484,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3800,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Issey Miyake Men product from Mazaya selection.",
-    "details": "SKU: Issey Miyake Fusion D`Issey. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423478974654-.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/issey-miyake-fusion-d-issey",
-    "source": "Mazaya"
   },
   {
     "id": 1408,
@@ -6127,12 +4495,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5800,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Issey Miyake Men product from Mazaya selection.",
-    "details": "SKU: 3423478509351. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423478509351.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-eau-d-issey-wood-wood-intense-for-men-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1409,
@@ -6142,12 +4506,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4200,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Issey Miyake Men product from Mazaya selection.",
-    "details": "SKU: 3423222090722. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222090722_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-eau-d-issey-for-men-vetiver-intense-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1410,
@@ -6157,12 +4517,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Nasomatto Men product from Mazaya selection.",
-    "details": "SKU: 8717774840580. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/a/sadonaso.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sadonaso-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1411,
@@ -6172,12 +4528,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Nasomatto Men product from Mazaya selection.",
-    "details": "SKU: 8717774840344. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_fantomas2_8717774840344_na044.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fantomas-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1412,
@@ -6187,12 +4539,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Nasomatto Men product from Mazaya selection.",
-    "details": "SKU: 8717774840337. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_nudiflorum2_8717774840337_na0042.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nudiflorum-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1413,
@@ -6202,12 +4550,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Nasomatto Men product from Mazaya selection.",
-    "details": "SKU: 8717774840290. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_pardon2_8717774840290_na0019.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pardon-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1414,
@@ -6217,12 +4561,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Nasomatto Men product from Mazaya selection.",
-    "details": "SKU: 8717774840061. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_blackafgano2_8717774840061_na0017.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/black-afgano-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1415,
@@ -6232,12 +4572,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Nasomatto Men product from Mazaya selection.",
-    "details": "SKU: 8717774840047. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_absinth2_8717774840047_na0015.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/absinth-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1416,
@@ -6247,12 +4583,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Nasomatto Men product from Mazaya selection.",
-    "details": "SKU: 8717774840023. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_silvermusk2_8717774840023_na0013.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/silver-musk-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1417,
@@ -6262,12 +4594,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Nasomatto Men product from Mazaya selection.",
-    "details": "SKU: 8717774840009. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_duro2_8717774840009_na0011.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/duro-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1418,
@@ -6277,12 +4605,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Nasomatto Men product from Mazaya selection.",
-    "details": "SKU: 8717774840313. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_blamage2_8717774840313_na0020.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/blamage-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1419,
@@ -6292,12 +4616,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2772.5,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Davidoff Men product from Mazaya selection.",
-    "details": "SKU: 3616302038381. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616302038381-.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cool-water-reporn-man-edt-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1420,
@@ -6307,12 +4627,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5500,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Davidoff Men product from Mazaya selection.",
-    "details": "SKU: 3614228174275. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614228174275_.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cw-men-intense-edp-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1421,
@@ -6322,12 +4638,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2190,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Davidoff Men product from Mazaya selection.",
-    "details": "SKU: 3414200204415. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3414200204415-.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/adventure-man-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1422,
@@ -6337,12 +4649,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2530,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Davidoff Men product from Mazaya selection.",
-    "details": "SKU: DAVIDOFF CHAMPION MAN. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/a/davidoff_champion_man_50_ml_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/davidoff-champion-man",
-    "source": "Mazaya"
   },
   {
     "id": 1423,
@@ -6352,12 +4660,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3245,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Davidoff Men product from Mazaya selection.",
-    "details": "SKU: 3614223379934. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614223379934.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cool-water-wave-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 1424,
@@ -6367,12 +4671,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4015,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Davidoff Men product from Mazaya selection.",
-    "details": "SKU: 3614228174237. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614228174237.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cool-water-intense-for-men-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1425,
@@ -6382,12 +4682,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 1865,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Davidoff Men product from Mazaya selection.",
-    "details": "SKU: DAVIDOFF HOT WATER MAN. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/a/davidoff_hot_water_man.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/davidoff-hot-water-man",
-    "source": "Mazaya"
   },
   {
     "id": 1426,
@@ -6397,12 +4693,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3070,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Davidoff Men product from Mazaya selection.",
-    "details": "SKU: DaviDoff Horizon EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/a/davidoff_horizon_edt_125ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/davidoff-horizon-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1427,
@@ -6412,12 +4704,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2950,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Cristiano Ronaldo Men product from Mazaya selection.",
-    "details": "SKU: ORIGINS EAU DE TOILETTE 100ML. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/r/cristiano_ronaldo_origins-1_2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/origins-eau-de-toilette-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1428,
@@ -6427,12 +4715,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3950,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Cristiano Ronaldo Men product from Mazaya selection.",
-    "details": "SKU: 5060524510909. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/r/cr7-_game_on-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/game-on-eau-de-toilette-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1429,
@@ -6442,12 +4726,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3950,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Cristiano Ronaldo Men product from Mazaya selection.",
-    "details": "SKU: 5060524510749. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/r/cr7-_play_it_cool-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/play-it-cool-eau-de-toilette-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1430,
@@ -6457,12 +4737,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3950,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Cristiano Ronaldo Men product from Mazaya selection.",
-    "details": "SKU: 5060524510008. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/r/cristiano_cr7_50m_edt_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cristiano-cr7-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1431,
@@ -6472,12 +4748,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20550,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Initio Men product from Mazaya selection.",
-    "details": "SKU: 3701415901452. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/n/initio_rehab-1_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rehab-extrait-de-parfum-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1432,
@@ -6487,12 +4759,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 23100,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Initio Men product from Mazaya selection.",
-    "details": "SKU: 3701415901377. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/last_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/initio-oud-for-greatness-edp-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1433,
@@ -6502,12 +4770,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20400,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Initio Men product from Mazaya selection.",
-    "details": "SKU: 3701415901421. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/u/duefte-damen-duefte-initio-atomic-rose-edp-spray-90ml_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/initio-the-canal-atomic-rose-edp-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1434,
@@ -6517,12 +4781,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 19550,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Initio Men product from Mazaya selection.",
-    "details": "SKU: 3701415900066. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/n/initio-high-frequency-edp-90-ml_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/initio-canal-high-frequency-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1435,
@@ -6532,12 +4792,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20900,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Initio Men product from Mazaya selection.",
-    "details": "SKU: 3701415901438. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/n/initio_paragon-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paragon-extrait-de-parfum-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1436,
@@ -6547,12 +4803,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20400,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Initio Men product from Mazaya selection.",
-    "details": "SKU: 3701415902008. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/n/initio_narcotic_delight-1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narcotic-delight-eau-de-parfum-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1437,
@@ -6562,12 +4814,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3685,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715336606. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess_uomo_acqua_edt_100ml.pic.1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-uomo-acqua-for-men",
-    "source": "Mazaya"
   },
   {
     "id": 1438,
@@ -6577,12 +4825,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715323217. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess-originals-type_3-_edp_100ml.-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-originals-type-3",
-    "source": "Mazaya"
   },
   {
     "id": 1439,
@@ -6592,12 +4836,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715323200. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess-originals-type_2-_edp_100ml.-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-originals-type-2",
-    "source": "Mazaya"
   },
   {
     "id": 1440,
@@ -6607,12 +4847,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715323194. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess-originals-type_1-_edp_100ml.-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-originals-type-1",
-    "source": "Mazaya"
   },
   {
     "id": 1441,
@@ -6622,12 +4858,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3685,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715326607. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/gu-2022-uomo-edt-100ml_32660.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/uomo-eau-de-parfum-for-men-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1442,
@@ -6637,12 +4869,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4290,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715323644. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/085715323644-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/iconic-for-men-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1443,
@@ -6652,12 +4880,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3220,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715321817. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/085715321817_sgxueg1mosrrvbkv.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-1981-for-men-100-ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1444,
@@ -6667,12 +4891,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3685,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715326706. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess_uomo_intenso_edp_100ml-pic1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/uomo-intenso-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1445,
@@ -6682,12 +4902,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3135,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715321732. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/z/ezgif-4-4c8da50365.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/seductive-red-for-men-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1446,
@@ -6697,12 +4913,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3135,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: 085715321305. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/2/1272674_800x600_b.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-marciano-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1447,
@@ -6712,12 +4924,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3135,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: GUESS SEDUCTIVE HOMME NOIR (M) EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/e/seductive-homme-noir-by-guess-for-men-edt-100ml-4817_0g4m-cs_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-seductive-homme-noir-m-edt123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1448,
@@ -6727,12 +4935,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3135,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: Guess 1981 Los Angeles for Men, Eau De Toilette. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/2/n26089506a_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-1981-los-angeles-for-men-eau-de-toilette123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1449,
@@ -6742,12 +4946,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3135,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Guess Men product from Mazaya selection.",
-    "details": "SKU: GUESS SEDUCTIVE HOMME EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess_seductive_homme_100_ml_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-seductive-homme-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1450,
@@ -6757,12 +4957,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21350,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: 8683608071041. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8683608071041_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hundred-silent-ways-x-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1451,
@@ -6772,12 +4968,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 15850,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: 8681008055401. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055401_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/karagoz-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1452,
@@ -6787,12 +4979,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 34850,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: 8681008055265. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055265.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nefs-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1453,
@@ -6802,12 +4990,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 12500,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: 8681008055487. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055487.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sultan-vetiver-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1454,
@@ -6817,12 +5001,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 14000,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: Fan Your Flames. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055579.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fan-your-flames",
-    "source": "Mazaya"
   },
   {
     "id": 1455,
@@ -6832,12 +5012,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 15850,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: Hacivat. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8683608071201_4_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hacivat",
-    "source": "Mazaya"
   },
   {
     "id": 1456,
@@ -6847,12 +5023,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 13600,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: Hundred Silent Ways. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055586_6_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hundred-silent-ways",
-    "source": "Mazaya"
   },
   {
     "id": 1457,
@@ -6862,12 +5034,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21050,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: ANI. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055067-0.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ani",
-    "source": "Mazaya"
   },
   {
     "id": 1458,
@@ -6877,12 +5045,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21600,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: Ege/ αιγαίο. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055258_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ege-aigaio",
-    "source": "Mazaya"
   },
   {
     "id": 1459,
@@ -6892,12 +5056,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 12500,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: Wūlóng Chá. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055418_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wulong-cha",
-    "source": "Mazaya"
   },
   {
     "id": 1460,
@@ -6907,12 +5067,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 21900,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: 8683608071027. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8683608071027_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fan-your-flames-x-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1461,
@@ -6922,12 +5078,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 14300,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: 8681008055012. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055012_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vain-naive-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1462,
@@ -6937,12 +5089,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 15850,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: 8681008055395. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055395_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/zenne-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1463,
@@ -6952,12 +5100,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 35900,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: 8683608070914. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8683608070914_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hacivat-oud-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1464,
@@ -6967,12 +5111,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 12500,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Nishane Men product from Mazaya selection.",
-    "details": "SKU: 8681008055425. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/ambra-calabria-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1465,
@@ -6982,12 +5122,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4400,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Coach Men product from Mazaya selection.",
-    "details": "SKU: 3386460141253. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460141253.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/green-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1466,
@@ -6997,12 +5133,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4600,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Coach Men product from Mazaya selection.",
-    "details": "SKU: PLATINUM EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460096867_1_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/platinum-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1467,
@@ -7012,12 +5144,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4100,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Coach Men product from Mazaya selection.",
-    "details": "SKU: 3386460126625. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460126625_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/men-s-open-road-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1468,
@@ -7027,12 +5155,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3100,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Coach Men product from Mazaya selection.",
-    "details": "SKU: OPEN ROAD EDT NATURAL SPRAY. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460126632_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/open-road-edt-natural-spray",
-    "source": "Mazaya"
   },
   {
     "id": 1469,
@@ -7042,12 +5166,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3100,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Coach Men product from Mazaya selection.",
-    "details": "SKU: MAN EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460086332_4_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/man-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1470,
@@ -7057,12 +5177,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Nightology Men product from Mazaya selection.",
-    "details": "SKU: 8431754007632. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_suede_breeze_packshot_parfum_100ml_015804000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-suede-breeze-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1471,
@@ -7072,12 +5188,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Nightology Men product from Mazaya selection.",
-    "details": "SKU: 8431754007625. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_exquisite_lily_packshot_parfum_100ml_015704000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-exquisite-lily-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1472,
@@ -7087,12 +5199,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Nightology Men product from Mazaya selection.",
-    "details": "SKU: 8431754007618. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_vivid_velvet_packshot_parfum_100ml_015604000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-vivid-velvet-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1473,
@@ -7102,12 +5210,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Nightology Men product from Mazaya selection.",
-    "details": "SKU: 8431754007656. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_wild_temptation_packshot_parfum_100ml_016004000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-wild-temptation-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1474,
@@ -7117,12 +5221,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Nightology Men product from Mazaya selection.",
-    "details": "SKU: 8431754007649. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_intimate_elixir_packshot_parfum_100ml_015904000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-intimate-elixir-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1475,
@@ -7132,12 +5232,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3150,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Tous Men product from Mazaya selection.",
-    "details": "SKU: TOUS 1920 THE ORIGIN EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/o/tous_1920_the_origin_bottle_edp_vapo_100ml_042804000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-1920-the-origin-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1476,
@@ -7147,12 +5243,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2750,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Tous Men product from Mazaya selection.",
-    "details": "SKU: TOUS 1920 THE ORIGIN EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/o/tous_1920_the_origin_packshot_edt_vapo_100ml_043504000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-1920-the-origin-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1477,
@@ -7162,12 +5254,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4800,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Mont Blanc Men product from Mazaya selection.",
-    "details": "SKU: 3386460127950. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460127950_000.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mont-blanc-legend-red-edp-for-men",
-    "source": "Mazaya"
   },
   {
     "id": 1478,
@@ -7177,12 +5265,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4800,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Mont Blanc Men product from Mazaya selection.",
-    "details": "SKU: 3386460118125. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/q/2q31.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/legend-by-mont-blanc-for-men-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1479,
@@ -7192,12 +5276,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4100,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Mont Blanc Men product from Mazaya selection.",
-    "details": "SKU: 3386460032681. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/mont-blanc-legend-edt-spray-retail-boxed-sealed-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1480,
@@ -7207,12 +5287,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4200,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Mont Blanc Men product from Mazaya selection.",
-    "details": "SKU: 3386460058728. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460058728_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mont-blanc-emblem-eau-de-toilette-spray-for-men-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1481,
@@ -7222,12 +5298,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4100,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Mont Blanc Men product from Mazaya selection.",
-    "details": "SKU: 3386460074827. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460074827_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/montblanc-legend-spirit-eau-de-toilette-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1482,
@@ -7237,12 +5309,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3770004394029. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-dela-3-tumultu0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tumultu-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1483,
@@ -7252,12 +5320,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3770004394043. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-sanguine-3-bello-rabelo-scaled.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bello-rabelo-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1484,
@@ -7267,12 +5331,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3770004394715. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190417-eau-est2b-tapis-volant0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tapis-volant-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1485,
@@ -7282,12 +5342,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3770004394005. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-dela-1-sancti0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sancti-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1486,
@@ -7297,12 +5353,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3760303360016. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/h/phantasma.php_20.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/phantasma-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1487,
@@ -7312,12 +5364,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3760303360023. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/melancolia.php_20.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/melancolia-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1488,
@@ -7327,12 +5375,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 13850,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3770004394654. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/e/beaut_du_diable_bottle0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/beaute-du-diable-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1489,
@@ -7342,12 +5386,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3760303360009. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lacrima.php0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lacrima-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1490,
@@ -7357,12 +5397,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3770004394593. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-imaginaire-fleuve-tendre0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fleuve-tendre-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1491,
@@ -7372,12 +5408,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3770004394623. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-imaginaire-desert-suave0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/desert-suave-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1492,
@@ -7387,12 +5419,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 13850,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Liquides Imaginaires Men product from Mazaya selection.",
-    "details": "SKU: 3760303360115. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/bottle0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bete-humaine-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1493,
@@ -7402,12 +5430,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17650,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Casamorati Men product from Mazaya selection.",
-    "details": "SKU: 8054320900078. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/casamorati-1888-eau_de_parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/xj-casamorati-1888-casafutura-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1494,
@@ -7417,12 +5441,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 17650,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Casamorati Men product from Mazaya selection.",
-    "details": "SKU: 8033488153595. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/casamorati-lira-eau_de_parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lira-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1495,
@@ -7432,12 +5452,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 19650,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Casamorati Men product from Mazaya selection.",
-    "details": "SKU: 8033488154882. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/casamorati-italica-eau_de_parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/italica-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1496,
@@ -7447,12 +5463,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7150,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Bvlgari Men product from Mazaya selection.",
-    "details": "SKU: Man Terrae Essence EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320416101r_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/man-terrae-essence-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1497,
@@ -7462,12 +5474,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9900,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Bvlgari Men product from Mazaya selection.",
-    "details": "SKU: 783320411946. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320411946_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/783320411946123455-html123",
-    "source": "Mazaya"
   },
   {
     "id": 1498,
@@ -7477,12 +5485,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 10120,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Bvlgari Men product from Mazaya selection.",
-    "details": "SKU: 783320421297. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320421297.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parfums-pour-homme-100-ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1499,
@@ -7492,12 +5496,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9900,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Bvlgari Men product from Mazaya selection.",
-    "details": "SKU: 783320419461. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320419461.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/man-rain-essence-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1500,
@@ -7507,12 +5507,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 11880,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Bvlgari Men product from Mazaya selection.",
-    "details": "SKU: 783320421532. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320421532.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/man-in-black-parfum-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1501,
@@ -7522,12 +5518,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8810,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Bvlgari Men product from Mazaya selection.",
-    "details": "SKU: 783320413698. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/0/005316396096_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/aqva-pour-homme-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1502,
@@ -7537,12 +5529,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9900,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Bvlgari Men product from Mazaya selection.",
-    "details": "SKU: BVLGARI MAN WOOD ESSENCE EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/w/o/wood2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bvlgari-man-wood-essence-edp123",
-    "source": "Mazaya"
   },
   {
     "id": 1503,
@@ -7552,12 +5540,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3810,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Burberry Men product from Mazaya selection.",
-    "details": "SKU: 3614226905215. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/4/14444-1200x1200h.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/burberry-london246123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1504,
@@ -7567,12 +5551,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4490,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Burberry Men product from Mazaya selection.",
-    "details": "SKU: 3616301838227. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616301838227_jdz537vfx9h2qwnl.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mr-burberry-edp-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1505,
@@ -7582,12 +5562,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5915,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Burberry Men product from Mazaya selection.",
-    "details": "SKU: 5045456747685. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5045456747685.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mr-burberry-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1506,
@@ -7597,12 +5573,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6050,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Burberry Men product from Mazaya selection.",
-    "details": "SKU: Hero Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304679452_2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hero-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1507,
@@ -7612,12 +5584,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3415,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Burberry Men product from Mazaya selection.",
-    "details": "SKU: 3614226905758. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/u/burberry-for-men-eau-de-toilette-spray-100ml-d82d83dbe2-large.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/burberry-classic-for-him123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1508,
@@ -7627,12 +5595,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5795,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Burberry Men product from Mazaya selection.",
-    "details": "SKU: Burberry Mr. Burberry For Him EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/u/burberry-mr.-burberry-by-burberry-edp-spray-5.0-oz-_150-ml_-_m_-bmrmes5-a_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/burberry-mr-burberry-by-burberry-edp123455-html12",
-    "source": "Mazaya"
   },
   {
     "id": 1509,
@@ -7642,12 +5606,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3238,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Pal Zileri Men product from Mazaya selection.",
-    "details": "SKU: 679602180528. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/n/unnamed.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pal-zileri-collezione-privata-viaggio",
-    "source": "Mazaya"
   },
   {
     "id": 1510,
@@ -7657,12 +5617,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Lorenzo Villoresi Men product from Mazaya selection.",
-    "details": "SKU: Lorenzo Villoresi Patchouli EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/0/0016958_-lorenzo-villoresi-patchouli-edt-100ml-_600_2.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lorenzo-villoresi-patchouli-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1511,
@@ -7672,12 +5628,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 19550,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Bond No. 9 Men product from Mazaya selection.",
-    "details": "SKU: Bond No. 9 Dubai Collection Garnet Eau de Parfum Spray. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/8/888874005617_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-dubai-collection-garnet-eau-de-parfum-spray1233",
-    "source": "Mazaya"
   },
   {
     "id": 1512,
@@ -7687,12 +5639,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 19550,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Bond No. 9 Men product from Mazaya selection.",
-    "details": "SKU: Bond No 9 Dubai Citrine Eau De Toilette Spray For Unisex. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/bond_no.9_-_dubai_citrine-910x1155_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-dubai-citrine-eau-de-toilette-spray-for-unisex1233",
-    "source": "Mazaya"
   },
   {
     "id": 1513,
@@ -7702,12 +5650,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 11350,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Bond No. 9 Men product from Mazaya selection.",
-    "details": "SKU: BOND NO 9 SCENT OF PEACE. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/bond_no_9_scent_of_peace_100ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-scent-of-peace1233",
-    "source": "Mazaya"
   },
   {
     "id": 1514,
@@ -7717,12 +5661,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 19550,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Bond No. 9 Men product from Mazaya selection.",
-    "details": "SKU: Bond No.9 Dubai Amethyst Unisex - Eau de Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/8/888874005525_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-dubai-amethyst-unisex-eau-de-parfum1233",
-    "source": "Mazaya"
   },
   {
     "id": 1515,
@@ -7732,12 +5672,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 19550,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Bond No. 9 Men product from Mazaya selection.",
-    "details": "SKU: BOND NO 9 DUBAI BLACK SAPPHIRE. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/bond_no_9_dubai_black_sapphire.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-dubai-black-sapphire1233",
-    "source": "Mazaya"
   },
   {
     "id": 1516,
@@ -7747,12 +5683,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4400,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Halloween Men product from Mazaya selection.",
-    "details": "SKU: J DEL POZO HWN MAN ROCK ON EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/j/_/j_del_pozo_hwn_man_rock_on_edt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/j-del-pozo-hwn-man-rock-on-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1517,
@@ -7762,12 +5694,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 2850,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Halloween Men product from Mazaya selection.",
-    "details": "SKU: 8431754005713. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8431754005713_ijzsfa5l7kc0v95d.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/magic-edt-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1518,
@@ -7777,12 +5705,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4400,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Halloween Men product from Mazaya selection.",
-    "details": "SKU: 8431754462516. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/h/a/halloween_halloween_man_bottle_edt_vapo_125ml_0146251_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/halloween-man-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1519,
@@ -7792,12 +5716,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3150,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Halloween Men product from Mazaya selection.",
-    "details": "SKU: 8431754501512. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/h/a/halloween_halloween_man_rock_on_bottle_edt_vapo_125ml_0150251_high.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/halloween-man-rock-on-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1520,
@@ -7807,12 +5727,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4400,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Halloween Men product from Mazaya selection.",
-    "details": "SKU: HALLOWEEN Man X EDT Spray. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/h/a/halloween_halloween_man_x_bottle_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/halloween-man-x-edt-spray",
-    "source": "Mazaya"
   },
   {
     "id": 1521,
@@ -7822,12 +5738,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9200,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Versace Men product from Mazaya selection.",
-    "details": "SKU: Eros Najim Parfum. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8011003895755_2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/eros-najim-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1522,
@@ -7837,12 +5749,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3400,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Versace Men product from Mazaya selection.",
-    "details": "SKU: 8011003877010. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace-eros-flame-50ml-set-2022.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/eros-flame-edp-50ml-shower-gel-50ml-after-shave-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1523,
@@ -7852,12 +5760,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9800,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Versace Men product from Mazaya selection.",
-    "details": "SKU: 8011003846627. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8011003846627.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/eros-flame-edp-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1524,
@@ -7867,12 +5771,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Versace Men product from Mazaya selection.",
-    "details": "SKU: VERSACE EROS POUR HOMME EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/375x500.62762_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-eros-pour-homme-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1525,
@@ -7882,12 +5782,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5100,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Versace Men product from Mazaya selection.",
-    "details": "SKU: VERSACE EROS MAN EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/p/up8011003809219.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-eros-man-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1526,
@@ -7897,12 +5793,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Versace Men product from Mazaya selection.",
-    "details": "SKU: Versace Dylan Blue by Versace EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/1/61k8pyuqfxl._ac_sl1500__2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-dylan-blue-by-versace-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1527,
@@ -7912,12 +5804,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5700,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Versace Men product from Mazaya selection.",
-    "details": "SKU: VERSACE EROS FLAME Eau De Parfum SPRAY. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace-eros-flame-uomo-eau-de-parfum-100ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-eros-flame-eau-de-parfum-spray123455-html123",
-    "source": "Mazaya"
   },
   {
     "id": 1528,
@@ -7927,12 +5815,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5100,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Versace Men product from Mazaya selection.",
-    "details": "SKU: Versace Pour Homme Men's Eau de Toilette. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-pour-homme-men-s-eau-de-toilette123455-html123",
-    "source": "Mazaya"
   },
   {
     "id": 1529,
@@ -7942,12 +5826,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 33550,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Creed Men product from Mazaya selection.",
-    "details": "SKU: 3508440004352. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3508440004352_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/millesime-absolu-aventus-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1530,
@@ -7957,12 +5837,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 20995,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Creed Men product from Mazaya selection.",
-    "details": "SKU: 3508441001084. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3508441001084.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/himalaya-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1531,
@@ -7972,12 +5848,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 26850,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Creed Men product from Mazaya selection.",
-    "details": "SKU: 3508441001121. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3508441001121.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/royal-oud-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1532,
@@ -7987,12 +5859,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 32600,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Creed Men product from Mazaya selection.",
-    "details": "SKU: 3508440251749. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/bottle-3500x3500-9a3faf95-f69d-49b6-aeff-1ce7e4f63581-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/absolu-aventus",
-    "source": "Mazaya"
   },
   {
     "id": 1533,
@@ -8002,12 +5870,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 26850,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Creed Men product from Mazaya selection.",
-    "details": "SKU: 3508441001114. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/r/creed-aventus-men-eau-de-perfume-100ml_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/creed-aventus1233",
-    "source": "Mazaya"
   },
   {
     "id": 1534,
@@ -8017,12 +5881,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 25150,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Creed Men product from Mazaya selection.",
-    "details": "SKU: 3508441001053. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/r/creed_3508441001053_images_10499968010.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/creed-silver-mountain-water1233",
-    "source": "Mazaya"
   },
   {
     "id": 1535,
@@ -8032,12 +5892,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 25150,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Creed Men product from Mazaya selection.",
-    "details": "SKU: 3508441001022. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/-/s-l1600_4.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/creed-green-irish-tweed123455-html1233",
-    "source": "Mazaya"
   },
   {
     "id": 1536,
@@ -8047,12 +5903,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4100,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Diesel Men product from Mazaya selection.",
-    "details": "SKU: 3614272631885. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614272631885.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/only-the-brave-noe-edt-v-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1537,
@@ -8062,12 +5914,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4500,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Ralph Lauren Men product from Mazaya selection.",
-    "details": "SKU: 3605972321794. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3605972321794_p7jjbci9kj9r0jlz.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/polo-red-man-edp-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1538,
@@ -8077,12 +5925,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5400,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Ralph Lauren Men product from Mazaya selection.",
-    "details": "SKU: 3605971670930. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/1/518-qjbjn9s._ac_sl1000_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pred-rush-edt-125ml-fg-g",
-    "source": "Mazaya"
   },
   {
     "id": 1539,
@@ -8092,12 +5936,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4785,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Ralph Lauren Men product from Mazaya selection.",
-    "details": "SKU: 3605972321831. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3605972321794_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/polo-red-man-75ml-fg-g",
-    "source": "Mazaya"
   },
   {
     "id": 1540,
@@ -8107,12 +5947,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5940,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Ralph Lauren Men product from Mazaya selection.",
-    "details": "SKU: RALPH LAUREN Cologne Polo Red EDT Spray Unisex Fragrance. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/7/17637371__1509650737_c8016846-e86e-46e4-bd29-24d078084269_1200x1200_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ralph-lauren-cologne-polo-red-edt-spray-unisex-fragrance",
-    "source": "Mazaya"
   },
   {
     "id": 1541,
@@ -8122,12 +5958,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 9460,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Mancera Men product from Mazaya selection.",
-    "details": "SKU: 3760265191697. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760265191697.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sicily-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1542,
@@ -8137,12 +5969,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 3510,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Dunhill Men product from Mazaya selection.",
-    "details": "SKU: 085715807755. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/085715807755.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/driven-blue",
-    "source": "Mazaya"
   },
   {
     "id": 1543,
@@ -8152,12 +5980,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5055,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Dunhill Men product from Mazaya selection.",
-    "details": "SKU: DUNHILL ICON MAN EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/u/dunhill_icon_man.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/dunhill-icon-man-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1544,
@@ -8167,12 +5991,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 5055,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Dunhill Men product from Mazaya selection.",
-    "details": "SKU: DUNHILL ICON ABSOLUTE MAN EDP. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/u/dunhill_icon_absolute_man_100_ml_edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/dunhill-icon-absolute-man-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1545,
@@ -8182,12 +6002,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 4200,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Narciso Rodriguez Men product from Mazaya selection.",
-    "details": "SKU: VETIVER MUSC FOR MEN EDT. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222107741_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vetiver-musc-for-men-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1546,
@@ -8197,12 +6013,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 8600,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Narciso Rodriguez Men product from Mazaya selection.",
-    "details": "SKU: 3423222056070. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222056070_6.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/for-him-bleu-noir-parfum-men-perfume",
-    "source": "Mazaya"
   },
   {
     "id": 1547,
@@ -8212,12 +6024,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Narciso Rodriguez Men product from Mazaya selection.",
-    "details": "SKU: NARCISO RODRIGUEZ FOR HIM Eau De Parfum BLEU NOIR. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423478807556_3108fa02b6a4f3aa6aab2f45fe5e8d47_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narciso-rodriguez-for-him-eau-de-parfum-bleu-noir",
-    "source": "Mazaya"
   },
   {
     "id": 1548,
@@ -8227,12 +6035,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Men",
     "price": 7590,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Viktor And Rolf Men product from Mazaya selection.",
-    "details": "SKU: Spicebomb by Viktor&Rolf for Men - Eau de Toilette. Category: Men Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/9/59204_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spicebomb-by-viktor-rolf-for-men-eau-de-toilette123455-html",
-    "source": "Mazaya"
   },
   {
     "id": 1549,
@@ -8242,12 +6046,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9000,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: SI PASSIONE RED MUSK. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/a/ga_2025_si-passione-edp-red-musk_100ml_3614274459869_rvb-4000.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/si-passione-red-musk",
-    "source": "Mazaya"
   },
   {
     "id": 1550,
@@ -8257,12 +6057,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4000,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: 3614273734882. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/9/799760585-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/si-eau-de-parfum-intense-30ml",
-    "source": "Mazaya"
   },
   {
     "id": 1551,
@@ -8272,12 +6068,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: Sì Passione Eau de Parfum Intense. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/a/ga_2024_si-passione-edp-intense_100ml_3614274150926_rvb-4000.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/si-passione-eau-de-parfum-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1552,
@@ -8287,12 +6079,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: SI EAU DE PARFUM INTENSE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/a/ga_2023_s_-edp-intense_sl_digital_in-hand-1_1x1_rvb-4000_2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/si-eau-de-parfum-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1553,
@@ -8302,12 +6090,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: MY WAY INTENSE EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273347846_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/my-way-intense-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1554,
@@ -8317,12 +6101,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7800,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: Si Passione Eclat Eau de Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/_/s_-passione-_clat-de-parfum_100mlbf_3_cleanup-photoroom_cleanup_2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/si-passione-eclat-eau-de-parfum12",
-    "source": "Mazaya"
   },
   {
     "id": 1555,
@@ -8332,12 +6112,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6900,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: GIORGIO ARMANI MY WAY. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/s/dsdxvfsfv_6.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/giorgio-armany-my-way12",
-    "source": "Mazaya"
   },
   {
     "id": 1556,
@@ -8347,12 +6123,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7800,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: Giorgio Armani Si Passione for Women EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/i/si_passione_edp_v100ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/si-passione-edp-v12",
-    "source": "Mazaya"
   },
   {
     "id": 1557,
@@ -8362,12 +6134,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: 3614274150896. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274150896_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/si-passione-intense-eau-de-parfum-refill-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1558,
@@ -8377,12 +6145,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: MY WAY LE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/y/my_way_le_parfum.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/my-way-le-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1559,
@@ -8392,12 +6156,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6600,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: 3614273348485. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/a/ga_2021_myway_edp_intense_150ml_topview_3614273348485_pink_rvb_3000-photoroom.png-photoroom_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/my-way-eau-de-parfum-intense-refill-bottle",
-    "source": "Mazaya"
   },
   {
     "id": 1560,
@@ -8407,12 +6167,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8700,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: 3614272556379. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/a/ga_2020_si_passione_150ml_la550100_3614272556379_rvb_3000.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/si-passione-edp-v150ml-mad",
-    "source": "Mazaya"
   },
   {
     "id": 1561,
@@ -8422,12 +6178,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9450,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: ARMANI SI PASSIONE INTENSE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614272826571_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/armani-si-passione-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1562,
@@ -8437,12 +6189,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Giorgio Armani Women product from Mazaya selection.",
-    "details": "SKU: SI EDP INTENSE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273313162_r1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/si-edp-intense112",
-    "source": "Mazaya"
   },
   {
     "id": 1563,
@@ -8452,12 +6200,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1785,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290362346531. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290362346531__1_-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-yara-elixir-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1564,
@@ -8467,12 +6211,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1955,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290360598352. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/i/kingdom-women.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-the-kingdom-women-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1565,
@@ -8482,12 +6222,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1785,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290360599168. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290360599168-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-yara-candy-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1566,
@@ -8497,12 +6233,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1555,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291108730515. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/a/yara_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-yara-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1567,
@@ -8512,12 +6244,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2045,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290360593661. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/h/khamra_qahwa.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-khamrah-qahwa-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1568,
@@ -8527,12 +6255,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2045,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291108737194. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/h/khamra.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-khamrah-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1569,
@@ -8542,12 +6266,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1095,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291106066890. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/n/ana_el_abiyad.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-ana-abiyedh-60-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1570,
@@ -8557,12 +6277,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2245,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290360598918. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/t/atheeri-bottle-copy-1-scaled.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-atheeri-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1571,
@@ -8572,12 +6288,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2130,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291108738078. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/w/i/winners_trophy_gold-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lattafa-pride-spray-winners-trophy-gold-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1572,
@@ -8587,12 +6299,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2130,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290360592893. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/la_african_drummer-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lattafa-pride-spray-la-african-drummer-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1573,
@@ -8602,12 +6310,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 895,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6456874097129. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/w/a/washwashah-1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-washwashah-50-ml-deo",
-    "source": "Mazaya"
   },
   {
     "id": 1574,
@@ -8617,12 +6321,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1670,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290360598970. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/mayar_natural_intense-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-mayar-natural-intense-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1575,
@@ -8632,12 +6332,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1670,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291108732496. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/mayar-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-mayar-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1576,
@@ -8647,12 +6343,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2530,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290360599120. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/spray-her-confession-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1577,
@@ -8662,12 +6354,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1555,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290360597133. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/j/ajwad_pink_-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-ajwad-pink-to-pink-60ml",
-    "source": "Mazaya"
   },
   {
     "id": 1578,
@@ -8677,12 +6365,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1585,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290360594552. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/a/yara_tous-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-yara-tous-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1579,
@@ -8692,12 +6376,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 980,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291106066715. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/a/ramz_lattafa_gold-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-ramz-lattafa-gold-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1580,
@@ -8707,12 +6387,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1555,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291107456041. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/f/a/fakhar_lattafa_women.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-fakhar-lattafa-women100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1581,
@@ -8722,12 +6398,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2015,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6290362340638. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290362340638-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-eclair-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1582,
@@ -8737,12 +6409,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 945,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291107453989. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6291107453989_ytrwhugdamlhi9zf.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-tendency-blu-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1583,
@@ -8752,12 +6420,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 980,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291107453873. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6291107453873_ieigohhgizzltfln.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-destiny-sheer-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1584,
@@ -8767,12 +6431,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1840,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Lattafa Women product from Mazaya selection.",
-    "details": "SKU: 6291108733875. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6291108733875.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spray-badee-al-oud-amethyst-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1585,
@@ -8782,12 +6442,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9500,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Valentino Women product from Mazaya selection.",
-    "details": "SKU: 3614274337365. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274337365-3.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/born-in-roma-donna-rendez-vous-ivory-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1586,
@@ -8797,12 +6453,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Valentino Women product from Mazaya selection.",
-    "details": "SKU: Born in Roma Donna Green Stravaganza. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/born_in_roma_donna_green_stravaganza.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/born-in-roma-donna-green-stravaganza",
-    "source": "Mazaya"
   },
   {
     "id": 1587,
@@ -8812,12 +6464,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7900,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Valentino Women product from Mazaya selection.",
-    "details": "SKU: DONNA BORN IN ROMA CORAL FANTASY EAU DE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/o/donna_born_in_roma_coral_fantasy_eau_de_parfum_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/donna-born-in-roma-coral-fantasy-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1588,
@@ -8827,12 +6475,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Valentino Women product from Mazaya selection.",
-    "details": "SKU: Valentino Born in Roma donna EDP Intense woman. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/1/1111111.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/valentino-born-in-roma-donna-edp-intense-woman",
-    "source": "Mazaya"
   },
   {
     "id": 1589,
@@ -8842,12 +6486,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Valentino Women product from Mazaya selection.",
-    "details": "SKU: VOCE VIVA INTENSA EAU DE PARFUM INTENSE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/_/1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/voce-viva-intensa-eau-de-parfum-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1590,
@@ -8857,12 +6497,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Valentino Women product from Mazaya selection.",
-    "details": "SKU: VOCE VIVA EAU DE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/a/valentino_frangrance_voce_viva_edp_100_ml_3614273073899_packshot_front_view_reflection.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/voce-viva-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1591,
@@ -8872,12 +6508,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9500,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Valentino Women product from Mazaya selection.",
-    "details": "SKU: 3614272732308. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/a/valentino_21_-_gamme_new_capot_-_donna_edp_100ml_-_face_-_ec1_dhd_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/valentino-donna-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1592,
@@ -8887,12 +6519,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Valentino Women product from Mazaya selection.",
-    "details": "SKU: DONNA BORN IN ROMA EAU DE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/2/22.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/donna-born-in-roma-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1593,
@@ -8902,12 +6530,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Valentino Women product from Mazaya selection.",
-    "details": "SKU: 3614274066951. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/l/vlt_frag_bir-franchise_rendez-vous-23_dmi_pink_pp_100ml_3614274066951_front_without-shadow.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/born-in-roma-rendez-vous-pink-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1594,
@@ -8917,12 +6541,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7900,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: LIBRE BERRY CRUSH EAU DE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274521238.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/libre-berry-crush-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1595,
@@ -8932,12 +6552,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7700,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: LIBRE LEAU NUE PARFUM DE PEAU. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274241006_-_90_ml_libre_l_eau_nue_1_1r_4.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/libre-l-eau-nue-parfum-de-peau",
-    "source": "Mazaya"
   },
   {
     "id": 1596,
@@ -8947,12 +6563,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8200,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: LIBRE FLOWERS AND FLAMES. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274151701-0_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/libre-flowers-and-flames",
-    "source": "Mazaya"
   },
   {
     "id": 1597,
@@ -8962,12 +6574,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: 3614273346665. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273346665_kqpie6ncdaqawxhv.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/libre-hair-mist-30ml",
-    "source": "Mazaya"
   },
   {
     "id": 1598,
@@ -8977,12 +6585,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9000,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: Black Opium Le Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/z/ezgif-2-36d890d017.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/black-opium-le-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1599,
@@ -8992,12 +6596,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8800,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: YSL LIBRE LE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273a776127__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ysl-libre-le-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1600,
@@ -9007,12 +6607,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: Black Opium Extreme. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/o/download_1_3.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/black-opium-extreme12344",
-    "source": "Mazaya"
   },
   {
     "id": 1601,
@@ -9022,12 +6618,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8300,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: Libre Intense Eau de Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/9/0/90m_1aaaaaaaaaaaaaaaaa.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/libre-intense12344",
-    "source": "Mazaya"
   },
   {
     "id": 1602,
@@ -9037,12 +6629,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6600,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: 3614272824973. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614272824973.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/black-opium-neon-75ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1603,
@@ -9052,12 +6640,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6200,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: 3614273941136. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_fraw_libre_edp_packshot_refill-100ml_front_3614273941136_cmyk_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ysl-libre-edp-refill-bottle-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1604,
@@ -9067,12 +6651,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9500,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: YSL LIBRE ABSOLU PLATINE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_fraw_libre_l_absolu-platine-23_content-that-sells_bottle-pack_50_90ml_arina_light-with-product_focus-on-hand_portrait_1080x1920px_rgb_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ysl-libre-absolu-platine",
-    "source": "Mazaya"
   },
   {
     "id": 1605,
@@ -9082,12 +6662,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: Yves Saint Laurent BLACK OPIUM EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/n/gnhb2xxmymeiiisaszcv48lnyi3ubezcu6rqhpnj_1_1_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/yves-saint-laurent-black-opium-edp12344",
-    "source": "Mazaya"
   },
   {
     "id": 1606,
@@ -9097,12 +6673,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9400,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: Yves Saint Laurent Mon Paris Women EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614270561634_2_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/yves-saint-laurent-mon-paris-women-edp12344",
-    "source": "Mazaya"
   },
   {
     "id": 1607,
@@ -9112,12 +6684,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9400,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Yves Saint Laurent Women product from Mazaya selection.",
-    "details": "SKU: 3614270561634. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614270561634_2_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/yves-saint-laurent-mon-paris-women-edp-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1608,
@@ -9127,12 +6695,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2420,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Police Women product from Mazaya selection.",
-    "details": "SKU: 679602001397. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/o/police_rich_girl_100ml_v2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rich-girl-for-woman-edp-100ml-vapo",
-    "source": "Mazaya"
   },
   {
     "id": 1609,
@@ -9142,12 +6706,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Police Women product from Mazaya selection.",
-    "details": "SKU: 679602501101. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602501101.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/miss-bouquet-edt-100-ml-vapo",
-    "source": "Mazaya"
   },
   {
     "id": 1610,
@@ -9157,12 +6717,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Police Women product from Mazaya selection.",
-    "details": "SKU: 679602581103. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/o/police_hotpink_edt_100ml_rgb555.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hot-pink-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1611,
@@ -9172,12 +6728,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Police Women product from Mazaya selection.",
-    "details": "SKU: 679602541107. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602541107-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-amber-gold-for-woman-eau-de-toilette-100-ml-vapo",
-    "source": "Mazaya"
   },
   {
     "id": 1612,
@@ -9187,12 +6739,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Police Women product from Mazaya selection.",
-    "details": "SKU: 679602201018. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602201018_e7lz2i4f1wmknqce.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/contemporary-extreme-eau-de-toilette-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1613,
@@ -9202,12 +6750,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Police Women product from Mazaya selection.",
-    "details": "SKU: Police Police Dark For Women - Eau de Toilette. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/2/42f4691e-f408-4a50-88a9-ac46ab73455a_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-police-dark-for-women-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 1614,
@@ -9217,12 +6761,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Police Women product from Mazaya selection.",
-    "details": "SKU: Police Passion For Women. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/3/438c41900a80acabb3ef197f0559a9eb_images_mini_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/police-passion-for-women",
-    "source": "Mazaya"
   },
   {
     "id": 1615,
@@ -9232,12 +6772,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9200,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Prada Women product from Mazaya selection.",
-    "details": "SKU: 8435137727087. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435137727087.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/candy-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1616,
@@ -9247,12 +6783,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7200,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Prada Women product from Mazaya selection.",
-    "details": "SKU: LUNA ROSSA LE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/_/1_20_3.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/luna-rossa-le-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1617,
@@ -9262,12 +6794,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Prada Women product from Mazaya selection.",
-    "details": "SKU: PARADOXE EAU DE PARFUM VIRTUAL FLOWER. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/_/1_20_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paradoxe-eau-de-parfum-virtual-flower",
-    "source": "Mazaya"
   },
   {
     "id": 1618,
@@ -9277,12 +6805,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Prada Women product from Mazaya selection.",
-    "details": "SKU: PARADOXE EAU DE PARFUM INTENSE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/_/1_20_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paradoxe-eau-de-parfum-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1619,
@@ -9292,12 +6816,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6500,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Prada Women product from Mazaya selection.",
-    "details": "SKU: 3614273760201. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/_/1_4_3.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paradoxe-eau-de-parfum-refill-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1620,
@@ -9307,12 +6827,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7800,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Prada Women product from Mazaya selection.",
-    "details": "SKU: PARADOXE EAU DE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/_/5_1_5.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paradoxe-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1621,
@@ -9322,12 +6838,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11000,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Prada Women product from Mazaya selection.",
-    "details": "SKU: 3614274305401. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274305401_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paradoxe-essence-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1622,
@@ -9337,12 +6849,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2270,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Prada Women product from Mazaya selection.",
-    "details": "SKU: 8435137738991. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435137738991.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/prada-candy-florale",
-    "source": "Mazaya"
   },
   {
     "id": 1623,
@@ -9352,12 +6860,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3575,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Armaf Women product from Mazaya selection.",
-    "details": "SKU: 6294015132120. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6294015132120-1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/club-de-nuit-milestone-105ml-women",
-    "source": "Mazaya"
   },
   {
     "id": 1624,
@@ -9367,12 +6871,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1815,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Armaf Women product from Mazaya selection.",
-    "details": "SKU: 6295199804360. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/h/chocolat--gourmand-edition-100-ml-edp-bottle-back.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/odyssey-dxb-chocolat-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1625,
@@ -9382,12 +6882,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2805,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Armaf Women product from Mazaya selection.",
-    "details": "SKU: 6295199800959. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/u/yum-yum-bottle-front-angle.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/yumyum-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1626,
@@ -9397,12 +6893,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2805,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Armaf Women product from Mazaya selection.",
-    "details": "SKU: 6295199800942. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/s/island-bliss-bottle-front-angle.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/delight-island-bliss-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1627,
@@ -9412,12 +6904,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2805,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Armaf Women product from Mazaya selection.",
-    "details": "SKU: 6295199801116. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295199801116.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/club-de-nuit-maleka-105ml",
-    "source": "Mazaya"
   },
   {
     "id": 1628,
@@ -9427,12 +6915,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2310,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Armaf Women product from Mazaya selection.",
-    "details": "SKU: 6085010094151. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/d/cdn_women_105ml_bottle-2_copy.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/club-de-nuit-women-105ml",
-    "source": "Mazaya"
   },
   {
     "id": 1629,
@@ -9442,12 +6926,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Jean Paul Gaultier Women product from Mazaya selection.",
-    "details": "SKU: SCANDAL RE24 HER PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415080422_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/scandal-re24-her-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1630,
@@ -9457,12 +6937,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10400,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Jean Paul Gaultier Women product from Mazaya selection.",
-    "details": "SKU: 8435415080422. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415080422.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/scandal-re24-her-parfum-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1631,
@@ -9472,12 +6948,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6800,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Jean Paul Gaultier Women product from Mazaya selection.",
-    "details": "SKU: Scandal Intense Women. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/c/scandal_intense_women_11.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/scandal-intense-women",
-    "source": "Mazaya"
   },
   {
     "id": 1632,
@@ -9487,12 +6959,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8600,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Jean Paul Gaultier Women product from Mazaya selection.",
-    "details": "SKU: 8435415017244. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415017244.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-belle-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1633,
@@ -9502,12 +6970,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4500,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Jean Paul Gaultier Women product from Mazaya selection.",
-    "details": "SKU: 8435415081184. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8435415081184_twmqs2w98qvkwwz0.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/edt-100ml-xmas-collector-hd23",
-    "source": "Mazaya"
   },
   {
     "id": 1634,
@@ -9517,12 +6981,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6500,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Jean Paul Gaultier Women product from Mazaya selection.",
-    "details": "SKU: 8435415058346. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/j/e/jean-paul-gaultier-ladies-so-scandal-edp-spray-27-oz-fragrances-8435415058346.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/jpg-so-scandal-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1635,
@@ -9532,12 +6992,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9500,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Jean Paul Gaultier Women product from Mazaya selection.",
-    "details": "SKU: JPG SCANDAL LE PARFUM 22 HER EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/j/e/jean-paul-gaultier-ladies-scandal-le-parfum-edp-1-7-oz-fragrances-8435415050753.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/jpg-scandal-le-parfum-22-her-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1636,
@@ -9547,12 +7003,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9000,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Paco Rabanne Women product from Mazaya selection.",
-    "details": "SKU: 3349668641772. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668641772_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/olympea-intense-absolu-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1637,
@@ -9562,12 +7014,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Paco Rabanne Women product from Mazaya selection.",
-    "details": "SKU: 3349668612635. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668612635_sz8wcnstfljcju0e.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/olympea-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1638,
@@ -9577,12 +7025,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6900,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Paco Rabanne Women product from Mazaya selection.",
-    "details": "SKU: MILLION FOR HER EDP REFILLABLE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668630257_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/million-for-her-edp-refillable",
-    "source": "Mazaya"
   },
   {
     "id": 1639,
@@ -9592,12 +7036,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Paco Rabanne Women product from Mazaya selection.",
-    "details": "SKU: OLYMPEA RE 2024 PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668627479_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/olympea-re-2024-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1640,
@@ -9607,12 +7047,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6200,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Paco Rabanne Women product from Mazaya selection.",
-    "details": "SKU: 3349668630448. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668630448--.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/p-rabanne-fame-re-24-intense-refillable",
-    "source": "Mazaya"
   },
   {
     "id": 1641,
@@ -9622,12 +7058,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7700,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Paco Rabanne Women product from Mazaya selection.",
-    "details": "SKU: Paco Rabanne Lady Million EDP for Woman. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668508587_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paco-rabanne-lady-million-edp-for-woman",
-    "source": "Mazaya"
   },
   {
     "id": 1642,
@@ -9637,12 +7069,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7700,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Paco Rabanne Women product from Mazaya selection.",
-    "details": "SKU: 3349668508587. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3349668508587.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paco-rabanne-lady-million-edp-for-woman-80-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1643,
@@ -9652,12 +7080,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10120,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Montale Women product from Mazaya selection.",
-    "details": "SKU: 3760260450003. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760260450003_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/roses-musk-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1644,
@@ -9667,12 +7091,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8415,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Montale Women product from Mazaya selection.",
-    "details": "SKU: 3760260453707. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760260453707.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/white-musk-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1645,
@@ -9682,12 +7102,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6985,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Montale Women product from Mazaya selection.",
-    "details": "SKU: 3052110780379. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/u/pure_gold_100ml.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pure-gold-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1646,
@@ -9697,12 +7113,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7590,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: 7640233342756. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/6/7640233342756_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-parfum-absolu-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1647,
@@ -9712,12 +7124,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10120,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: 7640233342053. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/7/57668ae5-82fa-4121-bff5-2fd8e26b7f7f.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/es-elixir-love-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1648,
@@ -9727,12 +7135,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9075,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: 7640233341414. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elie_saab-elixir-edp-for-women-100ml-pic2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/es-elixir-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1649,
@@ -9742,12 +7146,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6325,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: GIRL OF NOW LOVELY EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elie_saab_girl_of_now_lovely_edp_50ml_-_pic1_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/girl-of-now-lovely-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1650,
@@ -9757,12 +7157,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7095,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: 7640233340196. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elie_saab_girl_of_now_edp_50ml_-_pic1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/girl-of-now-edp-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1651,
@@ -9772,12 +7168,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9200,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: Le Parfum EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elie_saab_le_parfum_eau_de_parfum_spray_90_ml_7640233340035_232217_20220110084249_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-parfum-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1652,
@@ -9787,12 +7179,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9075,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: 7640233340721. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elie-saab-le-parfum-lumiere-edp-90ml-01.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-parfum-lumiere-edp-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1653,
@@ -9802,12 +7190,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9200,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: 3423470398021. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423470398021_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-parfum-edp-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1654,
@@ -9817,12 +7201,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8600,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: ELIE SAAB GIRL OF NOW EDP EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elie_saab_girl_of_now_edp_50ml_-_pic1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/elie-saab-girl-of-now-edp-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1655,
@@ -9832,12 +7212,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6325,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: GIRL OF NOW SHINE EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elie_saab_girl_of_now_shine_edp_50ml_-_pic1_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/girl-of-now-shine-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1656,
@@ -9847,12 +7223,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6325,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: Elie Saab GIRL OF NOW FOREVER EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elie_saab_girl_of_now_forever_edp_50ml_-_pic1_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/elie-saab-girl-of-now-forever-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1657,
@@ -9862,12 +7234,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6600,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: 7640233340714. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/9/293186755-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-parfum-lumiere-edp-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1658,
@@ -9877,12 +7245,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9220,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Elie Saab Women product from Mazaya selection.",
-    "details": "SKU: Le Parfum Royal EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elie_saab_le_parfum_royal_edp_90ml_unboxed__49333.1607936029.1280.1280_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/le-parfum-royal-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1659,
@@ -9892,12 +7256,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708021635. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708021635_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/love-addict-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1660,
@@ -9907,12 +7267,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708021628. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708021628.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/raindrops-fleur-intense-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1661,
@@ -9922,12 +7278,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1320,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708021611. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708021611_2__1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/magnolia-dreams-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1662,
@@ -9937,12 +7289,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1570,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708019793. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708019793_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ruby-blossom-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1663,
@@ -9952,12 +7300,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1595,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708020188. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/elegancia.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/elegancia-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1664,
@@ -9967,12 +7311,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1080,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708001798. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/a/sacred_love1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sacard-love-wom-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1665,
@@ -9982,12 +7322,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2640,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708019502. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/v/evoke_midnight_edition.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/evoke-midnight-her-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1666,
@@ -9997,12 +7333,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1185,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708014651. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708014651.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/renata-ii-eau-de-parfum-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1667,
@@ -10012,12 +7344,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2180,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708015634. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708015634.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/amaze-her-eau-de-parfum-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1668,
@@ -10027,12 +7355,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2755,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708015672. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/y/my_wonder_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/my-wonder-eau-de-parfum-85-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1669,
@@ -10042,12 +7366,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4620,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708018758. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/w/i/wisal_layl.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wisal-layl-eau-de-parfum-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1670,
@@ -10057,12 +7377,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2260,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708018765. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/h/shadow_ice.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/shadow-ice-eau-de-parfum-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1671,
@@ -10072,12 +7388,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1705,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL Shine Eau de Parfum Spray. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708009893_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-shine-eau-de-parfum-spray12",
-    "source": "Mazaya"
   },
   {
     "id": 1672,
@@ -10087,12 +7399,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2180,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: Ajmal Evoke Silver Edition Female. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708009145_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-evoke-silver-edition-female12",
-    "source": "Mazaya"
   },
   {
     "id": 1673,
@@ -10102,12 +7410,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2180,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL SHIRO EAU DE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708011186_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-shiro-eau-de-parfum12",
-    "source": "Mazaya"
   },
   {
     "id": 1674,
@@ -10117,12 +7421,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8210,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL INCENSE WOOD  EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708012220_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-incense-wood-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1675,
@@ -10132,12 +7432,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8485,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: PATCHOULI WOOD EAU DE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708008612_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/patchouli-wood-eau-de-parfum12",
-    "source": "Mazaya"
   },
   {
     "id": 1676,
@@ -10147,12 +7443,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8760,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL ROSE WOOD EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007776_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-rose-wood-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1677,
@@ -10162,12 +7454,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6160,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL AMBER MUSC EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007486_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-amber-musc-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1678,
@@ -10177,12 +7465,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6160,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL VIOLET MUSC EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007462_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-violet-musc-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1679,
@@ -10192,12 +7476,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2180,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL CERISE EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007356_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-cerise-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1680,
@@ -10207,12 +7487,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2805,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL WISAL GOLD. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007295_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-wisal-gold12",
-    "source": "Mazaya"
   },
   {
     "id": 1681,
@@ -10222,12 +7498,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8760,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL SANDAL WOOD. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708006755_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-sandal-wood12",
-    "source": "Mazaya"
   },
   {
     "id": 1682,
@@ -10237,12 +7509,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8760,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL HATKORA WOOD EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708006748.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-hatkora-wood-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1683,
@@ -10252,12 +7520,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1485,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708005352. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/i/silvershade_edp_100ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-silver-shade-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1684,
@@ -10267,12 +7531,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2730,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: Ajmal Aurum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/3/538881290aurum-bolt_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-aurum12",
-    "source": "Mazaya"
   },
   {
     "id": 1685,
@@ -10282,12 +7542,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 935,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708001712. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/a/raindrops_edp_50ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-raindrops",
-    "source": "Mazaya"
   },
   {
     "id": 1686,
@@ -10297,12 +7553,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 250,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708010349. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/i/mizyaan-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mizyaan-body-spray-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1687,
@@ -10312,12 +7564,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 250,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708010332. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/a/aatifa1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/aatifa-body-spray-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1688,
@@ -10327,12 +7575,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708008865. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708008865.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cerise-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1689,
@@ -10342,12 +7586,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 250,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708007929. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007929.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wisal-dahab-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1690,
@@ -10357,12 +7597,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708006960. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708006960.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rain-drobs-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1691,
@@ -10372,12 +7608,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708006946. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/a/sacrifice_for_her_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sacerface-for-hir-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1692,
@@ -10387,12 +7619,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708006939. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708006939.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/shadow-for-hir-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1693,
@@ -10402,12 +7630,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 250,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708006922. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/u/aurum.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/aurum-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1694,
@@ -10417,12 +7641,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: 6293708006885. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/carbon1_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/carbon-deo-200-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1695,
@@ -10432,12 +7652,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2315,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: Ajmal Blu Femme EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708009398_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-blu-femme-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1696,
@@ -10447,12 +7663,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2540,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL ALIA EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708008667_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-alia-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1697,
@@ -10462,12 +7674,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2640,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL EVOKE GOLD HER EAU DE PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708011278_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-evoke-gold-her-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1698,
@@ -10477,12 +7685,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6820,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL AMBER SANTAL EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708012688_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-amber-santal-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1699,
@@ -10492,12 +7696,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1355,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL SENORA EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708008261_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-senora-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1700,
@@ -10507,12 +7707,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL CUIR MUSC EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6293708007479_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-cuir-musc-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 1701,
@@ -10522,12 +7718,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1165,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL Enigma. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/1/411_yxsa9ll._sr600_315_sclzzzzzzz__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-enigma12",
-    "source": "Mazaya"
   },
   {
     "id": 1702,
@@ -10537,12 +7729,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7725,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Ajmal Women product from Mazaya selection.",
-    "details": "SKU: AJMAL Believe. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/3/532bffdbad2b594729000da1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ajmal-believe12",
-    "source": "Mazaya"
   },
   {
     "id": 1703,
@@ -10552,12 +7740,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 26150,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666411048. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411048-2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/reasons-essence-de-parfum-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1704,
@@ -10567,12 +7751,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 26150,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666411284. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411055-4.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/outlands-essence-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1705,
@@ -10582,12 +7762,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666410591. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410591-2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/opus-xiv-royal-tobacco-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1706,
@@ -10597,12 +7773,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666410973. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410973-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/love-delight-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1707,
@@ -10612,12 +7784,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666410430. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/70166410430_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/purpose-100ml-edp-1",
-    "source": "Mazaya"
   },
   {
     "id": 1708,
@@ -10627,12 +7795,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 26150,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666411031. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411031-5.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lustre-essence-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1709,
@@ -10642,12 +7806,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666411000. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411000-4.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lilac-love-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1710,
@@ -10657,12 +7817,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666411178. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411178-5.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/existence-edp-i00-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1711,
@@ -10672,12 +7828,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666411185. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411185-7.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/decision-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1712,
@@ -10687,12 +7839,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666411017. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666411017-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/blossom-love-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1713,
@@ -10702,12 +7850,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 30250,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666410720. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410720.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/epic-woman-56-extrait-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1714,
@@ -10717,12 +7861,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 30250,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666410713. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410713.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/honour-woman-43-extrait-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1715,
@@ -10732,12 +7872,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 30250,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666410959. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410959_2__1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/dia-40-woman",
-    "source": "Mazaya"
   },
   {
     "id": 1716,
@@ -10747,12 +7883,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666410621. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410621_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/love-tuberose-woman-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1717,
@@ -10762,12 +7894,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21750,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Amouage Women product from Mazaya selection.",
-    "details": "SKU: 701666410041. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/0/701666410041_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/dia-woman-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1718,
@@ -10777,12 +7905,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Dolce & Gabbana Women product from Mazaya selection.",
-    "details": "SKU: The One Man EDP Intense. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8057971181568.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-one-man-edp-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1719,
@@ -10792,12 +7916,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6900,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Dolce & Gabbana Women product from Mazaya selection.",
-    "details": "SKU: Q by Dolce and Gabbana Intense. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/q/_/q_by_dolce_and_gabbana_intense.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/q-by-dolce-and-gabbana-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1720,
@@ -10807,12 +7927,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10600,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Dolce & Gabbana Women product from Mazaya selection.",
-    "details": "SKU: 8057971184910. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/h/the_only_one_women_edp_100ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-only-one-women-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1721,
@@ -10822,12 +7938,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6600,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Dolce & Gabbana Women product from Mazaya selection.",
-    "details": "SKU: DEVOTION EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8057971183739_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/devotion-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1722,
@@ -10837,12 +7949,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Dolce & Gabbana Women product from Mazaya selection.",
-    "details": "SKU: Q by Dolce&Gabbana EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/q/_/q_by_dolce_gabbana_edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/q-by-dolce-gabbana-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1723,
@@ -10852,12 +7960,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4900,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Dolce & Gabbana Women product from Mazaya selection.",
-    "details": "SKU: K EDT. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8057971181544_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/k-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1724,
@@ -10867,12 +7971,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Dolce & Gabbana Women product from Mazaya selection.",
-    "details": "SKU: The one gold EDP intense. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8057971188673_5__1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-one-gold-edp-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1725,
@@ -10882,12 +7982,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8400,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Dolce & Gabbana Women product from Mazaya selection.",
-    "details": "SKU: The Only One Women intense EDP intense. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/h/the_only_one_women_intense_edp_intense.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-only-one-women-intense-edp-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1726,
@@ -10897,12 +7993,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10400,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Dolce & Gabbana Women product from Mazaya selection.",
-    "details": "SKU: The One Man EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/h/the_one_man_edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-one-man-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1727,
@@ -10912,12 +8004,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Boss Women product from Mazaya selection.",
-    "details": "SKU: Hugo Boss Ladies Alive Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304252921.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-boss-ladies-alive-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1728,
@@ -10927,12 +8015,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6550,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Boss Women product from Mazaya selection.",
-    "details": "SKU: 3616302968244. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616302968244.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-boss-ladies-alive-intense-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1729,
@@ -10942,12 +8026,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5600,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Boss Women product from Mazaya selection.",
-    "details": "SKU: 3616302681105. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616302681105_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/scent-rev-w-rg-prfm-50-ml-21v",
-    "source": "Mazaya"
   },
   {
     "id": 1730,
@@ -10957,12 +8037,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5300,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Boss Women product from Mazaya selection.",
-    "details": "SKU: 3616302968237. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616302968237_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hugo-boss-ladies-alive-intense-edp-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1731,
@@ -10972,12 +8048,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7000,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: Flora Gorgeous Orchid EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305169273.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/flora-gorgeous-orchid-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1732,
@@ -10987,12 +8059,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9700,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 3616305259448. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305259448_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guilty-love-edition-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1733,
@@ -11002,12 +8070,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10600,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 3616305275745. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305275745_20250623180407.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gucci-flora-gorgeous-gardenia-intense-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1734,
@@ -11017,12 +8081,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8900,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 3616304175916. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304175916__jfif.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guilty-elixir-female-60-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1735,
@@ -11032,12 +8092,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10600,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 3616304249716. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304249716_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gucci-ladies-bloom-intense-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1736,
@@ -11047,12 +8103,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10600,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 3616301794639. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616301794639.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gucci-guilty-pour-femme-edp-90ml-intense",
-    "source": "Mazaya"
   },
   {
     "id": 1737,
@@ -11062,12 +8114,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9600,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: Gucci Flora Gorgeous Magnolia EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303470906_7.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gucci-flora-gorgeous-magnolia-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1738,
@@ -11077,12 +8125,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9600,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 3616302022472. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616302022472_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/flora-gorgeous-jasmine-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1739,
@@ -11092,12 +8136,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9600,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 8005610481005. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/2/n26365874a_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gucci-bloom-for-women-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1740,
@@ -11107,12 +8147,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10900,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 3616304255250. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304255250_2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/flora-gorgeous-jasmine-edp-150ml",
-    "source": "Mazaya"
   },
   {
     "id": 1741,
@@ -11122,12 +8158,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 3616305275752. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305275752.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/flora-gorgeous-gardenia-intense-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1742,
@@ -11137,12 +8169,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10900,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: 3616303463267. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303463267_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guilty-pour-femme-edp-150ml",
-    "source": "Mazaya"
   },
   {
     "id": 1743,
@@ -11152,12 +8180,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9000,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Gucci Women product from Mazaya selection.",
-    "details": "SKU: Flora Gorgeous Jasmine Eau de Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616302968534_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/flora-gorgeous-jasmine-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1744,
@@ -11167,12 +8191,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7775,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: LINTERDIT ROUGE ULTIME. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872456341-.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-interdit-rouge-ultime",
-    "source": "Mazaya"
   },
   {
     "id": 1745,
@@ -11182,12 +8202,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9205,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: Linterdit rouge. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/1/71ussqcl3il._ac_sl1500_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-interdit-rouge",
-    "source": "Mazaya"
   },
   {
     "id": 1746,
@@ -11197,12 +8213,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6340,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: Irresistible EDT Fraiche. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/1/31sachkh3jl._ac__2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/irresistible-edt-fraiche",
-    "source": "Mazaya"
   },
   {
     "id": 1747,
@@ -11212,12 +8224,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9205,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: 3274872447561. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/z/ezgif-4-83b400c561.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/irresistible-rose-velvet-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1748,
@@ -11227,12 +8235,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7220,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: Givenchy LINTERDIT EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/i/givenchy_l_interdit_edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/givenchy-l-interdit-edp123",
-    "source": "Mazaya"
   },
   {
     "id": 1749,
@@ -11242,12 +8246,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6340,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: 3274872441972. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872441972_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/linterdit-22-edt-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1750,
@@ -11257,12 +8257,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11300,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: 3274872468931. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872468931.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-interdit-rouge-125-ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1751,
@@ -11272,12 +8268,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10200,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: 3274872445529. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872445529-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-interdit-eau-de-parfum-refill-for-women-150-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1752,
@@ -11287,12 +8279,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6780,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: 3274872467057. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872467057.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-interdit-eau-de-parfum-tubereuse-noire",
-    "source": "Mazaya"
   },
   {
     "id": 1753,
@@ -11302,12 +8290,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7220,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: 3274872469006. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872469006.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/irresistible-very-floral-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1754,
@@ -11317,12 +8301,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7220,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: IRRESISTIBLE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872456136_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/irresistible",
-    "source": "Mazaya"
   },
   {
     "id": 1755,
@@ -11332,12 +8312,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9700,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: 3274872451148. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872451148-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ddiv-new-mythical",
-    "source": "Mazaya"
   },
   {
     "id": 1756,
@@ -11347,12 +8323,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9205,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: 3274872469013. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872469013-.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/givenchy-irresistible-very-floral",
-    "source": "Mazaya"
   },
   {
     "id": 1757,
@@ -11362,12 +8334,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11300,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Givenchy Women product from Mazaya selection.",
-    "details": "SKU: 3274872459090. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/2/3274872459090.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/givenchy-linterdit",
-    "source": "Mazaya"
   },
   {
     "id": 1758,
@@ -11377,12 +8345,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: Very Good Girl Elixir. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061106228_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/very-good-girl-elixir",
-    "source": "Mazaya"
   },
   {
     "id": 1759,
@@ -11392,12 +8356,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9700,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 8411061056752. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/375x500.78576.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/good-girl-blush-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1760,
@@ -11407,12 +8367,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8600,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 8411061093207. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061093207-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ladies-good-girl-sparkling-ice-edp-80-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1761,
@@ -11422,12 +8378,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2800,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 8411061093252. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061093252_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/good-girl-blush-hair-30ml-mist",
-    "source": "Mazaya"
   },
   {
     "id": 1762,
@@ -11437,12 +8389,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6900,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 8411061085530. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061085530.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/birds-of-paradise-eau-de-parfum-spray-100ml-limited-edition",
-    "source": "Mazaya"
   },
   {
     "id": 1763,
@@ -11452,12 +8400,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5500,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 212 VIP ROSÉ ELIXIR EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061083499_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/212-vip-rose-elixir-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1764,
@@ -11467,12 +8411,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: GOOD GIRL BLUSH ELIXIR. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061083666-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/good-girl-blush-elixir",
-    "source": "Mazaya"
   },
   {
     "id": 1765,
@@ -11482,12 +8422,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4500,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 8411061055199. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/ch-pasion-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1766,
@@ -11497,12 +8433,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8900,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 8411061838778. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061838778_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/212-vip-rose-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 1767,
@@ -11512,12 +8444,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 8411061995754. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/img_8248-photoroom.png-photoroom_3_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/very-good-girl-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1768,
@@ -11527,12 +8455,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 8411061045497. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/z/ezgif-4-b246fde6ef.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/good-girl-midnight-le22-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1769,
@@ -11542,12 +8466,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4900,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Carolina Herrera Women product from Mazaya selection.",
-    "details": "SKU: 8411061026618. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/4/8411061026618_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/212-vip-rose-le-22-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1770,
@@ -11557,12 +8477,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20450,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Marly Women product from Mazaya selection.",
-    "details": "SKU: 3700578504555. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700578504555_3_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/palatine-75ml-parfum-spray",
-    "source": "Mazaya"
   },
   {
     "id": 1771,
@@ -11572,12 +8488,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20200,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Marly Women product from Mazaya selection.",
-    "details": "SKU: 3700578524003. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/2/2201_marly_cassili_02_tiff_1_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marly-cassili-edp-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1772,
@@ -11587,12 +8499,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21900,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Marly Women product from Mazaya selection.",
-    "details": "SKU: 3700578501981. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700578501981-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/delina-exclusif-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1773,
@@ -11602,12 +8510,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 22300,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Marly Women product from Mazaya selection.",
-    "details": "SKU: 3700578503251. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/o/r/oriana_edp_75mi_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/oriana-edp-75mi",
-    "source": "Mazaya"
   },
   {
     "id": 1774,
@@ -11617,12 +8521,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20350,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Marly Women product from Mazaya selection.",
-    "details": "SKU: 3700578501998. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/d/pdm_delina_lr_bottle_r1-photoroom.png-photoroom_2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marly-delina-edp-75-ml-1",
-    "source": "Mazaya"
   },
   {
     "id": 1775,
@@ -11632,12 +8532,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20100,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Marly Women product from Mazaya selection.",
-    "details": "SKU: 3700578502056. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/d/pdm_safanad-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marly-safanad-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1776,
@@ -11647,12 +8543,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20050,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Marly Women product from Mazaya selection.",
-    "details": "SKU: 3700578502063. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/d/pdm_meliora-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marly-meliora-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1777,
@@ -11662,12 +8554,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20350,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Marly Women product from Mazaya selection.",
-    "details": "SKU: 3700578503046. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/d/pdm_valaya-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marly-valaya-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1778,
@@ -11677,12 +8565,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5425,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: 3616305488640. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/t/eternity_for_her_amber_essence_100ml.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/eternity-for-her-amber-essence-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1779,
@@ -11692,12 +8576,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5150,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: 3607340213267. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3607340213267.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/beauty-woman-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1780,
@@ -11707,12 +8587,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5940,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: Calvin Klein Euphoria for Women - Eau de Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/f/c/fc-12293-gr-199278-b_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/calvin-klein-euphoria-for-women-eau-de-parfum11",
-    "source": "Mazaya"
   },
   {
     "id": 1781,
@@ -11722,12 +8598,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5940,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: 088300162505. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/088300162505.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/calvin-klein-euphoria-for-women-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1782,
@@ -11737,12 +8609,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5610,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: 3616304478246. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304478246-_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/my-euphoria-women-red-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1783,
@@ -11752,12 +8620,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3290,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: 088300196814. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/088300196814_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/in-2-u-edt-100-ml-for-women",
-    "source": "Mazaya"
   },
   {
     "id": 1784,
@@ -11767,12 +8631,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5005,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: 3616304248221. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304248221_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/euphoria-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1785,
@@ -11782,12 +8642,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3915,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: 3614222832799. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614222832799.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/euphoria-pure-gold-woman-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1786,
@@ -11797,12 +8653,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3760,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: Everyone EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616301781172_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/everyone-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1787,
@@ -11812,12 +8664,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5060,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: 3616303549732. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303549732_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ck-eternity-for-women-edp-intense-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1788,
@@ -11827,12 +8675,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4455,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: Calvin Klein Obsessed for Women EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/calvin-klein-ck-obsessed-woman-eau-de-parfum-vaporizador-100-ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/calvin-keline-obsessed-for-women-edp11",
-    "source": "Mazaya"
   },
   {
     "id": 1789,
@@ -11842,12 +8686,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5150,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Calvin Klein Women product from Mazaya selection.",
-    "details": "SKU: CK BEAUTY SHEER EDT. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/k/ck_beauty_sheer_edt_50ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ck-beauty-sheer-edt11",
-    "source": "Mazaya"
   },
   {
     "id": 1790,
@@ -11857,12 +8697,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 15450,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "The merchant of Venice Women product from Mazaya selection.",
-    "details": "SKU: 679602811200. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602811200.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/exclusive-imperial-emerald-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1791,
@@ -11872,12 +8708,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8250,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "The merchant of Venice Women product from Mazaya selection.",
-    "details": "SKU: 679602481335. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602481335.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rosa-moceniga-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1792,
@@ -11887,12 +8719,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 18650,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "The merchant of Venice Women product from Mazaya selection.",
-    "details": "SKU: 679602481274. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602481274.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/exclusive-queen-of-the-night-edpc-100-ml-new",
-    "source": "Mazaya"
   },
   {
     "id": 1793,
@@ -11902,12 +8730,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11000,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "The merchant of Venice Women product from Mazaya selection.",
-    "details": "SKU: 679602008129. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/7/679602008129.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-fenice-my-pearls-edp-concentree-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1794,
@@ -11917,12 +8741,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9800,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Michael Cinco Women product from Mazaya selection.",
-    "details": "SKU: 3770032647111. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/3/m3-1-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/michael-cinco-m3-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1795,
@@ -11932,12 +8752,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9800,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Michael Cinco Women product from Mazaya selection.",
-    "details": "SKU: 3770032647135. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/1/m1-1-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/michael-cinco-m1-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1796,
@@ -11947,12 +8763,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 13050,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022731326. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760022731326.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/in-the-mood-for-oud-75ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1797,
@@ -11962,12 +8774,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 13050,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022730770. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760022730770.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/liquid-illusion-edp-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1798,
@@ -11977,12 +8785,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022730664. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760022730664.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/moscow-mule-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1799,
@@ -11992,12 +8796,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3770000002713. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3770000002713.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/miss-charming-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1800,
@@ -12007,12 +8807,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 13050,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3770000002492. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/o/i/oil_fiction_pack_and_bottle_cmjn.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/oil-fiction-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1801,
@@ -12022,12 +8818,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022733924. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/j/h/jhag_ode-to-dullness_100ml_06c.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ode-to-dullness-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1802,
@@ -12037,12 +8829,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 14150,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022730381. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/metal_chypre-face_cmjn_d_tour_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/metal-chypre-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1803,
@@ -12052,12 +8840,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 14150,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022730213. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/a/packshot_into_the_void.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/into-the-void-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1804,
@@ -12067,12 +8851,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 13050,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022730022. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/w/h/white_spirit_bottle_and_pack.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/white-spirit-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1805,
@@ -12082,12 +8862,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022733580. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/j/h/jhag_100ml_pack_lust-for-sun_08.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lust-for-sun-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1806,
@@ -12097,12 +8873,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7250,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022732767. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/6/r66.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/pear-inc-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1807,
@@ -12112,12 +8884,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7250,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022731814. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/image58_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/musc-invisible-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1808,
@@ -12127,12 +8895,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7250,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022730251. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/4/r44_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mmmm-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1809,
@@ -12142,12 +8906,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7250,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3770000002683. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/n/untitled2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lady-vengeance-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1810,
@@ -12157,12 +8917,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7250,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022731753. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/image22.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lipstick-fever-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1811,
@@ -12172,12 +8928,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7900,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3770000002331. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/image37.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/magnolia-bliss-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1812,
@@ -12187,12 +8939,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7900,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3770000002669. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/_/r_4_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/edp-another-oud-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1813,
@@ -12202,12 +8950,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7250,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Juliette has a gun Women product from Mazaya selection.",
-    "details": "SKU: 3760022731180. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/image84.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vanilla-vibes-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1814,
@@ -12217,12 +8961,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458603323. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458603323.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lalibela-75ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1815,
@@ -12232,12 +8972,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 30700,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458604542. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/2/523224586-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marfa-edp-200ml",
-    "source": "Mazaya"
   },
   {
     "id": 1816,
@@ -12247,12 +8983,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 31350,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458604375. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/cardamom_geranium_leather_accord_rose_essence.-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/african-leather-rose",
-    "source": "Mazaya"
   },
   {
     "id": 1817,
@@ -12262,12 +8994,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458602487. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458602487.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/edp-sicilian-leather-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1818,
@@ -12277,12 +9005,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458602524. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458602524.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/corfu-edp-75mi",
-    "source": "Mazaya"
   },
   {
     "id": 1819,
@@ -12292,12 +9016,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458604610. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458604610.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sherwood-edp-75mi",
-    "source": "Mazaya"
   },
   {
     "id": 1820,
@@ -12307,12 +9027,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 31350,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458603064. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458603064-removebg-preview_2.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marla-spices-edp-75mi",
-    "source": "Mazaya"
   },
   {
     "id": 1821,
@@ -12322,12 +9038,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 31350,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458604382. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3700458604382-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lalibela-oud-edp-75mi",
-    "source": "Mazaya"
   },
   {
     "id": 1822,
@@ -12337,12 +9049,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4125,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458600285. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/9/391d9c6fbdace5061950691fb6d73c6e-hi.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hair-perf-80ml-french-leather",
-    "source": "Mazaya"
   },
   {
     "id": 1823,
@@ -12352,12 +9060,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458618938. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/p/up3700458618938.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/memo-edp-jannat-75ml12344",
-    "source": "Mazaya"
   },
   {
     "id": 1824,
@@ -12367,12 +9071,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4125,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458600261. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/i/pic2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/memo-hair-perfume-80ml-marfa12344",
-    "source": "Mazaya"
   },
   {
     "id": 1825,
@@ -12382,12 +9082,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17550,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Memo Women product from Mazaya selection.",
-    "details": "SKU: 3700458618594. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/memmem031_memoparis_moroccanleather_1560x1960-fbhf4jpg.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/memo-edp-moroccan-leather-75ml12344",
-    "source": "Mazaya"
   },
   {
     "id": 1826,
@@ -12397,12 +9093,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6460,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Swiss Arabian Women product from Mazaya selection.",
-    "details": "SKU: 6295124042799. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124042799_4_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spirit-of-valencia-1404-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1827,
@@ -12412,12 +9104,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6460,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Swiss Arabian Women product from Mazaya selection.",
-    "details": "SKU: 6295124042782. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124042782_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/passion-of-venice-1404-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1828,
@@ -12427,12 +9115,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6965,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Swiss Arabian Women product from Mazaya selection.",
-    "details": "SKU: 6295124036835. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124036835_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/oud74-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1829,
@@ -12442,12 +9126,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6965,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Swiss Arabian Women product from Mazaya selection.",
-    "details": "SKU: 6295124041006. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041006.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/musk74-poudre-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1830,
@@ -12457,12 +9137,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6965,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Swiss Arabian Women product from Mazaya selection.",
-    "details": "SKU: 6295124037931. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124037931_4_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rose01-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1831,
@@ -12472,12 +9148,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6965,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Swiss Arabian Women product from Mazaya selection.",
-    "details": "SKU: 6295124036804. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124036804_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/musk07-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1832,
@@ -12487,12 +9159,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4750,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Swiss Arabian Women product from Mazaya selection.",
-    "details": "SKU: 6295124031250. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124031250_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gharaam-1080-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1833,
@@ -12502,12 +9170,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4970,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Swiss Arabian Women product from Mazaya selection.",
-    "details": "SKU: 6295124041266. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041266_5_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/shaghaf-oud-azraq-985-75ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1834,
@@ -12517,12 +9181,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3720,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Swiss Arabian Women product from Mazaya selection.",
-    "details": "SKU: 6295124024290. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/w/swiss_casablanca.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/casablanca-1043-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1835,
@@ -12532,12 +9192,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 850,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Parour Women product from Mazaya selection.",
-    "details": "SKU: PAROUR Black & Gold by Lomani for Women EDP Spray. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/o/lomani_8_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parour-black-gold-by-lomani-for-women-edp-spray",
-    "source": "Mazaya"
   },
   {
     "id": 1836,
@@ -12547,12 +9203,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 905,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Parour Women product from Mazaya selection.",
-    "details": "SKU: PAROUR Giorgio Valenti So Valent Eau De Parfum For Women. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/o/so-valenti-women-100ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parour-giorgio-valenti-so-valent-eau-de-parfum-for-women",
-    "source": "Mazaya"
   },
   {
     "id": 1837,
@@ -12562,12 +9214,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 850,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Parour Women product from Mazaya selection.",
-    "details": "SKU: PAROUR Lomani Mademoiselle EDP For Woman. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/1/416cgee5ktl._sr600_315_sclzzzzzzz__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parour-lomani-mademoiselle-edp-for-woman",
-    "source": "Mazaya"
   },
   {
     "id": 1838,
@@ -12577,12 +9225,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 905,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Parour Women product from Mazaya selection.",
-    "details": "SKU: PAROUR I Love Lomani Paradise by Lomani Eau de Perfume For Women. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/t/item_xl_36899174_144340856_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parour-i-love-lomani-paradise-by-lomani-eau-de-perfume-for-women",
-    "source": "Mazaya"
   },
   {
     "id": 1839,
@@ -12592,12 +9236,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 845,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Parour Women product from Mazaya selection.",
-    "details": "SKU: PAROUR LOMANI SWEETY EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/o/lomani-sweety-edp-100ml_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parour-lomani-sweety-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1840,
@@ -12607,12 +9247,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6385,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240505293. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240505293_3ubzgmu7ibg7kktq-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/declaration-haute-fraicheur-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1841,
@@ -12622,12 +9258,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6535,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240504685. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240504685_ncbjfjyqmmqqwmzt.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/declaration-edt-limited-edition-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1842,
@@ -12637,12 +9269,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8615,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240502605. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240502605_mrmcazrbwo0hgwlx.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-panthere-sparkling-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1843,
@@ -12652,12 +9280,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4990,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240500328. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240500328_6osmblbkapxrqpad.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/baiser-vole-fraiche-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1844,
@@ -12667,12 +9291,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6365,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240036261. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240036261_vhmachvjfev7fwwv.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-panthere-legere-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1845,
@@ -12682,12 +9302,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2685,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240005656. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240005656_gsqesnwmaga6ro6f.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/must-de-cartier-edt-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1846,
@@ -12697,12 +9313,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5395,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240029645. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240029645-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/baiser-vole-fraiche-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1847,
@@ -12712,12 +9324,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2785,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240502193. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240502193.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/carart-de-cartier-edp-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1848,
@@ -12727,12 +9335,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6535,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240005076. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240005076_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cartdeclaration-essence-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1849,
@@ -12742,12 +9346,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5245,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240501172. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240501172.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/baiser-fou-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1850,
@@ -12757,12 +9357,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6535,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240502087. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240005076.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/declaration-essence-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1851,
@@ -12772,12 +9368,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8615,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240504982. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/3/a345c3e7ed2f8bc94ba11d9beb79b2e3.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-panthere-limited-edition-perfume-for-women-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1852,
@@ -12787,12 +9379,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6385,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: L 'ENVOL EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240501141_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-envol-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1853,
@@ -12802,12 +9390,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8615,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: 3432240504265. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/1/c1e59716-a729-4f89-a6b3-d757f347add1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-panthere-ltd-edition-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1854,
@@ -12817,12 +9401,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6535,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: PARFUM LA PANTHERE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3432240504296_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/parfum-la-panthere",
-    "source": "Mazaya"
   },
   {
     "id": 1855,
@@ -12832,12 +9412,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8615,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Cartier Women product from Mazaya selection.",
-    "details": "SKU: LA PANTHERE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/h/vhjzcngdfczhwn4pg25hzjgpbxvzxivi5ercj4qe_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-panthere",
-    "source": "Mazaya"
   },
   {
     "id": 1856,
@@ -12847,12 +9423,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3800,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Michael Kors Women product from Mazaya selection.",
-    "details": "SKU: SEXY AMBER EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/e/sexy_amber_edp_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sexy-amber-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1857,
@@ -12862,12 +9434,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4900,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Michael Kors Women product from Mazaya selection.",
-    "details": "SKU: 22548289655. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/2/22548289662_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sexy-amber-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1858,
@@ -12877,12 +9445,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Michael Kors Women product from Mazaya selection.",
-    "details": "SKU: 22548419953. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/2/22548419953.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gorgeous-edp-edp-100-ml-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1859,
@@ -12892,12 +9456,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Michael Kors Women product from Mazaya selection.",
-    "details": "SKU: WONDERLUST EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/w/o/wonderlust_edp_6.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wonderlust-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1860,
@@ -12907,12 +9467,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Michael Kors Women product from Mazaya selection.",
-    "details": "SKU: 22548366448. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/2/22548366448.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wonderlust-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1861,
@@ -12922,12 +9478,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3800,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Michael Kors Women product from Mazaya selection.",
-    "details": "SKU: 22548289662. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/2/22548289662.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sexy-amber-edp-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1862,
@@ -12937,12 +9489,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Michael Kors Women product from Mazaya selection.",
-    "details": "SKU: GORGEOUS! EDP EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/o/gorgeous_edp_edp_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gorgeous-edp-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1863,
@@ -12952,12 +9500,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "ExNihilo Women product from Mazaya selection.",
-    "details": "SKU: 3760264096702. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264096702.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vesper-glitz-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1864,
@@ -12967,12 +9511,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "ExNihilo Women product from Mazaya selection.",
-    "details": "SKU: 3760264095309. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264095309.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/santal-calling-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1865,
@@ -12982,12 +9522,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "ExNihilo Women product from Mazaya selection.",
-    "details": "SKU: EXPLICITE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264093251_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/explicite",
-    "source": "Mazaya"
   },
   {
     "id": 1866,
@@ -12997,12 +9533,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "ExNihilo Women product from Mazaya selection.",
-    "details": "SKU: BLUE TALISMAN. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264097440_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/blue-talisman",
-    "source": "Mazaya"
   },
   {
     "id": 1867,
@@ -13012,12 +9544,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 24850,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "ExNihilo Women product from Mazaya selection.",
-    "details": "SKU: 3760264092193. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264092193.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/atlas-fever-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1868,
@@ -13027,12 +9555,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 25100,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "ExNihilo Women product from Mazaya selection.",
-    "details": "SKU: 3760264092162. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264092162.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/amber-sky-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1869,
@@ -13042,12 +9566,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "ExNihilo Women product from Mazaya selection.",
-    "details": "SKU: GOLD IMMORTALS. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264093565_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gold-immortals",
-    "source": "Mazaya"
   },
   {
     "id": 1870,
@@ -13057,12 +9577,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 18500,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "ExNihilo Women product from Mazaya selection.",
-    "details": "SKU: 3760264094166. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760264094166_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-hedonist-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1871,
@@ -13072,12 +9588,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5280,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Mercedes Benz Women product from Mazaya selection.",
-    "details": "SKU: 3595471071125. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3595471071125.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/woman-in-red-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1872,
@@ -13087,12 +9599,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4410,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Mercedes Benz Women product from Mazaya selection.",
-    "details": "SKU: MERCEDES-BENZ WOMAN EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/mercedes-benz_womman_edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mercedes-benz-womman-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1873,
@@ -13102,12 +9610,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9075,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Chopard Women product from Mazaya selection.",
-    "details": "SKU: 7640177360786. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/a/vanille_malika_edp_100ml_-_pic1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vanille-malika-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1874,
@@ -13117,12 +9621,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8140,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Chopard Women product from Mazaya selection.",
-    "details": "SKU: 7640177360731. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/r/iris_malika_edp_100ml_-_pic1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/iris-malika-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1875,
@@ -13132,12 +9632,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9010,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Chopard Women product from Mazaya selection.",
-    "details": "SKU: 7640177362049. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/6/7640177362049.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/happy-felicia-roses-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1876,
@@ -13147,12 +9643,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9010,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Chopard Women product from Mazaya selection.",
-    "details": "SKU: 7640177362124. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/happy-bigaradia-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1877,
@@ -13162,12 +9654,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3575,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Chopard Women product from Mazaya selection.",
-    "details": "SKU: 7640177366191. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/h/chopard-wish-edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/chopard-wish-edp-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1878,
@@ -13177,12 +9665,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7820,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Chopard Women product from Mazaya selection.",
-    "details": "SKU: 7640177360120. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/o/download_3_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/malaki-rose-edp234",
-    "source": "Mazaya"
   },
   {
     "id": 1879,
@@ -13192,12 +9676,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8910,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Chopard Women product from Mazaya selection.",
-    "details": "SKU: Love Chopard EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/_/u_7640177363176_01_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/love-chopard-edp234",
-    "source": "Mazaya"
   },
   {
     "id": 1880,
@@ -13207,12 +9687,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833276. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833276-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extrait-de-perfume-insignia-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1881,
@@ -13222,12 +9698,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21550,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833696. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833696.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extract-de-perfume-the-hope-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1882,
@@ -13237,12 +9709,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 19000,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 724120146928. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/2/724120146928.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/soml-extract-de-perfume-sceptre",
-    "source": "Mazaya"
   },
   {
     "id": 1883,
@@ -13252,12 +9720,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 18150,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833566. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833566.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/soml-extract-de-perfume-red-cullinan-dimaond",
-    "source": "Mazaya"
   },
   {
     "id": 1884,
@@ -13267,12 +9731,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21550,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833702. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833702.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extract-de-perfume-peacock-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1885,
@@ -13282,12 +9742,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 25200,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833719. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833719.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extract-de-perfume-nooroloain-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1886,
@@ -13297,12 +9753,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833658. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833658.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fanfare-cologne-euxir",
-    "source": "Mazaya"
   },
   {
     "id": 1887,
@@ -13312,12 +9764,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833337. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833337.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/discovery-set-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1888,
@@ -13327,12 +9775,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 31350,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833320. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833320.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/perfume-treasure-collection",
-    "source": "Mazaya"
   },
   {
     "id": 1889,
@@ -13342,12 +9786,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 15400,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833115. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833115.webp.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sovereign-collection-box-4in1",
-    "source": "Mazaya"
   },
   {
     "id": 1890,
@@ -13357,12 +9797,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833924. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905833924-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/chords-100mi-cologne-elixir",
-    "source": "Mazaya"
   },
   {
     "id": 1891,
@@ -13372,12 +9808,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21550,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905832484. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/5060905832484.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/extract-de-perfume-amber-room-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1892,
@@ -13387,12 +9819,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 5060905833795. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/n/untitledrrrr_111_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bohemian-infusion-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1893,
@@ -13402,12 +9830,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 724120146959. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/2/724120146959.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/royal-sapphire-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1894,
@@ -13417,12 +9841,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 19000,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 724120146904. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/imperial_crown_50_mlr.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/imperial-crown",
-    "source": "Mazaya"
   },
   {
     "id": 1895,
@@ -13432,12 +9852,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20700,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Thameen Women product from Mazaya selection.",
-    "details": "SKU: 724120146911. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/2/724120146911_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/soml-extract-de-perfume-diadem",
-    "source": "Mazaya"
   },
   {
     "id": 1896,
@@ -13447,12 +9863,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1065,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124043406. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124043406.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/maison-de-luxe-1600-100ml-edp-sap",
-    "source": "Mazaya"
   },
   {
     "id": 1897,
@@ -13462,12 +9874,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1090,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124043369. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124043369.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rouge-1195-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1898,
@@ -13477,12 +9885,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 825,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124030376. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124030376.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rave1172-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1899,
@@ -13492,12 +9896,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124039553. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039553.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/qamar-1192-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1900,
@@ -13507,12 +9907,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124039515. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039515.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/oud-al-lail-1190-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1901,
@@ -13522,12 +9918,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124039508. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039508.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/oud-al-hayat-1190-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1902,
@@ -13537,12 +9929,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1090,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124041136. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041136.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ode-1194-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1903,
@@ -13552,12 +9940,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 660,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124001826. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124001826.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nancy-336u-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1904,
@@ -13567,12 +9951,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124039546. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039546.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/laheeb-1192-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1905,
@@ -13582,12 +9962,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124039539. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039539.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/helm-694-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1906,
@@ -13597,12 +9973,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 825,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124001444. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124001444.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/chichi902u-100ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1907,
@@ -13612,12 +9984,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1090,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124041082. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041082.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/caresse-1193-80ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1908,
@@ -13627,12 +9995,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1040,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124030253. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124030253.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bound1168-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1909,
@@ -13642,12 +10006,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124039522. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124039522.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/albi-694-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1910,
@@ -13657,12 +10017,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1090,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124041143. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041143.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vogue-1195-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1911,
@@ -13672,12 +10028,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 825,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124000584. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124000584.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/promise-920-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1912,
@@ -13687,12 +10039,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 660,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124002175. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124002175.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nancy-pink-336u-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1913,
@@ -13702,12 +10050,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1040,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124030314. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124030314.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/intense1166-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1914,
@@ -13717,12 +10061,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1090,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Sapil Women product from Mazaya selection.",
-    "details": "SKU: 6295124041105. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6295124041105.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/desire-1193-80ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1915,
@@ -13732,12 +10072,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17000,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: 8054320900900. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8054320900900.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kemi-50ml-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1916,
@@ -13747,12 +10083,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 25850,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: XXY Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-xxy-parfum-100ml-flacon-photoroom.png-photoroom_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/xxy-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1917,
@@ -13762,12 +10094,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 24850,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: Symphonium Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-symphonium-parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/symphonium-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1918,
@@ -13777,12 +10105,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11100,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: Accento EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-accento-eau_de_parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/accento-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1919,
@@ -13792,12 +10116,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 25850,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: Elle Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-elle-parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/elle-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1920,
@@ -13807,12 +10127,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8750,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: 8033488156060. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8033488156060_zpyq1flqj7kh0im5.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/alexandria-ii-perfumed-hair-mist-30ml",
-    "source": "Mazaya"
   },
   {
     "id": 1921,
@@ -13822,12 +10138,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 14350,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: 8054320900849. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8054320900849.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/luna-50mi-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1922,
@@ -13837,12 +10149,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 22250,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: 8054320900733. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8054320900733_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hayat-100mi-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1923,
@@ -13852,12 +10160,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 12350,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: 8033488158842. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-opera-eau_de_parfum-100ml-flacon_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/opera-edp-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 1924,
@@ -13867,12 +10171,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11100,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: Soprano EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/o/soprano_edp.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/soprano-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1925,
@@ -13882,12 +10182,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11800,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: 8054320900276. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/img_8879.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/jtc-join-the-club-400-edp-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1926,
@@ -13897,12 +10193,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 19300,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Xerjoff Women product from Mazaya selection.",
-    "details": "SKU: 8033488156367. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/x/e/xerjoff-opera-eau_de_parfum-100ml-flacon.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/opera-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1927,
@@ -13912,12 +10204,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Orto Paris Women product from Mazaya selection.",
-    "details": "SKU: 8717774840832. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/k/kkkk.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/brutus-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1928,
@@ -13927,12 +10215,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Orto Paris Women product from Mazaya selection.",
-    "details": "SKU: 8717774840849. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/7/8717774840849.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/boccanera-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1929,
@@ -13942,12 +10226,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Orto Paris Women product from Mazaya selection.",
-    "details": "SKU: 8717774840825. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/7/8717774840825-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/viride-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1930,
@@ -13957,12 +10237,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Orto Paris Women product from Mazaya selection.",
-    "details": "SKU: 8717774840856. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/7/8717774840856_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/seminalis-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1931,
@@ -13972,12 +10248,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10850,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Orto Paris Women product from Mazaya selection.",
-    "details": "SKU: 8717774840887. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/7/8717774840887.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cuoium-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1932,
@@ -13987,12 +10259,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1155,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102023876. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/o/love.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/baugsons-love-more-worry-less-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1933,
@@ -14002,12 +10270,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 960,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102029717. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102029717.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/golden-spirit-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1934,
@@ -14017,12 +10281,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102030584. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102030584_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/maleficent-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1935,
@@ -14032,12 +10292,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1140,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102032014. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102032014_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wow-oud-53-edp-80ml",
-    "source": "Mazaya"
   },
   {
     "id": 1936,
@@ -14047,12 +10303,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 135,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6378670841207. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/3/6378670841207.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/creation-pour-femme-deo1-spray-200ml",
-    "source": "Mazaya"
   },
   {
     "id": 1937,
@@ -14062,12 +10314,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102031758. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102031758_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/scudo-electrique-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1938,
@@ -14077,12 +10325,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1140,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102032069. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102032069_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fabulicious-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1939,
@@ -14092,12 +10336,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102029700. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102029700.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/late-night-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1940,
@@ -14107,12 +10347,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102030614. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102030614_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/murano-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1941,
@@ -14122,12 +10358,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 955,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102030621. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102030621_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rhapsody-edp-85ml",
-    "source": "Mazaya"
   },
   {
     "id": 1942,
@@ -14137,12 +10369,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102031697. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102031697_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rider-blue-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1943,
@@ -14152,12 +10380,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102032458. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102032458_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/evoque-men-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1944,
@@ -14167,12 +10391,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 805,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6390902028016. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/3/6390902028016_1_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sensitive-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1945,
@@ -14182,12 +10402,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 960,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "My Perfume Women product from Mazaya selection.",
-    "details": "SKU: 6290102031918. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6290102031918_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/conquer-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1946,
@@ -14197,12 +10413,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3600,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Issey Miyake Women product from Mazaya selection.",
-    "details": "SKU: IM A'DROP ISSEY  ESSENTIELLE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222091019-.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/im-a-drop-issey-essentielle",
-    "source": "Mazaya"
   },
   {
     "id": 1947,
@@ -14212,12 +10424,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Nasomatto Women product from Mazaya selection.",
-    "details": "SKU: 8717774840344. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_fantomas2_8717774840344_na044.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fantomas-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1948,
@@ -14227,12 +10435,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Nasomatto Women product from Mazaya selection.",
-    "details": "SKU: 8717774840337. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_nudiflorum2_8717774840337_na0042.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nudiflorum-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1949,
@@ -14242,12 +10446,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Nasomatto Women product from Mazaya selection.",
-    "details": "SKU: 8717774840061. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_blackafgano2_8717774840061_na0017.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/black-afgano-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1950,
@@ -14257,12 +10457,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Nasomatto Women product from Mazaya selection.",
-    "details": "SKU: 8717774840047. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_absinth2_8717774840047_na0015.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/absinth-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1951,
@@ -14272,12 +10468,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Nasomatto Women product from Mazaya selection.",
-    "details": "SKU: 8717774840023. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_silvermusk2_8717774840023_na0013.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/silver-musk-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1952,
@@ -14287,12 +10479,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Nasomatto Women product from Mazaya selection.",
-    "details": "SKU: 8717774840313. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_blamage2_8717774840313_na0020.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/blamage-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1953,
@@ -14302,12 +10490,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9250,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Nasomatto Women product from Mazaya selection.",
-    "details": "SKU: 8717774840016. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/a/nasomatto-product_narcoticv2_8717774840016_na0012.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narcotic-v-30-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1954,
@@ -14317,12 +10501,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2772.5,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Davidoff Women product from Mazaya selection.",
-    "details": "SKU: 3616302038398. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616302038398-.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cool-water-reporn-woman-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1955,
@@ -14332,12 +10512,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2860,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Davidoff Women product from Mazaya selection.",
-    "details": "SKU: 3414202011752. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/o/cool_water_woman_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cool-water-woman-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1956,
@@ -14347,12 +10523,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3190,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Davidoff Women product from Mazaya selection.",
-    "details": "SKU: 3614227880252. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614227880252.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/run-wild-for-women-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1957,
@@ -14362,12 +10534,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20550,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Initio Women product from Mazaya selection.",
-    "details": "SKU: 3701415901452. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/n/initio_rehab-1_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rehab-extrait-de-parfum-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1958,
@@ -14377,12 +10545,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 23100,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Initio Women product from Mazaya selection.",
-    "details": "SKU: 3701415901377. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/last_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/initio-oud-for-greatness-edp-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1959,
@@ -14392,12 +10556,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20400,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Initio Women product from Mazaya selection.",
-    "details": "SKU: 3701415901421. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/u/duefte-damen-duefte-initio-atomic-rose-edp-spray-90ml_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/initio-the-canal-atomic-rose-edp-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1960,
@@ -14407,12 +10567,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 19550,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Initio Women product from Mazaya selection.",
-    "details": "SKU: 3701415900066. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/n/initio-high-frequency-edp-90-ml_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/initio-canal-high-frequency-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1961,
@@ -14422,12 +10578,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20900,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Initio Women product from Mazaya selection.",
-    "details": "SKU: 3701415901438. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/n/initio_paragon-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/paragon-extrait-de-parfum-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1962,
@@ -14437,12 +10589,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 20400,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Initio Women product from Mazaya selection.",
-    "details": "SKU: 3701415902008. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/n/initio_narcotic_delight-1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narcotic-delight-eau-de-parfum-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 1963,
@@ -14452,12 +10600,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715323217. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess-originals-type_3-_edp_100ml.-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-originals-type-3",
-    "source": "Mazaya"
   },
   {
     "id": 1964,
@@ -14467,12 +10611,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715323200. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess-originals-type_2-_edp_100ml.-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-originals-type-2",
-    "source": "Mazaya"
   },
   {
     "id": 1965,
@@ -14482,12 +10622,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715323194. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess-originals-type_1-_edp_100ml.-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-originals-type-1",
-    "source": "Mazaya"
   },
   {
     "id": 1966,
@@ -14497,12 +10633,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715326942. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/40260839_2-guess-guess-love-nirvana-dream-fragrance-mist-250ml.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/love-nirvana-dream-fragrance-mist-250ml",
-    "source": "Mazaya"
   },
   {
     "id": 1967,
@@ -14512,12 +10644,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3120,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: Bella Vita Rosa for Women Eau de Toilette. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/e/bellavitarosa-100ml-edt-ref-32650_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bella-vita-rosa-for-women-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 1968,
@@ -14527,12 +10655,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715322432. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/085715322432.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/seductive-red-for-women-frag-mist-250ml",
-    "source": "Mazaya"
   },
   {
     "id": 1969,
@@ -14542,12 +10666,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 875,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715323057. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/085715323057.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-bella-vita-women-250ml-fragr-mist",
-    "source": "Mazaya"
   },
   {
     "id": 1970,
@@ -14557,12 +10677,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1210,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715323569. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/c/iconic_for_women_fragrance_mist_250ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gu-iconic-for-women-fragrance-mist-250ml",
-    "source": "Mazaya"
   },
   {
     "id": 1971,
@@ -14572,12 +10688,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3365,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715324283. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/gu_seductive_blue_for_woman-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gu-seductive-blue-for-women-edt-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 1972,
@@ -14587,12 +10699,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4450,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715323446. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess_bella_vita_paradiso_edp_100ml.pic.1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-bella-vita-paradiso-for-women",
-    "source": "Mazaya"
   },
   {
     "id": 1973,
@@ -14602,12 +10710,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4290,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715323538. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess-iconic-edp100ml.-4.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-iconic-for-women",
-    "source": "Mazaya"
   },
   {
     "id": 1974,
@@ -14617,12 +10721,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 890,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715326935. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/5/85715326935-guess-guess-love-sheer-attraction-_w_-fragrance-mist-250-ml-1_1638902549.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/love-sheer-attraction-fragrance-mist-250ml",
-    "source": "Mazaya"
   },
   {
     "id": 1975,
@@ -14632,12 +10732,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 890,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715326911. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/m/img_7308158942365619968_85715326911_1_l.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/love-romantic-blush-fragrance-mist-250ml",
-    "source": "Mazaya"
   },
   {
     "id": 1976,
@@ -14647,12 +10743,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715320261. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/0/000000000001154566_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/seductive-noir-for-women-fragrance-mist-250ml",
-    "source": "Mazaya"
   },
   {
     "id": 1977,
@@ -14662,12 +10754,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 965,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715320162. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/d/o/download_4__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/seductive-for-women-fragrance-mist-250ml",
-    "source": "Mazaya"
   },
   {
     "id": 1978,
@@ -14677,12 +10765,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3135,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715322401. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/gu-seductive-red-w-75ml_ref-32173.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/seductive-red-for-women-eau-de-toilette-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1979,
@@ -14692,12 +10776,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2925,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 3607341792471. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/b/ub4pzfdwni633z3iaivbdmw7rlae181niwiqzuq2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/marciano-woman-edp",
-    "source": "Mazaya"
   },
   {
     "id": 1980,
@@ -14707,12 +10787,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3120,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: BELLA VITA EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/1/71tvlphxzdl._sl1500__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bella-vita-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 1981,
@@ -14722,12 +10798,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3135,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: GUESS SEDUCTIVE NOIR. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess-seductive-noir_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-seductive-black-women-cologne",
-    "source": "Mazaya"
   },
   {
     "id": 1982,
@@ -14737,12 +10809,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3135,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: Guess 1981 Los Angeles L EDT. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/2/n26089507a_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-1981-los-angeles-l-edt",
-    "source": "Mazaya"
   },
   {
     "id": 1983,
@@ -14752,12 +10820,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3135,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: 085715322210. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/2/n26089507a_1_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-1981-los-angeles-l-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1984,
@@ -14767,12 +10831,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3515,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Guess Women product from Mazaya selection.",
-    "details": "SKU: Guess Pink for Women - Eau de Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/u/guess-women-eau-de-parfum-3607341792068_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/guess-pink-for-women-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 1985,
@@ -14782,12 +10842,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21350,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: 8683608071041. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8683608071041_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hundred-silent-ways-x-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1986,
@@ -14797,12 +10853,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 15850,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: 8681008055401. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055401_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/karagoz-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1987,
@@ -14812,12 +10864,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 34850,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: 8681008055265. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055265.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nefs-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1988,
@@ -14827,12 +10875,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 12500,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: 8681008055487. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055487.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sultan-vetiver-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1989,
@@ -14842,12 +10886,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 14000,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: Fan Your Flames. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055579.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fan-your-flames",
-    "source": "Mazaya"
   },
   {
     "id": 1990,
@@ -14857,12 +10897,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 15850,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: Hacivat. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8683608071201_4_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hacivat",
-    "source": "Mazaya"
   },
   {
     "id": 1991,
@@ -14872,12 +10908,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 13600,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: Hundred Silent Ways. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055586_6_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hundred-silent-ways",
-    "source": "Mazaya"
   },
   {
     "id": 1992,
@@ -14887,12 +10919,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21050,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: ANI. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055067-0.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ani",
-    "source": "Mazaya"
   },
   {
     "id": 1993,
@@ -14902,12 +10930,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21600,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: Ege/ αιγαίο. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055258_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ege-aigaio",
-    "source": "Mazaya"
   },
   {
     "id": 1994,
@@ -14917,12 +10941,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 12500,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: Wūlóng Chá. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055418_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wulong-cha",
-    "source": "Mazaya"
   },
   {
     "id": 1995,
@@ -14932,12 +10952,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 21900,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: 8683608071027. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8683608071027_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fan-your-flames-x-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1996,
@@ -14947,12 +10963,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 14300,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: 8681008055012. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055012_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vain-naive-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1997,
@@ -14962,12 +10974,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 15850,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: 8681008055395. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8681008055395_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/zenne-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1998,
@@ -14977,12 +10985,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 35900,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: 8683608070914. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8683608070914_2_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hacivat-oud-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 1999,
@@ -14992,12 +10996,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 12500,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Nishane Women product from Mazaya selection.",
-    "details": "SKU: 8681008055425. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/ambra-calabria-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2000,
@@ -15007,12 +11007,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Coach Women product from Mazaya selection.",
-    "details": "SKU: 3386460142175. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460142175_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/love-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 2001,
@@ -15022,12 +11018,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Coach Women product from Mazaya selection.",
-    "details": "SKU: WILD ROSE EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460126571_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wild-rose-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2002,
@@ -15037,12 +11029,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4900,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Coach Women product from Mazaya selection.",
-    "details": "SKU: 3386460108119. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460108119.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/floral-blush-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 2003,
@@ -15052,12 +11040,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4900,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Coach Women product from Mazaya selection.",
-    "details": "SKU: 3386460095341. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/floral-edp-90-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2004,
@@ -15067,12 +11051,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4900,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Coach Women product from Mazaya selection.",
-    "details": "SKU: 3386460078306. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460078306_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/women-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 2005,
@@ -15082,12 +11062,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Nightology Women product from Mazaya selection.",
-    "details": "SKU: 8431754007632. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_suede_breeze_packshot_parfum_100ml_015804000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-suede-breeze-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2006,
@@ -15097,12 +11073,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Nightology Women product from Mazaya selection.",
-    "details": "SKU: 8431754007625. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_exquisite_lily_packshot_parfum_100ml_015704000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-exquisite-lily-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2007,
@@ -15112,12 +11084,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Nightology Women product from Mazaya selection.",
-    "details": "SKU: 8431754007618. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_vivid_velvet_packshot_parfum_100ml_015604000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-vivid-velvet-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2008,
@@ -15127,12 +11095,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Nightology Women product from Mazaya selection.",
-    "details": "SKU: 8431754007656. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_wild_temptation_packshot_parfum_100ml_016004000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-wild-temptation-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2009,
@@ -15142,12 +11106,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7500,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Nightology Women product from Mazaya selection.",
-    "details": "SKU: 8431754007649. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/i/nightology_intimate_elixir_packshot_parfum_100ml_015904000_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nightology-intimate-elixir-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2010,
@@ -15157,12 +11117,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3350,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Tous Women product from Mazaya selection.",
-    "details": "SKU: TOUS GOLD EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/o/tous_gold-pic2_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-gold-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2011,
@@ -15172,12 +11128,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4155,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Tous Women product from Mazaya selection.",
-    "details": "SKU: TOUS LOVE ME EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/o/loveme_bottle_edp_vapo_4_5ml_043621001_high_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-love-me-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2012,
@@ -15187,12 +11139,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4550,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Tous Women product from Mazaya selection.",
-    "details": "SKU: TOUS Love Me SILVER EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/o/tous_loveme_the_silver_parfume_bottle_parfum_vapo_90ml_044304000_8436550509847_high_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-love-me-silver-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2013,
@@ -15202,12 +11150,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3605,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Tous Women product from Mazaya selection.",
-    "details": "SKU: Tous Touch For Women EDT. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/o/tous-touch-eau-de-toilette-50ml_2_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-touch-for-women-edt",
-    "source": "Mazaya"
   },
   {
     "id": 2014,
@@ -15217,12 +11161,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4675,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Tous Women product from Mazaya selection.",
-    "details": "SKU: 8436603330657. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/gold-edp-set",
-    "source": "Mazaya"
   },
   {
     "id": 2015,
@@ -15232,12 +11172,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4550,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Tous Women product from Mazaya selection.",
-    "details": "SKU: TOUS Love Me ONYX EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/o/loveme_the_onyx_parfum_bottle_parfum_90ml_044004000_high_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-love-me-onyx-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2016,
@@ -15247,12 +11183,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1340,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Tous Women product from Mazaya selection.",
-    "details": "SKU: TOUS H2O Ecochic EDT Spray. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/_/k/_kgrhqjhjfefbmyn_wkqbqlupsuz_q__60_57__34325_big_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-h2o-ecochic-edt-spray",
-    "source": "Mazaya"
   },
   {
     "id": 2017,
@@ -15262,12 +11194,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1285,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Tous Women product from Mazaya selection.",
-    "details": "SKU: Tous L'Eau Eau de Toilette Women Spray. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/1/519jowsuzml._sl1200__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-l-eau-eau-de-toilette-women-spray",
-    "source": "Mazaya"
   },
   {
     "id": 2018,
@@ -15277,12 +11205,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1980,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Tous Women product from Mazaya selection.",
-    "details": "SKU: Tous Tous Happy Moments Eau De Toilette Spray. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/378821_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tous-tous-happy-moments-eau-de-toilette-spray",
-    "source": "Mazaya"
   },
   {
     "id": 2019,
@@ -15292,12 +11216,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4700,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Mont Blanc Women product from Mazaya selection.",
-    "details": "SKU: 3386460132763. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460132763_3_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/signature-absolue-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 2020,
@@ -15307,12 +11227,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4700,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Mont Blanc Women product from Mazaya selection.",
-    "details": "SKU: 3386460113588. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460113588_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/signature-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 2021,
@@ -15322,12 +11238,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4800,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Mont Blanc Women product from Mazaya selection.",
-    "details": "SKU: 3386460101035. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3386460101035_6_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/montblanc-explorer-for-men-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2022,
@@ -15337,12 +11249,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3770004394029. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-dela-3-tumultu0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tumultu-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2023,
@@ -15352,12 +11260,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3770004394043. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-sanguine-3-bello-rabelo-scaled.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bello-rabelo-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2024,
@@ -15367,12 +11271,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3770004394715. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190417-eau-est2b-tapis-volant0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tapis-volant-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2025,
@@ -15382,12 +11282,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3770004394005. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-dela-1-sancti0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sancti-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2026,
@@ -15397,12 +11293,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3760303360016. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/h/phantasma.php_20.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/phantasma-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2027,
@@ -15412,12 +11304,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3760303360023. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/e/melancolia.php_20.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/melancolia-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2028,
@@ -15427,12 +11315,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 13850,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3770004394654. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/e/beaut_du_diable_bottle0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/beaute-du-diable-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2029,
@@ -15442,12 +11326,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3760303360009. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lacrima.php0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lacrima-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2030,
@@ -15457,12 +11337,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3770004394593. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-imaginaire-fleuve-tendre0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fleuve-tendre-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2031,
@@ -15472,12 +11348,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3770004394746. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190417-eau-est1b-fleur-de-sable0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fleur-de-sable-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2032,
@@ -15487,12 +11359,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10000,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3770004394623. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/9/190617-eau-imaginaire-desert-suave0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/desert-suave-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2033,
@@ -15502,12 +11370,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 13850,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Liquides Imaginaires Women product from Mazaya selection.",
-    "details": "SKU: 3760303360115. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/bottle0.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bete-humaine-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2034,
@@ -15517,12 +11381,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17650,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Casamorati Women product from Mazaya selection.",
-    "details": "SKU: 8054320900078. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/casamorati-1888-eau_de_parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/xj-casamorati-1888-casafutura-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2035,
@@ -15532,12 +11392,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17650,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Casamorati Women product from Mazaya selection.",
-    "details": "SKU: 8033488153281. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/casamorati-gran_ballo-eau_de_parfum-100ml-flacon-photoroom.png-photoroom_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gran-ballo-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2036,
@@ -15547,12 +11403,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17650,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Casamorati Women product from Mazaya selection.",
-    "details": "SKU: 8033488153595. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/casamorati-lira-eau_de_parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lira-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2037,
@@ -15562,12 +11414,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17650,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Casamorati Women product from Mazaya selection.",
-    "details": "SKU: 8033488151652. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8033488151652_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/dama-bianca",
-    "source": "Mazaya"
   },
   {
     "id": 2038,
@@ -15577,12 +11425,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 17650,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Casamorati Women product from Mazaya selection.",
-    "details": "SKU: 8033488153564. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/casamorati-fiero-eau_de_parfum-100ml-flacon-photoroom.png-photoroom_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fiore-d-ulivo-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2039,
@@ -15592,12 +11436,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 19650,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Casamorati Women product from Mazaya selection.",
-    "details": "SKU: 8033488154882. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/casamorati-italica-eau_de_parfum-100ml-flacon-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/italica-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2040,
@@ -15607,12 +11447,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9790,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Bvlgari Women product from Mazaya selection.",
-    "details": "SKU: 783320420672. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320420672.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/omnia-coral-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2041,
@@ -15622,12 +11458,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8360,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Bvlgari Women product from Mazaya selection.",
-    "details": "SKU: 783320417023. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320417023.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rg-blossom-delight-edt-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 2042,
@@ -15637,12 +11469,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9790,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Bvlgari Women product from Mazaya selection.",
-    "details": "SKU: 783320420610. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320420610.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/omnia-amethyste-edt-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2043,
@@ -15652,12 +11480,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8710,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Bvlgari Women product from Mazaya selection.",
-    "details": "SKU: 783320404719. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320404719_uuw0rkpcb6p3skjs.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rg-blossom-delight-edp-50ml",
-    "source": "Mazaya"
   },
   {
     "id": 2044,
@@ -15667,12 +11491,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9790,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Bvlgari Women product from Mazaya selection.",
-    "details": "SKU: 783320420566. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/8/783320420566.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/omnia-crystalline-edt-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2045,
@@ -15682,12 +11502,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9900,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Bvlgari Women product from Mazaya selection.",
-    "details": "SKU: 783320404702. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/_/b_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rose-goldea-blossom-delight-edp123",
-    "source": "Mazaya"
   },
   {
     "id": 2046,
@@ -15697,12 +11513,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9495,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: 3616305181060. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305181060_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/her-edp-100ml-intense",
-    "source": "Mazaya"
   },
   {
     "id": 2047,
@@ -15712,12 +11524,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10560,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: 3616305885876. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/0/005217156764_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gold-intense-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2048,
@@ -15727,12 +11535,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9780,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: GOLD EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305806093_1__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gold-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2049,
@@ -15742,12 +11546,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4750,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: 3614226905284. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/u/burberry-weekend-for-woman-eau-de-parfum-100-ml-vapo_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/burberry-weedend-for-woman12",
-    "source": "Mazaya"
   },
   {
     "id": 2050,
@@ -15757,12 +11557,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3960,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: 3614226905000. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/2/226751365.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/burberry-burberry-touch12",
-    "source": "Mazaya"
   },
   {
     "id": 2051,
@@ -15772,12 +11568,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9130,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: Burberry Her EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/b/ebay_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/burberry-every-lady-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 2052,
@@ -15787,12 +11579,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7865,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: HER PERFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305947321_4_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/her-perfum",
-    "source": "Mazaya"
   },
   {
     "id": 2053,
@@ -15802,12 +11590,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10245,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: 3614226905963. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614226905963.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/my-burberry-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 2054,
@@ -15817,12 +11601,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9515,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: 3614229829006. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614229829006-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/my-burberry-black-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 2055,
@@ -15832,12 +11612,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4355,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: 3614226904973. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/1/71qds-t-a3l._ac_sl1500_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/brit-for-her-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2056,
@@ -15847,12 +11623,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3555,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: 5045252667309. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/u/bur_classi.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/burberry-classic-for-her-edp12",
-    "source": "Mazaya"
   },
   {
     "id": 2057,
@@ -15862,12 +11634,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7975,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Burberry Women product from Mazaya selection.",
-    "details": "SKU: Burberry Her Blossom EDT. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/0/207-3001117-99240015708_m_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/burberry-blossom-for-her-edt12",
-    "source": "Mazaya"
   },
   {
     "id": 2058,
@@ -15877,12 +11645,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5200,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Lorenzo Villoresi Women product from Mazaya selection.",
-    "details": "SKU: Lorenzo Villoresi Patchouli EDT. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/0/0016958_-lorenzo-villoresi-patchouli-edt-100ml-_600_2.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lorenzo-villoresi-patchouli-edt",
-    "source": "Mazaya"
   },
   {
     "id": 2059,
@@ -15892,12 +11656,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11800,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Lorenzo Villoresi Women product from Mazaya selection.",
-    "details": "SKU: Lorenzo Villoresi ATMAN XAMAN. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/_/s_ppocytfq_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lorenzo-villoresi-atman-xaman",
-    "source": "Mazaya"
   },
   {
     "id": 2060,
@@ -15907,12 +11667,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5000,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Lorenzo Villoresi Women product from Mazaya selection.",
-    "details": "SKU: Lorenzo Villoresi IPERBOREA. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/9/2968-large-villoresi-iperborea-eau-de-toilette-100-ml-spray_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lorenzo-villoresi-iperborea",
-    "source": "Mazaya"
   },
   {
     "id": 2061,
@@ -15922,12 +11678,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 10450,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Lorenzo Villoresi Women product from Mazaya selection.",
-    "details": "SKU: Lorenzo Villoresi Teint De Neige EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/1/51ilbp0nv2l._sl1000__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lorenzo-villoresi-teint-de-neige-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2062,
@@ -15937,12 +11689,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11000,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Lorenzo Villoresi Women product from Mazaya selection.",
-    "details": "SKU: Lorenzo Villoresi Teint Neige EDT. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8028544100996_63fc82ec7e0f8281742fb8369a5ae71b_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lorenzo-villoresi-teint-neige-edt",
-    "source": "Mazaya"
   },
   {
     "id": 2063,
@@ -15952,12 +11700,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5000,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Lorenzo Villoresi Women product from Mazaya selection.",
-    "details": "SKU: Lorenzo Villoresi PIPER NIGRUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/i/piper-nigrum_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lorenzo-villoresi-piper-nigrum",
-    "source": "Mazaya"
   },
   {
     "id": 2064,
@@ -15967,12 +11711,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 19550,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Bond No. 9 Women product from Mazaya selection.",
-    "details": "SKU: Bond No. 9 Dubai Collection Garnet Eau de Parfum Spray. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/8/888874005617_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-dubai-collection-garnet-eau-de-parfum-spray1233",
-    "source": "Mazaya"
   },
   {
     "id": 2065,
@@ -15982,12 +11722,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 19550,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Bond No. 9 Women product from Mazaya selection.",
-    "details": "SKU: Bond No 9 Dubai Citrine Eau De Toilette Spray For Unisex. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/bond_no.9_-_dubai_citrine-910x1155_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-dubai-citrine-eau-de-toilette-spray-for-unisex1233",
-    "source": "Mazaya"
   },
   {
     "id": 2066,
@@ -15997,12 +11733,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11700,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Bond No. 9 Women product from Mazaya selection.",
-    "details": "SKU: BOND NO 9 PARK AVE SOUTH. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/bond_no_9_park_ave_south_100ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-park-ave-south1233",
-    "source": "Mazaya"
   },
   {
     "id": 2067,
@@ -16012,12 +11744,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 19550,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Bond No. 9 Women product from Mazaya selection.",
-    "details": "SKU: Bond No.9 Dubai Amethyst Unisex - Eau de Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/8/888874005525_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-dubai-amethyst-unisex-eau-de-parfum1233",
-    "source": "Mazaya"
   },
   {
     "id": 2068,
@@ -16027,12 +11755,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11700,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Bond No. 9 Women product from Mazaya selection.",
-    "details": "SKU: BOND NO 9 CENTRAL PARK SOUTH. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/o/bond_no._9_central_park_south_by_bond_no._9_eau_de_parfum_spray_3.4_oz.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bond-no-9-central-park-south1233",
-    "source": "Mazaya"
   },
   {
     "id": 2069,
@@ -16042,12 +11766,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4000,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Halloween Women product from Mazaya selection.",
-    "details": "SKU: HALLOWEEN MAGIC EDT. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/h/a/halloween_halloween_magic_bottle_edt_vapo_100ml_013904000_high.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/halloween-magic-edt",
-    "source": "Mazaya"
   },
   {
     "id": 2070,
@@ -16057,12 +11777,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3960,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Halloween Women product from Mazaya selection.",
-    "details": "SKU: 8431754007939. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/h/a/halloween_halloween_blossom_bottle_edt_vapo_100ml_high.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/halloween-blossom-edt",
-    "source": "Mazaya"
   },
   {
     "id": 2071,
@@ -16072,12 +11788,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3119,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Halloween Women product from Mazaya selection.",
-    "details": "SKU: JE DEL POZO DAHILA WOMAN EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/j/e/je_del_pozo_dahila_woman_edp_100_ml_2_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/je-del-pozo-dahila-woman-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2072,
@@ -16087,12 +11799,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: DYLAN PURPLE FOR WOMEN EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8011003876273-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/dylan-purple-for-women-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2073,
@@ -16102,12 +11810,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8400,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: 8011003832286. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8011003832286.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-yellow-diamond-200ml-edt",
-    "source": "Mazaya"
   },
   {
     "id": 2074,
@@ -16117,12 +11821,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8400,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: BRIGHT CRYSTAL POUR FEMME PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8011003891092_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bright-crystal-pour-femme-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 2075,
@@ -16132,12 +11832,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8400,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: CRYSTAL NOIR POUR FEMME PARFUM. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/8011003891061--.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/crystal-noir-pour-femme-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 2076,
@@ -16147,12 +11843,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6200,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: Versace Eros Pour Femme Eau De Parfum Women's Perfume. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/f/cf9e5886-a794-405f-9f0a-b3cea30bd297_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-eros-pour-femme-eau-de-parfum-women-s-perfume123",
-    "source": "Mazaya"
   },
   {
     "id": 2077,
@@ -16162,12 +11854,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5315,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: Versace Eros Pour Femme By Versace For Women - Eau De Toilette. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace-eros-pour-femme-womens-1.7-ounce-eau-de-toilette-spray-0b900e25-074c-4827-8f70-bd26fcedcfd9_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-eros-pour-femme-by-versace-for-women-eau-de-toilette123",
-    "source": "Mazaya"
   },
   {
     "id": 2078,
@@ -16177,12 +11865,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7900,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: Versace Dylan Blue Eau De Parfum For Women. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace-dylan-blue-eau-de-parfum-8011003839100_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-dylan-blue-eau-de-parfum-for-women123",
-    "source": "Mazaya"
   },
   {
     "id": 2079,
@@ -16192,12 +11876,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4250,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: VERSACE Bright Crystal Absolu EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace-bright_crystal_absolu_eau_de_parfum_50ml-1-768_1024_75-6822488_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-bright-crystal-absolu-eau-de-parfum123",
-    "source": "Mazaya"
   },
   {
     "id": 2080,
@@ -16207,12 +11887,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5565,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: 8011003818112. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace-bright_crystal_absolu_eau_de_parfum_50ml-1-768_1024_75-6822488_1_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-bright-crystal-absolu-eau-de-parfum-90-ml123",
-    "source": "Mazaya"
   },
   {
     "id": 2081,
@@ -16222,12 +11898,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7300,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: VERSACE BRIGHT CRYSTAL EAU DE TOILETTE. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace_br-versace-8011003993819_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-bright-crystal-eau-de-toilette123",
-    "source": "Mazaya"
   },
   {
     "id": 2082,
@@ -16237,12 +11909,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5990,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: Versace CRYSTAL NOIR Eau de Toilette. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace_cr-versace-8018365070264_1_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-crystal-noir-eau-de-toilette123",
-    "source": "Mazaya"
   },
   {
     "id": 2083,
@@ -16252,12 +11920,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7900,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Versace Women product from Mazaya selection.",
-    "details": "SKU: VERSACE CRYSTAL NOIR EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/e/versace_cr-versace-8018365070264_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/versace-crystal-noir-edp123",
-    "source": "Mazaya"
   },
   {
     "id": 2084,
@@ -16267,12 +11931,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 23050,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Creed Women product from Mazaya selection.",
-    "details": "SKU: 3508440004185. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3508440004185_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ladies-eladaria-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2085,
@@ -16282,12 +11942,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 23850,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Creed Women product from Mazaya selection.",
-    "details": "SKU: 3508440561800. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3508440561800_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/spring-flower-edp-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 2086,
@@ -16297,12 +11953,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 25200,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Creed Women product from Mazaya selection.",
-    "details": "SKU: 3508440251435. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/carmina-bottle-75ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/millesime-carmina-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 2087,
@@ -16312,12 +11964,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 25200,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Creed Women product from Mazaya selection.",
-    "details": "SKU: 3508440506856. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/w/f/wf_2-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/millesime-wind-flowers-75ml",
-    "source": "Mazaya"
   },
   {
     "id": 2088,
@@ -16327,12 +11975,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 26850,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Creed Women product from Mazaya selection.",
-    "details": "SKU: 3508441001121. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/5/3508441001121.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/royal-oud-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2089,
@@ -16342,12 +11986,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 25200,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Creed Women product from Mazaya selection.",
-    "details": "SKU: 3508440251848. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/r/creed_back_shots_008.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/queen-of-silk",
-    "source": "Mazaya"
   },
   {
     "id": 2090,
@@ -16357,12 +11997,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 23850,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Creed Women product from Mazaya selection.",
-    "details": "SKU: 3508441104617. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/3/b3840w__90998.1562171634.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/creed-love-in-white-eau-de-parfum-spray1233",
-    "source": "Mazaya"
   },
   {
     "id": 2091,
@@ -16372,12 +12008,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5940,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Ralph Lauren Women product from Mazaya selection.",
-    "details": "SKU: RALPH LAUREN Cologne Polo Red EDT Spray Unisex Fragrance. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/7/17637371__1509650737_c8016846-e86e-46e4-bd29-24d078084269_1200x1200_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ralph-lauren-cologne-polo-red-edt-spray-unisex-fragrance",
-    "source": "Mazaya"
   },
   {
     "id": 2092,
@@ -16387,12 +12019,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9460,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Mancera Women product from Mazaya selection.",
-    "details": "SKU: 3760265193738. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760265193738.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/juicy-flowers-120ml",
-    "source": "Mazaya"
   },
   {
     "id": 2093,
@@ -16402,12 +12030,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 12900,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423222107802. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222107802_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/n-rodriguez-ladies-radiant-magnolia-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2094,
@@ -16417,12 +12041,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: ALL OF ME INTENSE WOMEN EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222108281_5_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/all-of-me-intense-women-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2095,
@@ -16432,12 +12052,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9200,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: Narciso Rodriguez Narciso Ambrée. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/1/31dbtxst-ps._ac_uf1000_1000_ql80__2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narciso-rodriguez-narciso-ambree",
-    "source": "Mazaya"
   },
   {
     "id": 2096,
@@ -16447,12 +12063,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 12900,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423478819153. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423478819153_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/n-rodriguez-santal-musc-for-wom-100ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2097,
@@ -16462,12 +12074,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9300,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423478515956. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423478515956_1_1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/for-her-pure-musc-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2098,
@@ -16477,12 +12085,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423222055523. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222055523-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nr-fh-mn-rose",
-    "source": "Mazaya"
   },
   {
     "id": 2099,
@@ -16492,12 +12096,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9200.01,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423222055639. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222055639---.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nr-narciso-cristal",
-    "source": "Mazaya"
   },
   {
     "id": 2100,
@@ -16507,12 +12107,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423222080952. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222080952.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/nr-c3-23",
-    "source": "Mazaya"
   },
   {
     "id": 2101,
@@ -16522,12 +12118,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 12900,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423220004073. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3493304415.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/patchouli-musc-intense-woman-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2102,
@@ -16537,12 +12129,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9300,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423222055547. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222055547_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narciso-rodriguez-ladies-musc-noir-rose-edp-100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2103,
@@ -16552,12 +12140,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8800,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423222080969. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/4/3423222080969.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narciso-rodriguez-all-of-me-edp-90ml",
-    "source": "Mazaya"
   },
   {
     "id": 2104,
@@ -16567,12 +12151,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9200,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: For her musc noir. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/1/51z5pbemkfl._ac_uf894_1000_ql80_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/for-her-musc-noir",
-    "source": "Mazaya"
   },
   {
     "id": 2105,
@@ -16582,12 +12162,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423222055615. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/8/581931.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narciso-cristal-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 2106,
@@ -16597,12 +12173,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: Narciso Rodriguez For Her Eau De Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/b/3/b37a1be8-95a1-44c7-81c8-ef5801a48026_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narciso-rodriguez-for-her-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 2107,
@@ -16612,12 +12184,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 11800,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: Narciso Rodriguez For Her Oud Musc Eau de Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/1/610euthcv3l._sl1350__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narciso-rodriguez-for-her-oud-musc-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 2108,
@@ -16627,12 +12195,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 12900,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: Narciso Rodriguez Rose Musc Eau de Parfum for Women. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/q/6q-xfy8qx9o3eh4x2j-ixg-2169712-1000x1000-fit_3.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narciso-rodriguez-rose-musc-eau-de-parfum-for-women",
-    "source": "Mazaya"
   },
   {
     "id": 2109,
@@ -16642,12 +12206,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7650,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Narciso Rodriguez Women product from Mazaya selection.",
-    "details": "SKU: 3423478818750. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/9/9/99ed5bf2-bc2d-4fe8-af16-d6aaa514dcb7_1_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/narciso-rodriguez-for-her-fleur-musc-eau-de-parfum-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2110,
@@ -16657,12 +12217,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7600,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Viktor And Rolf Women product from Mazaya selection.",
-    "details": "SKU: Good Fortune EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/2/s2553329-main-zoom_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/viktor-rolf-bonbon-couture-for-women-eau-de-parfum-1",
-    "source": "Mazaya"
   },
   {
     "id": 2111,
@@ -16672,12 +12228,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9460,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Viktor And Rolf Women product from Mazaya selection.",
-    "details": "SKU: 3614273622639. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/f/l/flowerbomb-ruby-orchid-100ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/flb-edp-ruby-orchid-sp100ml",
-    "source": "Mazaya"
   },
   {
     "id": 2112,
@@ -16687,12 +12239,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9000,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Viktor And Rolf Women product from Mazaya selection.",
-    "details": "SKU: VIKTOR & ROLF Flowerbomb Edp. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/a/7/a7e1539d-34c7-4da5-afac-777b39341140_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/viktor-rolf-flowerbomb-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2113,
@@ -16702,12 +12250,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: Idole Peach N Roses EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/i/pic_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/idole-peach-n-roses-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2114,
@@ -16717,12 +12261,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6900,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: La Vie Est Belle Vanille Nude. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/_/3_6_7.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-vie-est-belle-vanille-nude",
-    "source": "Mazaya"
   },
   {
     "id": 2115,
@@ -16732,12 +12272,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: Idôle Power. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lancome-ladies-idole-power-edp-spray-34-oz-fragrances-3614274299229.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/idole-power",
-    "source": "Mazaya"
   },
   {
     "id": 2116,
@@ -16747,12 +12283,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: LVEB ELIXIR EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/n/lncome_images_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lc-lveb-elixir-edp-v",
-    "source": "Mazaya"
   },
   {
     "id": 2117,
@@ -16762,12 +12294,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: IDOLE EDT. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274078558_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/idole-edt",
-    "source": "Mazaya"
   },
   {
     "id": 2118,
@@ -16777,12 +12305,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6900,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: La vie est belle rose extra EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/_/1_15_5.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-vie-est-belle-rose-extra-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2119,
@@ -16792,12 +12316,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: LC IDOLE NOW EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lan_dmi_frag_idole-now-100ml_3614273927321_packshot-front_1.1_vi_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lc-idole-now-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2120,
@@ -16807,12 +12327,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6900,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: LA VIE EST BELLE IRIS ABSLOU. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/5/0/50ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-vie-est-belle-iris-abslou",
-    "source": "Mazaya"
   },
   {
     "id": 2121,
@@ -16822,12 +12338,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6700,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: IDOLE NECTAR. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lan_dmi_frag_idole-t4-100ml_03614273749558_packshot_vi_1-1_1__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/idole-nectar",
-    "source": "Mazaya"
   },
   {
     "id": 2122,
@@ -16837,12 +12349,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6400,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: IDOLE AURA EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lancome-fragrance-id_le-aura-eau-de-parfum-50ml-000-3614273476287-back.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/idole-aura-edp12344",
-    "source": "Mazaya"
   },
   {
     "id": 2123,
@@ -16852,12 +12360,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8600,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: 6222066407195. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6222066407195.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-vie-est-belle-edp-set",
-    "source": "Mazaya"
   },
   {
     "id": 2124,
@@ -16867,12 +12371,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8975,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: 6222066405696. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6222066405696----------6666666666666666-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lveb-vanille-nude-set",
-    "source": "Mazaya"
   },
   {
     "id": 2125,
@@ -16882,12 +12382,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8000,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: 3614274293975. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/lcm-lveb-elixir-edp-refill-100ml-nf",
-    "source": "Mazaya"
   },
   {
     "id": 2126,
@@ -16897,12 +12393,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6500,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: 3614273749381. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273749381-photoroom.png-photoroom.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-vie-est-belle-eau-de-parfum-refill-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2127,
@@ -16912,12 +12404,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8500,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: 3614274078503. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lan_holiday_2023_digital_visual_pdp_3614274078503_closebox.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-vie-est-belle-100ml-face-care-set-holiday-limited-edition",
-    "source": "Mazaya"
   },
   {
     "id": 2128,
@@ -16927,12 +12415,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7000,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: Idole-L-Intense. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/mazaya_products_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/idole-l-intense12233",
-    "source": "Mazaya"
   },
   {
     "id": 2129,
@@ -16942,12 +12426,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 9000,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: La Vie Est Belle Intensément. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lancome_fragrance_la-vie-est-belle-intensement-50ml-0003614272964679-front-sl.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/la-vie-est-belle-intensement",
-    "source": "Mazaya"
   },
   {
     "id": 2130,
@@ -16957,12 +12437,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 8900,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "LancôMe Women product from Mazaya selection.",
-    "details": "SKU: 3605533315347. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/r/tresor_onyx_woman_edp_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tresor-onyx-woman-edp-75-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2131,
@@ -16972,12 +12448,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3025,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Atyab AL Marshood Women product from Mazaya selection.",
-    "details": "SKU: 3760042640837. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/a/kasla_all_in_all_1-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/khisla-all-in-all",
-    "source": "Mazaya"
   },
   {
     "id": 2132,
@@ -16987,12 +12459,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3025,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Atyab AL Marshood Women product from Mazaya selection.",
-    "details": "SKU: 3760042640479. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/a/kasla_violet_1-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/khisla-violet-hair-mist-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 2133,
@@ -17002,12 +12470,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3025,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Atyab AL Marshood Women product from Mazaya selection.",
-    "details": "SKU: 3760042640332. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/h/khisla_gold_1-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/khisla-gold-hair-mist-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 2134,
@@ -17017,12 +12481,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3025,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Atyab AL Marshood Women product from Mazaya selection.",
-    "details": "SKU: 3760042640325. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/k/h/khisla_pink_1-removebg-preview.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/khisla-pink-hair-mist-125ml",
-    "source": "Mazaya"
   },
   {
     "id": 2135,
@@ -17032,12 +12492,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 885,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "Bourjois Women product from Mazaya selection.",
-    "details": "SKU: 3616304827181. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304827181-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mon-bourjois-la-captivante-edp-50-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2136,
@@ -17047,12 +12503,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1260,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "Bourjois Women product from Mazaya selection.",
-    "details": "SKU: 3616303393083. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303393083.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mon-bourjois-oudf-edp-100-ml-iv",
-    "source": "Mazaya"
   },
   {
     "id": 2137,
@@ -17062,12 +12514,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 885,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "Bourjois Women product from Mazaya selection.",
-    "details": "SKU: 3616303393137. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303393137.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mon-bourjois-magn-edp-50-ml-iv",
-    "source": "Mazaya"
   },
   {
     "id": 2138,
@@ -17077,12 +12525,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 885,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "Bourjois Women product from Mazaya selection.",
-    "details": "SKU: 3616303393069. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303393069___1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mon-bourjois-form-edp-50-ml-iv",
-    "source": "Mazaya"
   },
   {
     "id": 2139,
@@ -17092,12 +12536,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 1260,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "Bourjois Women product from Mazaya selection.",
-    "details": "SKU: 3616303393090. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303393090.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mon-bourjois-roex-edp-100-ml-iv",
-    "source": "Mazaya"
   },
   {
     "id": 2140,
@@ -17107,12 +12547,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 885,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "Bourjois Women product from Mazaya selection.",
-    "details": "SKU: 3616303393052. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303393052.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mon-bourjois-fant-edp-50-ml-iv",
-    "source": "Mazaya"
   },
   {
     "id": 2141,
@@ -17122,12 +12558,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 7400,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "Unknown Women product from Mazaya selection.",
-    "details": "SKU: 3614273622622. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273622622.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ruby-orchid-50ml-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2142,
@@ -17137,12 +12569,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2135,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "Unknown Women product from Mazaya selection.",
-    "details": "SKU: Elizabeth Arden Mediterranean Breeze EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/n/unnamed_1__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/elizabeth-arden-mediterranean-breeze-edp123",
-    "source": "Mazaya"
   },
   {
     "id": 2143,
@@ -17152,12 +12580,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2135,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "Unknown Women product from Mazaya selection.",
-    "details": "SKU: Elizabeth Arden GREEN TEA CHERRY BLOOSM EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/g/r/green_tea_cherry_bloosm.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/green-tea-cherry-bloosm-edp123",
-    "source": "Mazaya"
   },
   {
     "id": 2144,
@@ -17167,12 +12591,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3530,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "Elizabeth Arden Women product from Mazaya selection.",
-    "details": "SKU: 085805573201. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/085805573201.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/green-tea-pomegranate-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 2145,
@@ -17182,12 +12602,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2925,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Elizabeth Arden Women product from Mazaya selection.",
-    "details": "SKU: Elizabeth Arden Mediterraneo For Women EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/u/n/unnamed_5.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/elizabeth-arden-mediterraneo-for-women-edp123",
-    "source": "Mazaya"
   },
   {
     "id": 2146,
@@ -17197,12 +12613,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3465,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Elizabeth Arden Women product from Mazaya selection.",
-    "details": "SKU: 719346022705. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/1/719346022705.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/white-diamonds-by-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 2147,
@@ -17212,12 +12624,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4410,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Elizabeth Arden Women product from Mazaya selection.",
-    "details": "SKU: 085805558420. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/085805558420.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/red-door-eau-de-toilette",
-    "source": "Mazaya"
   },
   {
     "id": 2148,
@@ -17227,12 +12635,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2135,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Elizabeth Arden Women product from Mazaya selection.",
-    "details": "SKU: 085805268848. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/085805268848.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/green-tea-perfume",
-    "source": "Mazaya"
   },
   {
     "id": 2149,
@@ -17242,12 +12646,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 2925,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Elizabeth Arden Women product from Mazaya selection.",
-    "details": "SKU: 085805192969. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/0/8/085805192969.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fifth-avenue-only-nyc",
-    "source": "Mazaya"
   },
   {
     "id": 2150,
@@ -17257,12 +12657,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4850,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Furla Women product from Mazaya selection.",
-    "details": "SKU: 679602300711. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/f/u/furla_incantevole_edt_100ml.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/incantevole-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2151,
@@ -17272,12 +12668,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4850,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Furla Women product from Mazaya selection.",
-    "details": "SKU: 679602300414. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/f/u/furla_irresistibile_edp_100ml.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/irresistibile-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2152,
@@ -17287,12 +12679,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4850,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Furla Women product from Mazaya selection.",
-    "details": "SKU: 679602300315. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/f/u/furla_preziosa_edp_100ml.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/preziosa-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2153,
@@ -17302,12 +12690,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4850,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Furla Women product from Mazaya selection.",
-    "details": "SKU: 679602300216. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/f/u/furla_romantica_edp_100ml.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/romantica-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2154,
@@ -17317,12 +12701,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4850,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Furla Women product from Mazaya selection.",
-    "details": "SKU: 679602300117. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/f/u/furla_magnifica_edp_100ml.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/magnifica-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2155,
@@ -17332,12 +12712,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6120,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Juicy Couture Women product from Mazaya selection.",
-    "details": "SKU: Juicy Couture Viva La Juicy Rose EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/i/vivalajuicy_rose_edp_100_ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/vivala-juicy-rose-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2156,
@@ -17347,12 +12723,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 6120,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Juicy Couture Women product from Mazaya selection.",
-    "details": "SKU: VIVA LANOIR WOMAN EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/v/i/viva_lanoir_woman_edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/viva-lanoir-woman-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2157,
@@ -17362,12 +12734,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 3110,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Juicy Couture Women product from Mazaya selection.",
-    "details": "SKU: PEACE LOVE & JUICY COUTURE EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/e/peace_love_juicy_couture_edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/peace-love-juicy-couture-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2158,
@@ -17377,12 +12745,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4410,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Juicy Couture Women product from Mazaya selection.",
-    "details": "SKU: 719346135733. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/p/e/peace_love_juicy_couture_edp_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/peace-love-and-juicy-couture-edp-100-ml",
-    "source": "Mazaya"
   },
   {
     "id": 2159,
@@ -17392,12 +12756,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 4410,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Juicy Couture Women product from Mazaya selection.",
-    "details": "SKU: Juicy Couture for Women EDP. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/j/u/juicy_couture_wom_edp.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/juicy-couture-wom-edp",
-    "source": "Mazaya"
   },
   {
     "id": 2160,
@@ -17407,12 +12767,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 570,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Rasasi Women product from Mazaya selection.",
-    "details": "SKU: Rasasi - Safina For Women Eau De Parfum. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/e/res_4f18b581f1b1eeb3b4f3d18341f80fa4_full_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rasasi-safina-for-women-eau-de-parfum",
-    "source": "Mazaya"
   },
   {
     "id": 2161,
@@ -17422,12 +12778,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Women",
     "price": 285,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Ulric De Varens Women product from Mazaya selection.",
-    "details": "SKU: 3326240000967. Category: Women Fragrance. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/e/res_e0d1e6e6fe6e57e60a0c0f7371b13b15_full.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ulric-de-varens-perfume-water",
-    "source": "Mazaya"
   },
   {
     "id": 2162,
@@ -17437,12 +12789,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2100,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: 3614274486599. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274486599.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lash-latex-mascara-black",
-    "source": "Mazaya"
   },
   {
     "id": 2163,
@@ -17452,12 +12800,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 3600,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: YSL ALL HOURS GLOW FOUNDATION. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_makf_ah_glow-foundation-25_packshot_front-opened-and-closed_shade-dn1_3000x3000px_3614274403688_rgb.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ysl-all-hours-glow-foundation",
-    "source": "Mazaya"
   },
   {
     "id": 2164,
@@ -17467,12 +12811,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2700,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: 6222066404972. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/2/6222066404972.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/loveshine-rvs-12-set",
-    "source": "Mazaya"
   },
   {
     "id": 2165,
@@ -17482,12 +12822,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2700,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: LOVESHINE GLOSS. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_makl_ysl-loveshine-plumping-gloss_packshot_front-opened-_-closed_shade-01_3000x3000px_4936968874499_rgb.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/loveshine-gloss-ysl",
-    "source": "Mazaya"
   },
   {
     "id": 2166,
@@ -17497,12 +12833,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2900,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: THE INKS MATTE. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_makl_ysl-the-inks_blur_packshot_front-opened_closed_texture_shade-230_beige-expression_square_3000x3000px_3614274226577_rgb.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-inks-matte-ysl",
-    "source": "Mazaya"
   },
   {
     "id": 2167,
@@ -17512,12 +12844,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2300,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: 3614273964081. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_maky_lash-clash-mascara_packshot_front-opened-and-closed_shade-4_blue_3000x3000px_3614273964081_rgb.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lash-clash-mascara-blue4",
-    "source": "Mazaya"
   },
   {
     "id": 2168,
@@ -17527,12 +12855,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 5900,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: All Hours Hyper Bronze. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_makf_all-hours-hyper-bronze-powder-24_packshot_front-opened_shade-hyper-bronze-04-warm-sandalwood_square_3000x3000px_3614274068092_rgb.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/all-hours-hyper-bronze",
-    "source": "Mazaya"
   },
   {
     "id": 2169,
@@ -17542,12 +12866,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2300,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: LINES LIBERATED 34H WATERPROOF EYELINER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_maky_eye_pencil_lines-liberated_packshot_front-opened_closed_shade-1_unbridled-black_3000x3000px_3614274173765.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lines-liberated-34h-waterproof-eyeliner",
-    "source": "Mazaya"
   },
   {
     "id": 2170,
@@ -17557,12 +12877,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2700,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: LOVESHINE CANDY GLAZE. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_makl_ysl-loveshine_candy-glaze_packshot_front-opened-_-closed_shade-02-healthy-glow-plumper_square_3000x3000px_4935421761734_rgb.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/loveshine-candy-glaze",
-    "source": "Mazaya"
   },
   {
     "id": 2171,
@@ -17572,12 +12888,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2700,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Yves Saint Laurent Makeup product from Mazaya selection.",
-    "details": "SKU: LOVESHINE LIPSTICK. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/y/s/ysl_dmi_makl_ysl-loveshine_lipstick_packshot_front-opened_closed_shade-12_electric-love_3000x3000px_3614274132618_rgb.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/loveshine-lipstick",
-    "source": "Mazaya"
   },
   {
     "id": 2172,
@@ -17587,12 +12899,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2600,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: Lip Idole JuicyTreat Lip Oil Gloss. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274382655__1_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lip-idole-juicytreat-lip-oil-gloss",
-    "source": "Mazaya"
   },
   {
     "id": 2173,
@@ -17602,12 +12910,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2800,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: LABSOLU ROUGE DRAMA MATTE. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lan_dmi_makl_absolu-rouge-drama-matte-reno_24_206_3614274196122_packshot-front_white-back_1x1_vi.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/l-absolu-rouge-drama-matte",
-    "source": "Mazaya"
   },
   {
     "id": 2174,
@@ -17617,12 +12921,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2700,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: LIP IDOLE-SQUALANE-12 BUTTERGLOW. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/-/1-3614274169812-lan_dmi_makl_lip_idole_butterglow_42_closed_and_open_product_3614274169737_packshot-front_1x1_vi_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lip-idole-squalane-12-butterglow",
-    "source": "Mazaya"
   },
   {
     "id": 2175,
@@ -17632,12 +12932,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2100,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: 3614274195026. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/1/-/1-lan_dmi_maky_flutter-extension_25_3614274195026_pdp_flutterextension-packshot_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lash-idole-flutter-extension-mascara",
-    "source": "Mazaya"
   },
   {
     "id": 2176,
@@ -17647,12 +12943,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 3400,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: Blush Subtil. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/l/a/lan_makf_labsolu-blush-subtil-041-figue-espiegle_3605971967092_packshot_front_1x1_1__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/blush-subtil",
-    "source": "Mazaya"
   },
   {
     "id": 2177,
@@ -17662,12 +12954,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 3850,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: Teint Idole Ultra Wear Highlighter. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/e/teint_idole_ultra_wear_highlighter_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/teint-idole-ultra-wear-highlighter",
-    "source": "Mazaya"
   },
   {
     "id": 2178,
@@ -17677,12 +12965,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 3800,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: Teint Idole Ultra Serum Bronzer. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/t/e/teint_idole_ultra_serum_bronzer_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/teint-idole-ultra-serum-bronzer",
-    "source": "Mazaya"
   },
   {
     "id": 2179,
@@ -17692,12 +12976,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2300,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: 3614273987714. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/i/a/ian_dmi_maky_hypnosedrama_product_3614273987714_packshot-front-with-background_1x1_vi.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hypnose-drama",
-    "source": "Mazaya"
   },
   {
     "id": 2180,
@@ -17707,12 +12987,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 3100,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: IDOLE TINT. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614274097870_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/idole-tint",
-    "source": "Mazaya"
   },
   {
     "id": 2181,
@@ -17722,12 +12998,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2450,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "LancôMe Makeup product from Mazaya selection.",
-    "details": "SKU: ABSOLU ROUGE MATTE R21. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3614273307833_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/absolu-rouge-matte-r21",
-    "source": "Mazaya"
   },
   {
     "id": 2182,
@@ -17737,12 +13009,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 565,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: 3616306381698. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616306381698.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bjs-twist-up-super-bond-01-black",
-    "source": "Mazaya"
   },
   {
     "id": 2183,
@@ -17752,12 +13020,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 937,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: 3616305712981. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305712981.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bjs-maxi-round-pot-highlighter-champagne",
-    "source": "Mazaya"
   },
   {
     "id": 2184,
@@ -17767,12 +13031,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 937,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: 3616305712967. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305712967.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/bjs-maxi-round-pot-bronzer-medium-dark",
-    "source": "Mazaya"
   },
   {
     "id": 2185,
@@ -17782,12 +13042,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 552,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: 3616304867156. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616304867156-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/volume-glamour",
-    "source": "Mazaya"
   },
   {
     "id": 2186,
@@ -17797,12 +13053,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 771,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: 3616303398231. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616303398231-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/healthy-mix-volume-mascara",
-    "source": "Mazaya"
   },
   {
     "id": 2187,
@@ -17812,12 +13064,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 806,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: 3616305492456. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305492456.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/twist-up-the-volume-blue-mascara",
-    "source": "Mazaya"
   },
   {
     "id": 2188,
@@ -17827,12 +13075,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 685,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: Gloss Fabuleux Gloss. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305556417_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gloss-fabuleux-gloss",
-    "source": "Mazaya"
   },
   {
     "id": 2189,
@@ -17842,12 +13086,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 738,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: Brow Wax Effect Lamination. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305344380.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/brow-wax-effect-lamination",
-    "source": "Mazaya"
   },
   {
     "id": 2190,
@@ -17857,12 +13097,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 611,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: HEALTHY MIX SERUM CONCEALER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305242211_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/healthy-mix-serum-concealer",
-    "source": "Mazaya"
   },
   {
     "id": 2191,
@@ -17872,12 +13108,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 707,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Bourjois Makeup product from Mazaya selection.",
-    "details": "SKU: HEALTHY MIX LIP OIL. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616305705921_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/healthy-mix-lip-oil",
-    "source": "Mazaya"
   },
   {
     "id": 2192,
@@ -17887,12 +13119,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 843,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Unknown Makeup product from Mazaya selection.",
-    "details": "SKU: Air mat foundation. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3616306003699_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/air-mat-foundation",
-    "source": "Mazaya"
   },
   {
     "id": 2193,
@@ -17902,12 +13130,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 390,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Unknown Makeup product from Mazaya selection.",
-    "details": "SKU: STYLE MATIC LIPLINER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8690604658909_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/style-matic-lipliner",
-    "source": "Mazaya"
   },
   {
     "id": 2194,
@@ -17917,12 +13141,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Unknown Makeup product from Mazaya selection.",
-    "details": "SKU: Kineticssolargel KNP. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/0/800307853411.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kineticssolargel-knp",
-    "source": "Mazaya"
   },
   {
     "id": 2195,
@@ -17932,12 +13152,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2970,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: 689304363129. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/8/689304363129.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hydra-prime-spf-50",
-    "source": "Mazaya"
   },
   {
     "id": 2196,
@@ -17947,12 +13163,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 1740,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: 689304348461. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/8/689304348461.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/brow-freeze-gel",
-    "source": "Mazaya"
   },
   {
     "id": 2197,
@@ -17962,12 +13174,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 1650,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: Lip Velvet. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/8/689304194518_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lip-velvet",
-    "source": "Mazaya"
   },
   {
     "id": 2198,
@@ -17977,12 +13185,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2355,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: Smooth Blur Bronzer. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/8/689304101547_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/smooth-blur-bronzer",
-    "source": "Mazaya"
   },
   {
     "id": 2199,
@@ -17992,12 +13196,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 1760,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: Perfect Brow Pencil-1. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/8/689304055222_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/perfect-brow-pencil-abh",
-    "source": "Mazaya"
   },
   {
     "id": 2200,
@@ -18007,12 +13207,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2605,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: 689304250023. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/8/689304250023.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/loose-setting-powder",
-    "source": "Mazaya"
   },
   {
     "id": 2201,
@@ -18022,12 +13218,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 660,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: Sensitive Fine Liner. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136159448_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sensitive-fine-liner-abh",
-    "source": "Mazaya"
   },
   {
     "id": 2202,
@@ -18037,12 +13229,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2250,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: Cream Bronzer-1. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/8/689304366069_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/cream-bronzer",
-    "source": "Mazaya"
   },
   {
     "id": 2203,
@@ -18052,12 +13240,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 1760,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: Perfect Brow Pencil. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/8/689304055079_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/perfect-brow-pencil",
-    "source": "Mazaya"
   },
   {
     "id": 2204,
@@ -18067,12 +13251,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2050,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Anastasia Beverly Hills Makeup product from Mazaya selection.",
-    "details": "SKU: Stick Blush- ABH. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/8/689304186483_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/stick-blush-abh",
-    "source": "Mazaya"
   },
   {
     "id": 2205,
@@ -18082,12 +13262,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 290,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729191762. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729191762.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/slim-matic-ultra-precise-brow-pencil-waterproof-050-chocolate",
-    "source": "Mazaya"
   },
   {
     "id": 2206,
@@ -18097,12 +13273,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 290,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729036742. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729036742.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/slim-matic-ultra-precise-brow-pencil-waterproof-040-cool-brown",
-    "source": "Mazaya"
   },
   {
     "id": 2207,
@@ -18112,12 +13284,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 540,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729514752. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729514752.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/catrice-matte-liner-water-activated-eyeliner",
-    "source": "Mazaya"
   },
   {
     "id": 2208,
@@ -18127,12 +13295,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 455,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729355553. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729355553.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/catrice-dark-ruby-glow-lip-balm-010-fiery-temptation",
-    "source": "Mazaya"
   },
   {
     "id": 2209,
@@ -18142,12 +13306,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 390,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729358295. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729358295.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/catrice-all-matt-plus-shine-control-powder-031-neutral-beige",
-    "source": "Mazaya"
   },
   {
     "id": 2210,
@@ -18157,12 +13317,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 545,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729393760. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729393760.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/catrice-18h-hd-matte-powder-foundation-012w",
-    "source": "Mazaya"
   },
   {
     "id": 2211,
@@ -18172,12 +13328,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 455,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729488633. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729488633_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/the-protector-hydrate-and-spf-primer",
-    "source": "Mazaya"
   },
   {
     "id": 2212,
@@ -18187,12 +13339,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 400,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729444479. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729444479_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/super-glue-brow-styling-gel-030",
-    "source": "Mazaya"
   },
   {
     "id": 2213,
@@ -18202,12 +13350,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 455,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729489975. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729489975_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/soft-glaze-lip-balm-010",
-    "source": "Mazaya"
   },
   {
     "id": 2214,
@@ -18217,12 +13361,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 430,
     "rating": 4.6,
-    "reviewCount": 79,
-    "description": "Catrice Makeup product from Mazaya selection.",
-    "details": "SKU: Shine bomb lip lacquer. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729445179_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/shine-bomb-lip-lacquer",
-    "source": "Mazaya"
   },
   {
     "id": 2215,
@@ -18232,12 +13372,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 610,
     "rating": 4.6,
-    "reviewCount": 80,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: MNY LIFTER PLUMP. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/0/30158719_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mny-lifter-plump",
-    "source": "Mazaya"
   },
   {
     "id": 2216,
@@ -18247,12 +13383,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 470,
     "rating": 4.6,
-    "reviewCount": 81,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: MNY FACE SUNKISSER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600531694180_2__2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mny-face-sunkisser",
-    "source": "Mazaya"
   },
   {
     "id": 2217,
@@ -18262,12 +13394,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 580,
     "rating": 4.6,
-    "reviewCount": 82,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: 3600531701925. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600531701925_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lifter-gloss-nu-027",
-    "source": "Mazaya"
   },
   {
     "id": 2218,
@@ -18277,12 +13405,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 490,
     "rating": 4.6,
-    "reviewCount": 83,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: Tattoo Liner Play. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/6/9/6902395858577_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tattoo-liner-play",
-    "source": "Mazaya"
   },
   {
     "id": 2219,
@@ -18292,12 +13416,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 470,
     "rating": 4.6,
-    "reviewCount": 84,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: SUNKISSER BLUSH. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600531668396_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sunkisser-blush",
-    "source": "Mazaya"
   },
   {
     "id": 2220,
@@ -18307,12 +13427,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 410,
     "rating": 4.6,
-    "reviewCount": 85,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: TATTOO BROW 36H. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/maybelline-tattoo-studio-36h-longwear-brow-pencil-7-deep-brown-3600531630416-primary_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/tattoo-brow-36h",
-    "source": "Mazaya"
   },
   {
     "id": 2221,
@@ -18322,12 +13438,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 670,
     "rating": 4.6,
-    "reviewCount": 86,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: AGE REWIND CONCEALER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/maybelline-instant-age-rewind-color-corrector-150-yellow-3600531396855-av11_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/age-rewind-concealer",
-    "source": "Mazaya"
   },
   {
     "id": 2222,
@@ -18337,12 +13449,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 690,
     "rating": 4.6,
-    "reviewCount": 87,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: Superstay Vinyl Ink Liquid Lipstick. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/7/1/710_xdvp2ol._ac_sx679__1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/superstay-vinyl-ink-liquid-lipstick",
-    "source": "Mazaya"
   },
   {
     "id": 2223,
@@ -18352,12 +13460,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 580,
     "rating": 4.6,
-    "reviewCount": 88,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: Lifter Gloss. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600531609771_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lifter-gloss",
-    "source": "Mazaya"
   },
   {
     "id": 2224,
@@ -18367,12 +13471,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 565,
     "rating": 4.6,
-    "reviewCount": 89,
-    "description": "Maybelline Makeup product from Mazaya selection.",
-    "details": "SKU: Brow satin duo eyebrow filling. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/9/2910082190_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/brow-satin-duo-eyebrow-filling",
-    "source": "Mazaya"
   },
   {
     "id": 2225,
@@ -18382,12 +13482,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 570,
     "rating": 4.6,
-    "reviewCount": 90,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: 3600523959853. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600523959853.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/liner-perfect-slim-nu-03-brown",
-    "source": "Mazaya"
   },
   {
     "id": 2226,
@@ -18397,12 +13493,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 580,
     "rating": 4.6,
-    "reviewCount": 91,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: INF GEL AUTO LINER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600524026677._1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/inf-gel-auto-liner",
-    "source": "Mazaya"
   },
   {
     "id": 2227,
@@ -18412,12 +13504,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 950,
     "rating": 4.6,
-    "reviewCount": 92,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: 3600524022167. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600524022167.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/infaillible-32h-foundation-225",
-    "source": "Mazaya"
   },
   {
     "id": 2228,
@@ -18427,12 +13515,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 650,
     "rating": 4.6,
-    "reviewCount": 93,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: 30147485. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/0/30147485_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/telescopic-lift-masc-black-nu",
-    "source": "Mazaya"
   },
   {
     "id": 2229,
@@ -18442,12 +13526,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 770,
     "rating": 4.6,
-    "reviewCount": 94,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: Infallible Matte Liquid Lipstick. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/0/30149489_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/infallible-matte-liquid-lipstick",
-    "source": "Mazaya"
   },
   {
     "id": 2230,
@@ -18457,12 +13537,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 780,
     "rating": 4.6,
-    "reviewCount": 95,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: Color Riche Shine Lipstick. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600523465286_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/color-riche-shine-lipstick",
-    "source": "Mazaya"
   },
   {
     "id": 2231,
@@ -18472,12 +13548,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 760,
     "rating": 4.6,
-    "reviewCount": 96,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: Color Rich Nude Intense Lipstick. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600523957477_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/color-rich-nude-intense-lipstick",
-    "source": "Mazaya"
   },
   {
     "id": 2232,
@@ -18487,12 +13559,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 750,
     "rating": 4.6,
-    "reviewCount": 97,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: Rouge Signature Plumping lip gloss. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600523971367_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/rouge-signature-plumping-lip-gloss",
-    "source": "Mazaya"
   },
   {
     "id": 2233,
@@ -18502,12 +13570,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 950,
     "rating": 4.6,
-    "reviewCount": 98,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: INFALLIBLE 24H  FOUNDATION. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600523614493_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/infallible-24h-foundation-l-oreal",
-    "source": "Mazaya"
   },
   {
     "id": 2234,
@@ -18517,12 +13581,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 880,
     "rating": 4.6,
-    "reviewCount": 99,
-    "description": "L'Oreal Makeup product from Mazaya selection.",
-    "details": "SKU: 3600524070021. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/6/3600524070021-.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/prime-lab-matte-setter",
-    "source": "Mazaya"
   },
   {
     "id": 2235,
@@ -18532,12 +13592,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 1185,
     "rating": 4.6,
-    "reviewCount": 100,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136237610. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136237610.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/luminous-face-primer",
-    "source": "Mazaya"
   },
   {
     "id": 2236,
@@ -18547,12 +13603,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 1120,
     "rating": 4.6,
-    "reviewCount": 101,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136237627. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136237627.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/sun-protection-primer-spf30",
-    "source": "Mazaya"
   },
   {
     "id": 2237,
@@ -18562,12 +13614,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 635,
     "rating": 4.6,
-    "reviewCount": 102,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136255287. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136255287.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/multi-purpose-brush",
-    "source": "Mazaya"
   },
   {
     "id": 2238,
@@ -18577,12 +13625,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 1120,
     "rating": 4.6,
-    "reviewCount": 103,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136237603. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136237603.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mattifying-face-primer",
-    "source": "Mazaya"
   },
   {
     "id": 2239,
@@ -18592,12 +13636,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 595,
     "rating": 4.6,
-    "reviewCount": 104,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136248821. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136248821.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/khol-waterproof-liner",
-    "source": "Mazaya"
   },
   {
     "id": 2240,
@@ -18607,12 +13647,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 990,
     "rating": 4.6,
-    "reviewCount": 105,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136175325. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136175325.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/fluid-camouflage-concealer-05",
-    "source": "Mazaya"
   },
   {
     "id": 2241,
@@ -18622,12 +13658,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 855,
     "rating": 4.6,
-    "reviewCount": 106,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136262254. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136262254.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/deep-black-liquid-liner",
-    "source": "Mazaya"
   },
   {
     "id": 2242,
@@ -18637,12 +13669,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 635,
     "rating": 4.6,
-    "reviewCount": 107,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136254396. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136254396_2_.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/contour-stick",
-    "source": "Mazaya"
   },
   {
     "id": 2243,
@@ -18652,12 +13680,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 610,
     "rating": 4.6,
-    "reviewCount": 108,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136159271. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4052136159271...png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/art-beauty-box-trio-fc-ss22",
-    "source": "Mazaya"
   },
   {
     "id": 2244,
@@ -18667,12 +13691,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 360,
     "rating": 4.6,
-    "reviewCount": 109,
-    "description": "Artdecoِ Makeup product from Mazaya selection.",
-    "details": "SKU: 4052136159233. Category: Makeup. Source product page available for reference.",
     "image": "https://backend.mazaya.eg/static/version1776156351/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
     "productUrl": "https://mazaya.eg/en/eyeshadow-matte",
-    "source": "Mazaya"
   },
   {
     "id": 2245,
@@ -18682,12 +13702,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 315,
     "rating": 4.6,
-    "reviewCount": 110,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: What a tint lip&cheek. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729490681_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/what-a-tint-lip-cheek",
-    "source": "Mazaya"
   },
   {
     "id": 2246,
@@ -18697,12 +13713,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 195,
     "rating": 4.6,
-    "reviewCount": 111,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: 4251232262032. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/2/4251232262032_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/superlast-24h-eyebrow-pomade-pencil-waterproof-20",
-    "source": "Mazaya"
   },
   {
     "id": 2247,
@@ -18712,12 +13724,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 290,
     "rating": 4.6,
-    "reviewCount": 112,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: essence soft touch mousse. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729516893_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/essence-soft-touch-mousse",
-    "source": "Mazaya"
   },
   {
     "id": 2248,
@@ -18727,12 +13735,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 365,
     "rating": 4.6,
-    "reviewCount": 113,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729447166. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729447166_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/essence-skin-tint-60",
-    "source": "Mazaya"
   },
   {
     "id": 2249,
@@ -18742,12 +13746,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 315,
     "rating": 4.6,
-    "reviewCount": 114,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729446619. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729446619_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/essence-line-it-like-a-pro-liner-01",
-    "source": "Mazaya"
   },
   {
     "id": 2250,
@@ -18757,12 +13757,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 290,
     "rating": 4.6,
-    "reviewCount": 115,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729516824. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729516824_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/essence-juicy-berry-tinted-lip-cheek-balm",
-    "source": "Mazaya"
   },
   {
     "id": 2251,
@@ -18772,12 +13768,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 275,
     "rating": 4.6,
-    "reviewCount": 116,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: Hydra kiss lip. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729421937_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hydra-kiss-lip",
-    "source": "Mazaya"
   },
   {
     "id": 2252,
@@ -18787,12 +13779,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 165,
     "rating": 4.6,
-    "reviewCount": 117,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: gel nail. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729409225_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/gel-nail",
-    "source": "Mazaya"
   },
   {
     "id": 2253,
@@ -18802,12 +13790,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 480,
     "rating": 4.6,
-    "reviewCount": 118,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729517517. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729517517_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/essence-foundation-stick-180",
-    "source": "Mazaya"
   },
   {
     "id": 2254,
@@ -18817,12 +13801,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 215,
     "rating": 4.6,
-    "reviewCount": 119,
-    "description": "Essence Makeup product from Mazaya selection.",
-    "details": "SKU: 4059729446480. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4059729446480_image_front_view_full_open.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/essence-eyeshadow-brush-01",
-    "source": "Mazaya"
   },
   {
     "id": 2255,
@@ -18832,12 +13812,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 600,
     "rating": 4.6,
-    "reviewCount": 120,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: 8690604572069. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8690604572069_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/angled-brow-pencil-04-dark-brown",
-    "source": "Mazaya"
   },
   {
     "id": 2256,
@@ -18847,12 +13823,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 390,
     "rating": 4.6,
-    "reviewCount": 121,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: PERFECT COVERAGE LIQUID CONCEALER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8690604558049_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/perfect-coverage-liquid-concealer",
-    "source": "Mazaya"
   },
   {
     "id": 2257,
@@ -18862,12 +13834,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 485,
     "rating": 4.6,
-    "reviewCount": 122,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: 8690604547272. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8690604547272_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/smoky-eyes-waterproof-eyeliner-004-royal-blue",
-    "source": "Mazaya"
   },
   {
     "id": 2258,
@@ -18877,12 +13845,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 685,
     "rating": 4.6,
-    "reviewCount": 123,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: 8690604542376. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8690604542376_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/precious-curl-mascara-waterproof-002",
-    "source": "Mazaya"
   },
   {
     "id": 2259,
@@ -18892,12 +13856,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 435,
     "rating": 4.6,
-    "reviewCount": 124,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: HD WEIGHTLESS MATTE LIPSTICK. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8690604518562_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/hd-weightless-matte-lipstick",
-    "source": "Mazaya"
   },
   {
     "id": 2260,
@@ -18907,12 +13867,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 465,
     "rating": 4.6,
-    "reviewCount": 35,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: SILK MATTE LIQUID LIPSTICK. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8682536076609_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/silk-matte-liquid-lipstick",
-    "source": "Mazaya"
   },
   {
     "id": 2261,
@@ -18922,12 +13878,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 400,
     "rating": 4.6,
-    "reviewCount": 36,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: DEWY LIP GLAZE. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8682536068017_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/dewy-lip-glaze",
-    "source": "Mazaya"
   },
   {
     "id": 2262,
@@ -18937,12 +13889,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 545,
     "rating": 4.6,
-    "reviewCount": 37,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: 8682536067119. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8682536067119.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/longer-than-ever-mascara",
-    "source": "Mazaya"
   },
   {
     "id": 2263,
@@ -18952,12 +13900,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 660,
     "rating": 4.6,
-    "reviewCount": 38,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: 8682536066877. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8682536066877_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/triple-brow-pencil-flormar",
-    "source": "Mazaya"
   },
   {
     "id": 2264,
@@ -18967,12 +13911,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 435,
     "rating": 4.6,
-    "reviewCount": 39,
-    "description": "Flormar Makeup product from Mazaya selection.",
-    "details": "SKU: Lightweight Lip Powder Lipstick. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8682536061643_1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lightweight-lip-powder-lipstick",
-    "source": "Mazaya"
   },
   {
     "id": 2265,
@@ -18982,12 +13922,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 1840,
     "rating": 4.6,
-    "reviewCount": 40,
-    "description": "Clarins Makeup product from Mazaya selection.",
-    "details": "SKU: 3380810387759. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3380810387759-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/brow-duo",
-    "source": "Mazaya"
   },
   {
     "id": 2266,
@@ -18997,12 +13933,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 3200,
     "rating": 4.6,
-    "reviewCount": 41,
-    "description": "Clarins Makeup product from Mazaya selection.",
-    "details": "SKU: SKIN ILLUSION VELVET. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3380810482362-1_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/skin-illusion-velvet",
-    "source": "Mazaya"
   },
   {
     "id": 2267,
@@ -19012,12 +13944,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2990,
     "rating": 4.6,
-    "reviewCount": 42,
-    "description": "Clarins Makeup product from Mazaya selection.",
-    "details": "SKU: Everlasting Youth Fluid Foundation SPF15. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3380810402742-1_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/everlasting-youth-fluid-foundation-spf15",
-    "source": "Mazaya"
   },
   {
     "id": 2268,
@@ -19027,12 +13955,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2375,
     "rating": 4.6,
-    "reviewCount": 43,
-    "description": "Clarins Makeup product from Mazaya selection.",
-    "details": "SKU: 3380810269413. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3380810269413.png.mst.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wonder-perfect-mascara-4d-01",
-    "source": "Mazaya"
   },
   {
     "id": 2269,
@@ -19042,12 +13966,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 3200,
     "rating": 4.6,
-    "reviewCount": 44,
-    "description": "Clarins Makeup product from Mazaya selection.",
-    "details": "SKU: 3380810482454. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3380810482355_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/skin-illusion-velvet-109-5c-30ml",
-    "source": "Mazaya"
   },
   {
     "id": 2270,
@@ -19057,12 +13977,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 3200,
     "rating": 4.6,
-    "reviewCount": 45,
-    "description": "Clarins Makeup product from Mazaya selection.",
-    "details": "SKU: 3380810482355. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3380810482355.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/skin-illusion-velvet-102-5c-30ml",
-    "source": "Mazaya"
   },
   {
     "id": 2271,
@@ -19072,12 +13988,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2400,
     "rating": 4.6,
-    "reviewCount": 46,
-    "description": "Clarins Makeup product from Mazaya selection.",
-    "details": "SKU: 3380810405873. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3380810405873.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/everlasting-concealer-00-12ml",
-    "source": "Mazaya"
   },
   {
     "id": 2272,
@@ -19087,12 +13999,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2400,
     "rating": 4.6,
-    "reviewCount": 47,
-    "description": "Clarins Makeup product from Mazaya selection.",
-    "details": "SKU: EVERLASTING CONCEALER 12ML. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/3/3380810405880_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/everlasting-concealer-12ml",
-    "source": "Mazaya"
   },
   {
     "id": 2273,
@@ -19102,12 +14010,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 48,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: KINETICS SolarGel. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208015442_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kinetics-solargel",
-    "source": "Mazaya"
   },
   {
     "id": 2274,
@@ -19117,12 +14021,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 49,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: KineticsSolarGel MINDSET. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208008765.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kineticssolargel-mindset",
-    "source": "Mazaya"
   },
   {
     "id": 2275,
@@ -19132,12 +14032,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 50,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: SolarGel colors. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208015411_1.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/solargel-colors",
-    "source": "Mazaya"
   },
   {
     "id": 2276,
@@ -19147,12 +14043,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 51,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: Kinetics SG Guiltless. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208006884_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kinetics-sg-guiltless",
-    "source": "Mazaya"
   },
   {
     "id": 2277,
@@ -19162,12 +14054,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 52,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: Kinetics SolarGel Polish. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208012595.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kinetics-solargel-polish",
-    "source": "Mazaya"
   },
   {
     "id": 2278,
@@ -19177,12 +14065,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 53,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: KineticsSolarGel Soul Treat. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208011567.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kineticssolargel-soul-treat",
-    "source": "Mazaya"
   },
   {
     "id": 2279,
@@ -19192,12 +14076,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 54,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: KineticsSolarGel AFFECTION. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208009571.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kineticssolargel-affection",
-    "source": "Mazaya"
   },
   {
     "id": 2280,
@@ -19207,12 +14087,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 55,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: Kinetics Solar Gel  BlankSpace. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208008123.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kinetics-solar-gel-blankspace",
-    "source": "Mazaya"
   },
   {
     "id": 2281,
@@ -19222,12 +14098,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 56,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: Kinetics Solar Gel Renascent. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208007584.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kinetics-solar-gel-renascent",
-    "source": "Mazaya"
   },
   {
     "id": 2282,
@@ -19237,12 +14109,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 295,
     "rating": 4.6,
-    "reviewCount": 57,
-    "description": "Kinetics Makeup product from Mazaya selection.",
-    "details": "SKU: Kinetics SolarGel 8 Fits. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/7/4752208007287_.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/kinetics-solargel-8-fits",
-    "source": "Mazaya"
   },
   {
     "id": 2283,
@@ -19252,12 +14120,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2200,
     "rating": 4.6,
-    "reviewCount": 58,
-    "description": "Placentor Makeup product from Mazaya selection.",
-    "details": "SKU: 3760099700553. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760099700553_1.png?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/micellar-water-400ml",
-    "source": "Mazaya"
   },
   {
     "id": 2284,
@@ -19267,12 +14131,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 2200,
     "rating": 4.6,
-    "reviewCount": 59,
-    "description": "Placentor Makeup product from Mazaya selection.",
-    "details": "SKU: 3760099700621. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760099700621_solution_micellaire_apaisante_400ml.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/micellar-solution-400ml",
-    "source": "Mazaya"
   },
   {
     "id": 2285,
@@ -19282,12 +14142,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 530,
     "rating": 4.6,
-    "reviewCount": 60,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: 8680705329013. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/8/6/8680705329013.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/note-professional-eyeshadow-101",
-    "source": "Mazaya"
   },
   {
     "id": 2286,
@@ -19297,12 +14153,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 790,
     "rating": 4.6,
-    "reviewCount": 61,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: NOTE MINERAL POWDER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760237854407_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/note-mineral-powder",
-    "source": "Mazaya"
   },
   {
     "id": 2287,
@@ -19312,12 +14164,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 520,
     "rating": 4.6,
-    "reviewCount": 62,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: NOTE DETOX AND PROTECT FOUNDATION-1. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760237853257-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/note-detox-and-protect-foundation",
-    "source": "Mazaya"
   },
   {
     "id": 2288,
@@ -19327,12 +14175,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 475,
     "rating": 4.6,
-    "reviewCount": 63,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: NOTE BB CREAM. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3701365719435.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/note-bb-cream",
-    "source": "Mazaya"
   },
   {
     "id": 2289,
@@ -19342,12 +14186,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 675,
     "rating": 4.6,
-    "reviewCount": 64,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: NOTE MINERAL FOUNDATION. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3760237854032_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/note-mineral-foundation",
-    "source": "Mazaya"
   },
   {
     "id": 2290,
@@ -19357,12 +14197,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 390,
     "rating": 4.6,
-    "reviewCount": 65,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: 3701365722640. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/3/7/3701365722640.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lash-master-mascara-note",
-    "source": "Mazaya"
   },
   {
     "id": 2291,
@@ -19372,12 +14208,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 475,
     "rating": 4.6,
-    "reviewCount": 66,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: BAKED BLUSHER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/o/note_baked_blusher_01.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/baked-blusher",
-    "source": "Mazaya"
   },
   {
     "id": 2292,
@@ -19387,12 +14219,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 240,
     "rating": 4.6,
-    "reviewCount": 67,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: MATTEMOIST. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/m/a/mattemoist_lipstick_303.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/mattemoist",
-    "source": "Mazaya"
   },
   {
     "id": 2293,
@@ -19402,12 +14230,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 450,
     "rating": 4.6,
-    "reviewCount": 68,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: NOTE BAKED POWDER. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/o/note_baked_powder_01-1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/note-baked-powder",
-    "source": "Mazaya"
   },
   {
     "id": 2294,
@@ -19417,12 +14241,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 250,
     "rating": 4.6,
-    "reviewCount": 69,
-    "description": "Note Cosmetique Makeup product from Mazaya selection.",
-    "details": "SKU: NOTE LE VOLUME PLUMP&CARE LIPGLOSS. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/o/note_le_volume_plump_care_lipgloss_07-2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/note-le-volume-plump-care-lipgloss",
-    "source": "Mazaya"
   },
   {
     "id": 2295,
@@ -19432,12 +14252,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 85,
     "rating": 4.6,
-    "reviewCount": 70,
-    "description": "Lord And Berry Makeup product from Mazaya selection.",
-    "details": "SKU: 617561903673. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/e/l/el6.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/lab-lash-wardrobe-collection-el6",
-    "source": "Mazaya"
   },
   {
     "id": 2296,
@@ -19447,12 +14263,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 255,
     "rating": 4.6,
-    "reviewCount": 71,
-    "description": "Wet N Wild Makeup product from Mazaya selection.",
-    "details": "SKU: W.W PHOTO FOCUS FOUNDATION. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4049775537133_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/w-w-photo-focus-foundation",
-    "source": "Mazaya"
   },
   {
     "id": 2297,
@@ -19462,12 +14274,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 210,
     "rating": 4.6,
-    "reviewCount": 72,
-    "description": "Wet N Wild Makeup product from Mazaya selection.",
-    "details": "SKU: W.W E757A COLOR ICON 10 PAN PALETTE. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4049775001061_3.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/w-w-e757a-color-icon-10-pan-palette-4049775",
-    "source": "Mazaya"
   },
   {
     "id": 2298,
@@ -19477,12 +14285,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 185,
     "rating": 4.6,
-    "reviewCount": 73,
-    "description": "Wet N Wild Makeup product from Mazaya selection.",
-    "details": "SKU: 4049775596307. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/2/3/237537.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/ultimate-brow-kit1332",
-    "source": "Mazaya"
   },
   {
     "id": 2299,
@@ -19492,12 +14296,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 125,
     "rating": 4.6,
-    "reviewCount": 74,
-    "description": "Wet N Wild Makeup product from Mazaya selection.",
-    "details": "SKU: 4049775001368. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/s/m/smooth_mauves_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wet-n-wild-megalast-lip-color-smooth-mauves1332",
-    "source": "Mazaya"
   },
   {
     "id": 2300,
@@ -19507,12 +14307,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 125,
     "rating": 4.6,
-    "reviewCount": 75,
-    "description": "Wet N Wild Makeup product from Mazaya selection.",
-    "details": "SKU: 4049775001351. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/r/o/rose_the_matter_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wet-n-wild-megalast-lip-color-rose-the-matter1332",
-    "source": "Mazaya"
   },
   {
     "id": 2301,
@@ -19522,12 +14318,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 125,
     "rating": 4.6,
-    "reviewCount": 76,
-    "description": "Wet N Wild Makeup product from Mazaya selection.",
-    "details": "SKU: 4049775001344. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/n/e/never_nude_2.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wet-n-wild-megalast-lip-color-never-nude1332",
-    "source": "Mazaya"
   },
   {
     "id": 2302,
@@ -19537,12 +14329,8 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 180,
     "rating": 4.6,
-    "reviewCount": 77,
-    "description": "Wet N Wild Makeup product from Mazaya selection.",
-    "details": "SKU: 4049775585004. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/4/0/4049775585004.jpeg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/photo-focus-face-primer-matte1332",
-    "source": "Mazaya"
   },
   {
     "id": 2303,
@@ -19552,11 +14340,7 @@ window.MAZAYA_PRODUCTS = [
     "tag": "Makeup",
     "price": 125,
     "rating": 4.6,
-    "reviewCount": 78,
-    "description": "Wet N Wild Makeup product from Mazaya selection.",
-    "details": "SKU: WET N WILD Ruj MegaLast. Category: Makeup. Source product page available for reference.",
     "image": "https://www.mazaya.eg/media/catalog/product/c/a/carrot_gold_1.jpg?store=en&image-type=small_image",
     "productUrl": "https://mazaya.eg/en/wet-n-wild-ruj-megalast1332",
-    "source": "Mazaya"
   }
 ];
