@@ -277,7 +277,7 @@ const translations = {
     navContact: "تواصل",
     shopNow: "تسوق الآن",
     browseBrands: "استعرض البراندات",
-    heroSubtitle: "Where elegance meets your skin.",
+    heroSubtitle: "More than perfume. A signature.",
     searchLabel: "بحث",
     searchPlaceholder: "اكتب اسم المنتج أو البراند...",
     filterPerfume: "بيرفيوم",
@@ -310,6 +310,7 @@ const translations = {
     nextStep: "الخطوة التالية",
     nextStepText: "اضغط زر واتساب لإرسال الطلب كاملًا، وبعدها يتم تأكيد التوصيل والدفع عند الاستلام.",
     sendWhatsapp: "إرسال الطلب على واتساب",
+    navStory: "القصة",
     storyTitle: "نوريفا | القصة",
     storyP1: "في NŌRÉVA، العطر مش مجرد ريحة حلوة...",
     storyP2: "العطر هو هويتك، حضورك، والبصمة اللي بتفضل في الذاكرة حتى بعد ما تمشي.",
@@ -374,7 +375,7 @@ const translations = {
     navContact: "Contact",
     shopNow: "Shop now",
     browseBrands: "Browse brands",
-    heroSubtitle: "Where elegance meets your skin.",
+    heroSubtitle: "More than perfume. A signature.",
     searchLabel: "Search",
     searchPlaceholder: "Search product or brand...",
     filterPerfume: "Perfume",
@@ -407,6 +408,7 @@ const translations = {
     nextStep: "Next step",
     nextStepText: "Tap the WhatsApp button to send the full order, then delivery and cash payment will be confirmed.",
     sendWhatsapp: "Send order on WhatsApp",
+    navStory: "Story",
     storyTitle: "NŌRÉVA | Our Story",
     storyP1: "At NŌRÉVA, fragrance is more than just a pleasant scent...",
     storyP2: "It is your identity, your presence, and the impression you leave long after you've gone.",
@@ -964,6 +966,7 @@ function applyLanguage() {
 
   setText('.nav a[href="#products"]', t("navProducts"));
   setText('.nav a[href="#brandSpotlight"]', t("navBrands"));
+  setText('.nav a[href="#story"]', t("navStory"));
   setText('.nav a[href="#reviews"]', t("navReviews"));
   setText('.nav a[href="#social"]', t("navSocial"));
   setText('.nav a[href="#offers"]', t("navOffers"));
