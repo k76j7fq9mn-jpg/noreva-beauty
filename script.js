@@ -199,6 +199,9 @@ const cartTotal = document.querySelector("#cartTotal");
 const orderModal = document.querySelector("#orderModal");
 const orderSummary = document.querySelector("#orderSummary");
 const closeOrderModalButton = document.querySelector("#closeOrderModal");
+const productModal = document.querySelector("#productModal");
+const productDetailBody = document.querySelector("#productDetailBody");
+const closeProductModalButton = document.querySelector("#closeProductModal");
 const checkoutStep = document.querySelector("#checkoutStep");
 const receiptStep = document.querySelector("#receiptStep");
 const checkoutForm = document.querySelector("#checkoutForm");
@@ -343,7 +346,7 @@ function renderProducts() {
         const productDetails = escapeHTML(product.details);
         const productImage = escapeHTML(product.image || "");
         return `
-        <article class="product-card glass-panel" data-aos="fade-up" data-aos-delay="${Math.min(index * 15, 120)}">
+        <article class="product-card glass-panel" data-id="${product.id}" role="button" tabindex="0" aria-label="فتح تفاصيل ${productName}" data-aos="fade-up" data-aos-delay="${Math.min(index * 15, 120)}">
           <div class="product-visual ${product.image ? "has-image" : ""}" style="--tone-a:${(product.tones || ["#0f0d0b"])[0]};--tone-b:${(product.tones || ["#0f0d0b", "#b88945"])[1]};--tone-c:${(product.tones || ["#0f0d0b", "#b88945", "#4d2b20"])[2]};--shape-w:${(product.shape || ["74px"])[0]};--shape-h:${(product.shape || ["142px"])[1]};--shape-r:${(product.shape || ["18px"])[2]}">
             ${product.image ? `<img class="product-image" src="${productImage}" alt="${productName}" loading="lazy" />` : ""}
             <span class="tag">${escapeHTML(product.tag)}</span>
@@ -376,6 +379,82 @@ function renderProducts() {
   }
 
   if (window.AOS) AOS.refreshHard();
+}
+
+function productById(id) {
+  return products.find((item) => item.id === id);
+}
+
+function createSingleProductWhatsAppUrl(product) {
+  const lines = [
+    `طلب منتج من NŌRÉVA Beauty`,
+    `المنتج: ${product.name}`,
+    `الماركة: ${product.brand}`,
+    `السعر: ${formatPrice(product.price)}`,
+    ``,
+    `أريد معرفة التفاصيل وإتمام الطلب.`,
+  ];
+  return `https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`;
+}
+
+function openProductModal(id) {
+  const product = productById(id);
+  if (!product) return;
+
+  const productName = escapeHTML(product.name);
+  const productBrand = escapeHTML(product.brand);
+  const productDescription = escapeHTML(product.description || "تفاصيل المنتج متاحة عند الطلب.");
+  const productDetails = escapeHTML(product.details || product.description || "اكتب لنا على واتساب لو محتاج تفاصيل أكتر عن المنتج.");
+  const productImage = escapeHTML(product.image || "");
+  const productTag = escapeHTML(product.tag || "منتج");
+
+  productDetailBody.innerHTML = `
+    <div class="product-detail-layout">
+      <div class="product-detail-visual">
+        ${productImage ? `<img src="${productImage}" alt="${productName}" />` : `<div class="product-detail-placeholder">${productBrand}</div>`}
+        <span class="tag">${productTag}</span>
+      </div>
+      <div class="product-detail-copy">
+        <span class="product-brand">${productBrand}</span>
+        <h2>${productName}</h2>
+        <div class="rating-row" aria-label="تقييم ${product.rating} من 5">
+          <span>${stars(product.rating)}</span>
+          <strong>${product.rating}</strong>
+          <small>${product.reviewCount} رأي</small>
+        </div>
+        <p>${productDescription}</p>
+        <p class="product-detail-text">${productDetails}</p>
+        <div class="product-detail-meta">
+          <div>
+            <span>السعر</span>
+            <strong>${formatPrice(product.price)}</strong>
+          </div>
+          <div>
+            <span>الدفع</span>
+            <strong>عند الاستلام</strong>
+          </div>
+          <div>
+            <span>العرض</span>
+            <strong>20% على القطعة الثانية</strong>
+          </div>
+        </div>
+        <div class="product-detail-actions">
+          <button class="primary-action detail-add-button" type="button" data-id="${product.id}">إضافة للسلة</button>
+          <a class="secondary-action" href="${createSingleProductWhatsAppUrl(product)}" target="_blank" rel="noopener">طلب على واتساب</a>
+        </div>
+      </div>
+    </div>
+  `;
+
+  productModal.classList.add("open");
+  productModal.setAttribute("aria-hidden", "false");
+  overlay.classList.add("show");
+}
+
+function closeProductModal() {
+  productModal.classList.remove("open");
+  productModal.setAttribute("aria-hidden", "true");
+  if (!cartPanel.classList.contains("open") && !orderModal.classList.contains("open")) overlay.classList.remove("show");
 }
 
 function renderReviews() {
@@ -483,7 +562,8 @@ function renderCart() {
 }
 
 function addToCart(id) {
-  const product = products.find((item) => item.id === id);
+  const product = productById(id);
+  if (!product) return;
   const current = state.cart.get(id);
   state.cart.set(id, { ...product, qty: current ? current.qty + 1 : 1 });
   renderCart();
@@ -677,7 +757,27 @@ searchInput.addEventListener("input", (event) => {
 
 grid.addEventListener("click", (event) => {
   const button = event.target.closest(".add-button");
-  if (button) addToCart(Number(button.dataset.id));
+  if (button) {
+    addToCart(Number(button.dataset.id));
+    return;
+  }
+  const card = event.target.closest(".product-card");
+  if (card) openProductModal(Number(card.dataset.id));
+});
+
+grid.addEventListener("keydown", (event) => {
+  if (!["Enter", " "].includes(event.key)) return;
+  const card = event.target.closest(".product-card");
+  if (!card) return;
+  event.preventDefault();
+  openProductModal(Number(card.dataset.id));
+});
+
+productDetailBody.addEventListener("click", (event) => {
+  const button = event.target.closest(".detail-add-button");
+  if (!button) return;
+  addToCart(Number(button.dataset.id));
+  closeProductModal();
 });
 
 cartItems.addEventListener("click", (event) => {
@@ -691,6 +791,7 @@ document.querySelector(".cart-toggle").addEventListener("click", openCart);
 document.querySelector("#closeCart").addEventListener("click", closeCart);
 document.querySelector(".checkout").addEventListener("click", openOrderModal);
 closeOrderModalButton.addEventListener("click", closeOrderModal);
+closeProductModalButton.addEventListener("click", closeProductModal);
 deliveryArea.addEventListener("change", () => {
   updateDeliveryStatus();
   openOrderModal();
@@ -716,6 +817,7 @@ checkoutForm.addEventListener("submit", (event) => {
 overlay.addEventListener("click", () => {
   closeCart();
   closeOrderModal();
+  closeProductModal();
 });
 document.querySelector(".contact-form").addEventListener("submit", (event) => {
   event.preventDefault();
