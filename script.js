@@ -1,6 +1,6 @@
 const SITE_SETTINGS = {
   language: "auto", // auto, ar, en
-  stickerIntervalMs: 4500,
+  stickerIntervalMs: 6500,
   stickerMessages: {
     ar: [
       ["Welcome to NŌRÉVA", "اكتشف لمعة جديدة كل يوم."],
@@ -19,17 +19,17 @@ const SITE_SETTINGS = {
     enabled: true,
     workingDays: [0, 1, 2, 3, 4, 5, 6], // 0 Sunday - 6 Saturday
     workingHours: { start: 10, end: 23 },
-    freeDeliveryAbove: 2000,
+    freeDeliveryAbove: 8000,
     areas: {
-      cairo: { label: "القاهرة", fee: 60, enabled: true },
-      giza: { label: "الجيزة", fee: 70, enabled: true },
+      cairo: { label: "القاهرة", fee: 100, enabled: true },
+      giza: { label: "الجيزة", fee: 150, enabled: true },
       alex: { label: "الإسكندرية", fee: 95, enabled: false },
     },
   },
   discounts: {
-    generalPercent: 5,
-    hourlyOffer: { enabled: true, startHour: 18, endHour: 21, percent: 10 },
-    dailyOffer: { enabled: true, day: 4, percent: 15 }, // 4 Thursday
+    secondItemPercent: 20,
+    hourlyOffer: { enabled: false, startHour: 18, endHour: 21, percent: 10 },
+    dailyOffer: { enabled: false, day: 4, percent: 15 }, // 4 Thursday
   },
   social: {
     instagram: "https://www.instagram.com/norevabeauty",
@@ -196,7 +196,6 @@ const overlay = document.querySelector("#overlay");
 const cartItems = document.querySelector("#cartItems");
 const cartCount = document.querySelector("#cartCount");
 const cartTotal = document.querySelector("#cartTotal");
-const spotlightCards = document.querySelectorAll(".spotlight-card");
 const orderModal = document.querySelector("#orderModal");
 const orderSummary = document.querySelector("#orderSummary");
 const closeOrderModalButton = document.querySelector("#closeOrderModal");
@@ -208,6 +207,7 @@ const ratingQr = document.querySelector("#ratingQr");
 const reviewsGrid = document.querySelector("#reviewsGrid");
 const deliveryArea = document.querySelector("#deliveryArea");
 const deliveryStatus = document.querySelector("#deliveryStatus");
+const spotlightGrid = document.querySelector(".spotlight-grid");
 const offerLabel = document.querySelector("#offerLabel");
 const offerTitle = document.querySelector("#offerTitle");
 const offerDetails = document.querySelector("#offerDetails");
@@ -233,32 +233,16 @@ function cartSubtotal(entries = [...state.cart.values()]) {
   return entries.reduce((sum, item) => sum + item.qty * item.price, 0);
 }
 
-function currentDiscountPercent() {
-  const now = new Date();
-  const discounts = [SITE_SETTINGS.discounts.generalPercent || 0];
-  const hourly = SITE_SETTINGS.discounts.hourlyOffer;
-  const daily = SITE_SETTINGS.discounts.dailyOffer;
-
-  if (hourly.enabled && now.getHours() >= hourly.startHour && now.getHours() < hourly.endHour) {
-    discounts.push(hourly.percent);
-  }
-
-  if (daily.enabled && now.getDay() === daily.day) {
-    discounts.push(daily.percent);
-  }
-
-  return Math.max(...discounts);
+function secondItemDiscount(entries = [...state.cart.values()]) {
+  const unitPrices = entries.flatMap((item) => Array.from({ length: item.qty }, () => item.price));
+  unitPrices.sort((a, b) => a - b);
+  const discountedUnitsCount = Math.floor(unitPrices.length / 2);
+  const discountedUnits = unitPrices.slice(0, discountedUnitsCount);
+  return Math.round(discountedUnits.reduce((sum, price) => sum + price * (SITE_SETTINGS.discounts.secondItemPercent / 100), 0));
 }
 
 function isDeliveryOpen() {
-  const now = new Date();
-  const delivery = SITE_SETTINGS.delivery;
-  return (
-    delivery.enabled &&
-    delivery.workingDays.includes(now.getDay()) &&
-    now.getHours() >= delivery.workingHours.start &&
-    now.getHours() < delivery.workingHours.end
-  );
+  return SITE_SETTINGS.delivery.enabled;
 }
 
 function selectedDeliveryArea() {
@@ -280,8 +264,8 @@ function canDeliver() {
 
 function orderTotals(entries = [...state.cart.values()]) {
   const subtotal = cartSubtotal(entries);
-  const discountPercent = currentDiscountPercent();
-  const discount = Math.round(subtotal * (discountPercent / 100));
+  const discountPercent = SITE_SETTINGS.discounts.secondItemPercent;
+  const discount = secondItemDiscount(entries);
   const delivery = deliveryFee(subtotal);
   return {
     subtotal,
@@ -329,9 +313,27 @@ function renderBrandOptions() {
     brands.map((brand) => `<option value="${brand}">${brand}</option>`).join("");
 }
 
+function renderBrandSpotlight() {
+  const brandCounts = products.reduce((counts, product) => {
+    counts.set(product.brand, (counts.get(product.brand) || 0) + 1);
+    return counts;
+  }, new Map());
+  const brands = [...brandCounts.entries()].sort((a, b) => b[1] - a[1]);
+  spotlightGrid.innerHTML = brands
+    .map(
+      ([brand, count], index) => `
+        <button class="spotlight-card brand-chip" type="button" data-brand="${escapeHTML(brand)}" data-aos="fade-up" data-aos-delay="${Math.min(index * 20, 160)}">
+          <span>${escapeHTML(brand)}</span>
+          <strong>${count} منتج</strong>
+        </button>
+      `
+    )
+    .join("");
+}
+
 function renderProducts() {
   const allItems = visibleProducts();
-  const items = allItems.slice(0, 80);
+  const items = allItems.slice(0, 96);
   grid.innerHTML = items
     .map(
       (product, index) => {
@@ -341,7 +343,7 @@ function renderProducts() {
         const productDetails = escapeHTML(product.details);
         const productImage = escapeHTML(product.image || "");
         return `
-        <article class="product-card glass-panel" data-aos="zoom-in" data-aos-delay="${Math.min(index * 70, 280)}">
+        <article class="product-card glass-panel" data-aos="fade-up" data-aos-delay="${Math.min(index * 15, 120)}">
           <div class="product-visual ${product.image ? "has-image" : ""}" style="--tone-a:${(product.tones || ["#0f0d0b"])[0]};--tone-b:${(product.tones || ["#0f0d0b", "#b88945"])[1]};--tone-c:${(product.tones || ["#0f0d0b", "#b88945", "#4d2b20"])[2]};--shape-w:${(product.shape || ["74px"])[0]};--shape-h:${(product.shape || ["142px"])[1]};--shape-r:${(product.shape || ["18px"])[2]}">
             ${product.image ? `<img class="product-image" src="${productImage}" alt="${productName}" loading="lazy" />` : ""}
             <span class="tag">${escapeHTML(product.tag)}</span>
@@ -402,18 +404,11 @@ function renderDeliveryControls() {
 }
 
 function updateDeliveryStatus() {
-  const open = isDeliveryOpen();
   const area = selectedDeliveryArea();
-  deliveryArea.disabled = !open;
+  deliveryArea.disabled = !SITE_SETTINGS.delivery.enabled;
 
   if (!SITE_SETTINGS.delivery.enabled) {
     deliveryStatus.textContent = "التوصيل غير متاح حاليًا. لا يمكن تأكيد الطلب الآن.";
-    return;
-  }
-
-  if (!open) {
-    deliveryStatus.textContent = `التوصيل متاح من ${SITE_SETTINGS.delivery.workingHours.start}:00 إلى ${SITE_SETTINGS.delivery.workingHours.end}:00. لا يمكن تأكيد الطلب خارج مواعيد التوصيل.`;
-    deliveryArea.disabled = true;
     return;
   }
 
@@ -422,16 +417,13 @@ function updateDeliveryStatus() {
     return;
   }
 
-  deliveryStatus.textContent = `التوصيل متاح إلى ${area.label}. مصاريف التوصيل ${formatPrice(deliveryFee())}، ومجاني فوق ${formatPrice(SITE_SETTINGS.delivery.freeDeliveryAbove)}. الدفع عند الاستلام.`;
+  deliveryStatus.textContent = `التوصيل متاح إلى ${area.label}. مصاريف التوصيل ${formatPrice(deliveryFee())}، ومجاني فوق ${formatPrice(SITE_SETTINGS.delivery.freeDeliveryAbove)}. الدفع عند الاستلام. يمكنك إرسال الطلب في أي وقت.`;
 }
 
 function renderOfferBanner() {
-  const discount = currentDiscountPercent();
-  const hourly = SITE_SETTINGS.discounts.hourlyOffer;
-  const daily = SITE_SETTINGS.discounts.dailyOffer;
   offerLabel.textContent = "Live Offers";
-  offerTitle.textContent = discount > 0 ? `خصم شغال الآن: ${discount}%` : "لا يوجد خصم حاليًا";
-  offerDetails.textContent = `خصم عام ${SITE_SETTINGS.discounts.generalPercent}%، عرض الساعة ${hourly.enabled ? `${hourly.percent}% من ${hourly.startHour}:00 إلى ${hourly.endHour}:00` : "مغلق"}، عرض اليوم ${daily.enabled ? `${daily.percent}% يوم رقم ${daily.day}` : "مغلق"}.`;
+  offerTitle.textContent = `خصم ${SITE_SETTINGS.discounts.secondItemPercent}% على القطعة الثانية`;
+  offerDetails.textContent = `الخصم يتحسب تلقائيًا على كل قطعة ثانية في السلة. الشحن مجاني عند مشتريات ${formatPrice(SITE_SETTINGS.delivery.freeDeliveryAbove)} أو أكثر.`;
 }
 
 function startStickerRotation() {
@@ -478,7 +470,11 @@ function renderCart() {
                 <h3>${item.name}</h3>
                 <p>${item.brand} · ${formatPrice(item.price)}</p>
               </div>
-              <span class="qty">× ${item.qty}</span>
+              <div class="qty-controls" aria-label="تغيير كمية ${escapeHTML(item.name)}">
+                <button type="button" class="qty-button" data-action="decrease" data-id="${item.id}" aria-label="تقليل الكمية">−</button>
+                <span class="qty">× ${item.qty}</span>
+                <button type="button" class="qty-button" data-action="increase" data-id="${item.id}" aria-label="زيادة الكمية">+</button>
+              </div>
             </div>
           `
         )
@@ -492,6 +488,15 @@ function addToCart(id) {
   state.cart.set(id, { ...product, qty: current ? current.qty + 1 : 1 });
   renderCart();
   openCart();
+}
+
+function updateCartQuantity(id, delta) {
+  const current = state.cart.get(id);
+  if (!current) return;
+  const nextQty = current.qty + delta;
+  if (nextQty <= 0) state.cart.delete(id);
+  else state.cart.set(id, { ...current, qty: nextQty });
+  renderCart();
 }
 
 function openCart() {
@@ -531,7 +536,7 @@ function openOrderModal() {
       <strong>${formatPrice(totals.subtotal)}</strong>
     </div>
     <div class="order-total">
-      <span>الخصم ${totals.discountPercent}%</span>
+      <span>خصم القطعة الثانية ${totals.discountPercent}%</span>
       <strong>- ${formatPrice(totals.discount)}</strong>
     </div>
     <div class="order-total">
@@ -597,7 +602,7 @@ function createReceipt(formData) {
       <strong>${formatPrice(totals.subtotal)}</strong>
     </div>
     <div class="order-total">
-      <span>الخصم ${totals.discountPercent}%</span>
+      <span>خصم القطعة الثانية ${totals.discountPercent}%</span>
       <strong>- ${formatPrice(totals.discount)}</strong>
     </div>
     <div class="order-total">
@@ -632,7 +637,7 @@ function createWhatsAppUrl(orderNumber, formData, entries, totals) {
     ...entries.map((item) => `- ${item.name} (${item.brand}) × ${item.qty} = ${formatPrice(item.qty * item.price)}`),
     ``,
     `المجموع قبل الخصم: ${formatPrice(totals.subtotal)}`,
-    `الخصم ${totals.discountPercent}%: - ${formatPrice(totals.discount)}`,
+    `خصم القطعة الثانية ${totals.discountPercent}%: - ${formatPrice(totals.discount)}`,
     `التوصيل: ${formatPrice(totals.delivery)}`,
     `الإجمالي النهائي: ${formatPrice(totals.total)}`,
   ];
@@ -660,8 +665,9 @@ brandSelect.addEventListener("change", (event) => {
   renderProducts();
 });
 
-spotlightCards.forEach((card) => {
-  card.addEventListener("click", () => setBrandFilter(card.dataset.brand));
+spotlightGrid.addEventListener("click", (event) => {
+  const card = event.target.closest(".spotlight-card");
+  if (card) setBrandFilter(card.dataset.brand);
 });
 
 searchInput.addEventListener("input", (event) => {
@@ -672,6 +678,13 @@ searchInput.addEventListener("input", (event) => {
 grid.addEventListener("click", (event) => {
   const button = event.target.closest(".add-button");
   if (button) addToCart(Number(button.dataset.id));
+});
+
+cartItems.addEventListener("click", (event) => {
+  const button = event.target.closest(".qty-button");
+  if (!button) return;
+  const delta = button.dataset.action === "increase" ? 1 : -1;
+  updateCartQuantity(Number(button.dataset.id), delta);
 });
 
 document.querySelector(".cart-toggle").addEventListener("click", openCart);
@@ -693,7 +706,7 @@ checkoutForm.addEventListener("submit", (event) => {
     fulfillment: `توصيل إلى ${selectedDeliveryArea()?.label || "منطقة غير محددة"}`,
   };
   if (!canDeliver()) {
-    alert("التوصيل غير متاح حاليًا لهذه المنطقة أو خارج مواعيد التوصيل.");
+    alert("التوصيل غير متاح حاليًا لهذه المنطقة.");
     return;
   }
   createReceipt(formData);
@@ -711,14 +724,15 @@ document.querySelector(".contact-form").addEventListener("submit", (event) => {
 
 if (window.AOS) {
   AOS.init({
-    duration: 850,
+    duration: 520,
     easing: "ease-out-cubic",
     once: true,
-    offset: 80,
+    offset: 60,
   });
 }
 
 renderBrandOptions();
+renderBrandSpotlight();
 renderProducts();
 renderReviews();
 renderDeliveryControls();
