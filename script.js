@@ -185,6 +185,7 @@ const state = {
   brand: "all",
   search: "",
   cart: new Map(),
+  language: localStorage.getItem("noreva-language") || SITE_SETTINGS.language,
 };
 
 const grid = document.querySelector("#productGrid");
@@ -222,14 +223,195 @@ const tiktokLink = document.querySelector("#tiktokLink");
 const instagramQr = document.querySelector("#instagramQr");
 const tiktokQr = document.querySelector("#tiktokQr");
 const whatsappOrderLink = document.querySelector("#whatsappOrderLink");
+const languageToggle = document.querySelector("#languageToggle");
+
+const translations = {
+  ar: {
+    currency: "جنيه",
+    cart: "السلة",
+    add: "إضافة",
+    addToCart: "إضافة للسلة",
+    whatsappProduct: "طلب على واتساب",
+    allBrands: "كل البراندات",
+    allProducts: "الكل",
+    noProducts: "لا توجد منتجات مطابقة للبحث الحالي.",
+    showing: (shown, total) => `يتم عرض أول ${shown} منتج من ${total}. استخدم البحث أو فلتر البراند للوصول لصنف معين بسرعة.`,
+    brandProducts: (count) => `${count} منتج`,
+    reviews: "رأي",
+    productDetails: "تفاصيل المنتج",
+    price: "السعر",
+    payment: "الدفع",
+    cashOnDelivery: "عند الاستلام",
+    secondOffer: "20% على القطعة الثانية",
+    detailsFallback: "تفاصيل المنتج متاحة عند الطلب.",
+    detailsMore: "اكتب لنا على واتساب لو محتاج تفاصيل أكتر عن المنتج.",
+    cartEmpty: "السلة فاضية حاليًا.",
+    subtotal: "المجموع قبل الخصم",
+    secondDiscount: (percent) => `خصم القطعة الثانية ${percent}%`,
+    delivery: "التوصيل",
+    total: "الإجمالي النهائي",
+    checkoutEmpty: "السلة فاضية. ضيف منتج الأول عشان تعمل طلب.",
+    deliveryUnavailable: "التوصيل غير متاح حاليًا لهذه المنطقة.",
+    deliveryOff: "التوصيل غير متاح حاليًا. لا يمكن تأكيد الطلب الآن.",
+    areaOff: "منطقة التوصيل غير متاحة حاليًا.",
+    deliveryStatus: (area, fee, freeAbove) => `التوصيل متاح إلى ${area}. مصاريف التوصيل ${fee}، ومجاني فوق ${freeAbove}. الدفع عند الاستلام. يمكنك إرسال الطلب في أي وقت.`,
+    offerTitle: (percent) => `خصم ${percent}% على القطعة الثانية`,
+    offerDetails: (freeAbove) => `الخصم يتحسب تلقائيًا على كل قطعة ثانية في السلة. الشحن مجاني عند مشتريات ${freeAbove} أو أكثر.`,
+    orderNumber: "رقم الطلب",
+    customer: "العميل",
+    phone: "الموبايل",
+    address: "العنوان",
+    fulfillment: "التوصيل",
+    products: "المنتجات",
+    newOrder: "طلب جديد من NŌRÉVA Beauty",
+    newProductOrder: "طلب منتج من NŌRÉVA Beauty",
+    product: "المنتج",
+    brand: "الماركة",
+    wantProduct: "أريد معرفة التفاصيل وإتمام الطلب.",
+    sentContact: "تم استلام بيانات الطلب. هنراجعها معاك قريبًا.",
+    navProducts: "المنتجات",
+    navBrands: "البراندات",
+    navReviews: "الآراء",
+    navSocial: "السوشيال",
+    navOffers: "العروض",
+    navContact: "تواصل",
+    shopNow: "تسوق الآن",
+    browseBrands: "استعرض البراندات",
+    heroSubtitle: "Where elegance meets your skin.",
+    searchLabel: "بحث",
+    searchPlaceholder: "اكتب اسم المنتج أو البراند...",
+    filterPerfume: "بيرفيوم",
+    filterMen: "رجالي",
+    filterWomen: "حريمي",
+    filterMakeup: "ميك أب",
+    filterOffers: "عروض",
+    brandLabel: "البراند",
+    selectedProducts: "منتجات مختارة",
+    productsIntro: "تصفية حسب النوع أو البراند، مع كروت زجاجية على ستايل الرخام الأسود.",
+    brandHeading: "كل الماركات",
+    brandIntro: "اضغط على أي ماركة وهيعرض منتجاتها بس.",
+    chooseBundle: "اختار الباقة",
+    reviewsHeading: "آراء العملاء",
+    reviewsIntro: "آراء العملاء عن المنتجات وتجربة الطلب.",
+    socialHeading: "تابعنا على السوشيال",
+    socialIntro: "امسح الكود وافتح صفحة Instagram أو TikTok مباشرة.",
+    contactHeading: "جاهزين للطلبات والاستفسار",
+    contactIntro: "اكتب لنا تفاصيل الطلب، أو ابعت أسماء المنتجات اللي عجبتك من السلة.",
+    suggestions: "رقم المقترحات: 01018591535",
+    sendOrder: "إرسال الطلب",
+    checkout: "إتمام الطلب",
+    orderData: "بيانات الطلب والدفع",
+    orderNote: "الدفع عند الاستلام فقط. اكتب بيانات التوصيل وسيتم تجهيز رسالة واتساب بالطلب.",
+    deliveryArea: "منطقة التوصيل",
+    confirmOrder: "تأكيد الطلب",
+    receipt: "فاتورة الطلب",
+    qrReview: "QR لتقييم التجربة",
+    qrReviewText: "امسح الكود بعد الطلب واكتب رأيك في NŌRÉVA.",
+    nextStep: "الخطوة التالية",
+    nextStepText: "اضغط زر واتساب لإرسال الطلب كاملًا، وبعدها يتم تأكيد التوصيل والدفع عند الاستلام.",
+    sendWhatsapp: "إرسال الطلب على واتساب",
+  },
+  en: {
+    currency: "EGP",
+    cart: "Cart",
+    add: "Add",
+    addToCart: "Add to cart",
+    whatsappProduct: "Order on WhatsApp",
+    allBrands: "All brands",
+    allProducts: "All",
+    noProducts: "No products match your current search.",
+    showing: (shown, total) => `Showing the first ${shown} products out of ${total}. Use search or brand filters to find an item faster.`,
+    brandProducts: (count) => `${count} products`,
+    reviews: "reviews",
+    productDetails: "Product details",
+    price: "Price",
+    payment: "Payment",
+    cashOnDelivery: "Cash on delivery",
+    secondOffer: "20% off the second item",
+    detailsFallback: "Product details are available on request.",
+    detailsMore: "Message us on WhatsApp if you need more details about this product.",
+    cartEmpty: "Your cart is empty.",
+    subtotal: "Subtotal",
+    secondDiscount: (percent) => `Second item discount ${percent}%`,
+    delivery: "Delivery",
+    total: "Final total",
+    checkoutEmpty: "Your cart is empty. Add a product first to place an order.",
+    deliveryUnavailable: "Delivery is not currently available for this area.",
+    deliveryOff: "Delivery is currently unavailable. Orders cannot be confirmed now.",
+    areaOff: "This delivery area is currently unavailable.",
+    deliveryStatus: (area, fee, freeAbove) => `Delivery is available to ${area}. Delivery fee is ${fee}, and free above ${freeAbove}. Cash on delivery. You can send your order anytime.`,
+    offerTitle: (percent) => `${percent}% off the second item`,
+    offerDetails: (freeAbove) => `Discount is applied automatically to every second item in the cart. Free delivery on orders of ${freeAbove} or more.`,
+    orderNumber: "Order number",
+    customer: "Customer",
+    phone: "Phone",
+    address: "Address",
+    fulfillment: "Fulfillment",
+    products: "Products",
+    newOrder: "New order from NŌRÉVA Beauty",
+    newProductOrder: "Product request from NŌRÉVA Beauty",
+    product: "Product",
+    brand: "Brand",
+    wantProduct: "I want more details and to complete the order.",
+    sentContact: "Your request was received. We will review it with you shortly.",
+    navProducts: "Products",
+    navBrands: "Brands",
+    navReviews: "Reviews",
+    navSocial: "Social",
+    navOffers: "Offers",
+    navContact: "Contact",
+    shopNow: "Shop now",
+    browseBrands: "Browse brands",
+    heroSubtitle: "Where elegance meets your skin.",
+    searchLabel: "Search",
+    searchPlaceholder: "Search product or brand...",
+    filterPerfume: "Perfume",
+    filterMen: "Men",
+    filterWomen: "Women",
+    filterMakeup: "Makeup",
+    filterOffers: "Offers",
+    brandLabel: "Brand",
+    selectedProducts: "Selected products",
+    productsIntro: "Filter by type or brand with elegant glass cards on black marble style.",
+    brandHeading: "All brands",
+    brandIntro: "Tap any brand to show only its products.",
+    chooseBundle: "Choose offer",
+    reviewsHeading: "Customer reviews",
+    reviewsIntro: "Customer feedback about products and the ordering experience.",
+    socialHeading: "Follow us",
+    socialIntro: "Scan the code to open Instagram or TikTok directly.",
+    contactHeading: "Ready for orders and questions",
+    contactIntro: "Send us order details or the product names you liked from the cart.",
+    suggestions: "Suggestions phone: 01018591535",
+    sendOrder: "Send request",
+    checkout: "Checkout",
+    orderData: "Order and payment details",
+    orderNote: "Cash on delivery only. Enter your delivery details and a WhatsApp order message will be prepared.",
+    deliveryArea: "Delivery area",
+    confirmOrder: "Confirm order",
+    receipt: "Order receipt",
+    qrReview: "Review QR code",
+    qrReviewText: "Scan the code after ordering and write your NŌRÉVA review.",
+    nextStep: "Next step",
+    nextStepText: "Tap the WhatsApp button to send the full order, then delivery and cash payment will be confirmed.",
+    sendWhatsapp: "Send order on WhatsApp",
+  },
+};
 
 function formatPrice(value) {
-  return `${value.toLocaleString("ar-EG")} جنيه`;
+  const lang = activeLanguage();
+  return `${value.toLocaleString(lang === "ar" ? "ar-EG" : "en-US")} ${translations[lang].currency}`;
 }
 
 function activeLanguage() {
+  if (state.language && state.language !== "auto") return state.language;
   if (SITE_SETTINGS.language !== "auto") return SITE_SETTINGS.language;
   return navigator.language.toLowerCase().startsWith("ar") ? "ar" : "en";
+}
+
+function t(key, ...args) {
+  const value = translations[activeLanguage()][key] ?? translations.ar[key] ?? key;
+  return typeof value === "function" ? value(...args) : value;
 }
 
 function cartSubtotal(entries = [...state.cart.values()]) {
@@ -312,8 +494,9 @@ function renderBrandOptions() {
     a.localeCompare(b)
   );
   brandSelect.innerHTML =
-    `<option value="all">كل البراندات</option>` +
-    brands.map((brand) => `<option value="${brand}">${brand}</option>`).join("");
+    `<option value="all">${t("allBrands")}</option>` +
+    brands.map((brand) => `<option value="${escapeHTML(brand)}">${escapeHTML(brand)}</option>`).join("");
+  brandSelect.value = state.brand;
 }
 
 function renderBrandSpotlight() {
@@ -327,7 +510,7 @@ function renderBrandSpotlight() {
       ([brand, count], index) => `
         <button class="spotlight-card brand-chip" type="button" data-brand="${escapeHTML(brand)}" data-aos="fade-up" data-aos-delay="${Math.min(index * 20, 160)}">
           <span>${escapeHTML(brand)}</span>
-          <strong>${count} منتج</strong>
+          <strong>${t("brandProducts", count)}</strong>
         </button>
       `
     )
@@ -357,14 +540,14 @@ function renderProducts() {
             <div class="rating-row" aria-label="تقييم ${product.rating} من 5">
               <span>${stars(product.rating)}</span>
               <strong>${product.rating}</strong>
-              <small>${product.reviewCount} رأي</small>
+            <small>${product.reviewCount} ${t("reviews")}</small>
             </div>
             <p>${productDescription}</p>
             <p class="product-details">${productDetails}</p>
           </div>
           <div class="product-bottom">
             <span class="price">${formatPrice(product.price)}</span>
-            <button class="add-button" type="button" data-id="${product.id}">إضافة</button>
+            <button class="add-button" type="button" data-id="${product.id}">${t("add")}</button>
           </div>
         </article>
       `;
@@ -373,9 +556,9 @@ function renderProducts() {
     .join("");
 
   if (!allItems.length) {
-    grid.innerHTML = `<p class="empty glass-panel">لا توجد منتجات مطابقة للبحث الحالي.</p>`;
+    grid.innerHTML = `<p class="empty glass-panel">${t("noProducts")}</p>`;
   } else if (allItems.length > items.length) {
-    grid.innerHTML += `<p class="empty glass-panel">يتم عرض أول ${items.length} منتج من ${allItems.length}. استخدم البحث أو فلتر البراند للوصول لصنف معين بسرعة.</p>`;
+    grid.innerHTML += `<p class="empty glass-panel">${t("showing", items.length, allItems.length)}</p>`;
   }
 
   if (window.AOS) AOS.refreshHard();
@@ -387,12 +570,12 @@ function productById(id) {
 
 function createSingleProductWhatsAppUrl(product) {
   const lines = [
-    `طلب منتج من NŌRÉVA Beauty`,
-    `المنتج: ${product.name}`,
-    `الماركة: ${product.brand}`,
-    `السعر: ${formatPrice(product.price)}`,
+    t("newProductOrder"),
+    `${t("product")}: ${product.name}`,
+    `${t("brand")}: ${product.brand}`,
+    `${t("price")}: ${formatPrice(product.price)}`,
     ``,
-    `أريد معرفة التفاصيل وإتمام الطلب.`,
+    t("wantProduct"),
   ];
   return `https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`;
 }
@@ -403,8 +586,8 @@ function openProductModal(id) {
 
   const productName = escapeHTML(product.name);
   const productBrand = escapeHTML(product.brand);
-  const productDescription = escapeHTML(product.description || "تفاصيل المنتج متاحة عند الطلب.");
-  const productDetails = escapeHTML(product.details || product.description || "اكتب لنا على واتساب لو محتاج تفاصيل أكتر عن المنتج.");
+  const productDescription = escapeHTML(product.description || t("detailsFallback"));
+  const productDetails = escapeHTML(product.details || product.description || t("detailsMore"));
   const productImage = escapeHTML(product.image || "");
   const productTag = escapeHTML(product.tag || "منتج");
 
@@ -426,21 +609,21 @@ function openProductModal(id) {
         <p class="product-detail-text">${productDetails}</p>
         <div class="product-detail-meta">
           <div>
-            <span>السعر</span>
+            <span>${t("price")}</span>
             <strong>${formatPrice(product.price)}</strong>
           </div>
           <div>
-            <span>الدفع</span>
-            <strong>عند الاستلام</strong>
+            <span>${t("payment")}</span>
+            <strong>${t("cashOnDelivery")}</strong>
           </div>
           <div>
-            <span>العرض</span>
-            <strong>20% على القطعة الثانية</strong>
+            <span>${t("filterOffers")}</span>
+            <strong>${t("secondOffer")}</strong>
           </div>
         </div>
         <div class="product-detail-actions">
-          <button class="primary-action detail-add-button" type="button" data-id="${product.id}">إضافة للسلة</button>
-          <a class="secondary-action" href="${createSingleProductWhatsAppUrl(product)}" target="_blank" rel="noopener">طلب على واتساب</a>
+          <button class="primary-action detail-add-button" type="button" data-id="${product.id}">${t("addToCart")}</button>
+          <a class="secondary-action" href="${createSingleProductWhatsAppUrl(product)}" target="_blank" rel="noopener">${t("whatsappProduct")}</a>
         </div>
       </div>
     </div>
@@ -477,7 +660,7 @@ function renderReviews() {
 function renderDeliveryControls() {
   const areas = Object.entries(SITE_SETTINGS.delivery.areas);
   deliveryArea.innerHTML = areas
-    .map(([key, area]) => `<option value="${key}" ${area.enabled ? "" : "disabled"}>${area.label} - ${area.enabled ? formatPrice(area.fee) : "غير متاح"}</option>`)
+    .map(([key, area]) => `<option value="${key}" ${area.enabled ? "" : "disabled"}>${area.label} - ${area.enabled ? formatPrice(area.fee) : t("areaOff")}</option>`)
     .join("");
   updateDeliveryStatus();
 }
@@ -487,29 +670,29 @@ function updateDeliveryStatus() {
   deliveryArea.disabled = !SITE_SETTINGS.delivery.enabled;
 
   if (!SITE_SETTINGS.delivery.enabled) {
-    deliveryStatus.textContent = "التوصيل غير متاح حاليًا. لا يمكن تأكيد الطلب الآن.";
+    deliveryStatus.textContent = t("deliveryOff");
     return;
   }
 
   if (!area || !area.enabled) {
-    deliveryStatus.textContent = "منطقة التوصيل غير متاحة حاليًا.";
+    deliveryStatus.textContent = t("areaOff");
     return;
   }
 
-  deliveryStatus.textContent = `التوصيل متاح إلى ${area.label}. مصاريف التوصيل ${formatPrice(deliveryFee())}، ومجاني فوق ${formatPrice(SITE_SETTINGS.delivery.freeDeliveryAbove)}. الدفع عند الاستلام. يمكنك إرسال الطلب في أي وقت.`;
+  deliveryStatus.textContent = t("deliveryStatus", area.label, formatPrice(deliveryFee()), formatPrice(SITE_SETTINGS.delivery.freeDeliveryAbove));
 }
 
 function renderOfferBanner() {
   offerLabel.textContent = "Live Offers";
-  offerTitle.textContent = `خصم ${SITE_SETTINGS.discounts.secondItemPercent}% على القطعة الثانية`;
-  offerDetails.textContent = `الخصم يتحسب تلقائيًا على كل قطعة ثانية في السلة. الشحن مجاني عند مشتريات ${formatPrice(SITE_SETTINGS.delivery.freeDeliveryAbove)} أو أكثر.`;
+  offerTitle.textContent = t("offerTitle", SITE_SETTINGS.discounts.secondItemPercent);
+  offerDetails.textContent = t("offerDetails", formatPrice(SITE_SETTINGS.delivery.freeDeliveryAbove));
 }
 
 function startStickerRotation() {
-  const messages = SITE_SETTINGS.stickerMessages[activeLanguage()];
   let index = 0;
 
   function setStickerMessage() {
+    const messages = SITE_SETTINGS.stickerMessages[activeLanguage()];
     const [title, body] = messages[index % messages.length];
     stickerTitle.textContent = title;
     stickerText.textContent = body;
@@ -550,15 +733,15 @@ function renderCart() {
                 <p>${item.brand} · ${formatPrice(item.price)}</p>
               </div>
               <div class="qty-controls" aria-label="تغيير كمية ${escapeHTML(item.name)}">
-                <button type="button" class="qty-button" data-action="decrease" data-id="${item.id}" aria-label="تقليل الكمية">−</button>
+                <button type="button" class="qty-button" data-action="decrease" data-id="${item.id}" aria-label="-">−</button>
                 <span class="qty">× ${item.qty}</span>
-                <button type="button" class="qty-button" data-action="increase" data-id="${item.id}" aria-label="زيادة الكمية">+</button>
+                <button type="button" class="qty-button" data-action="increase" data-id="${item.id}" aria-label="+">+</button>
               </div>
             </div>
           `
         )
         .join("")
-    : `<p>السلة فاضية حاليًا.</p>`;
+    : `<p>${t("cartEmpty")}</p>`;
 }
 
 function addToCart(id) {
@@ -594,7 +777,7 @@ function closeCart() {
 function openOrderModal() {
   const entries = [...state.cart.values()];
   if (!entries.length) {
-    alert("السلة فاضية. ضيف منتج الأول عشان تعمل طلب.");
+    alert(t("checkoutEmpty"));
     return;
   }
 
@@ -612,19 +795,19 @@ function openOrderModal() {
       )
       .join("")}
     <div class="order-total">
-      <span>المجموع قبل الخصم</span>
+      <span>${t("subtotal")}</span>
       <strong>${formatPrice(totals.subtotal)}</strong>
     </div>
     <div class="order-total">
-      <span>خصم القطعة الثانية ${totals.discountPercent}%</span>
+      <span>${t("secondDiscount", totals.discountPercent)}</span>
       <strong>- ${formatPrice(totals.discount)}</strong>
     </div>
     <div class="order-total">
-      <span>التوصيل</span>
+      <span>${t("delivery")}</span>
       <strong>${formatPrice(totals.delivery)}</strong>
     </div>
     <div class="order-total">
-      <span>الإجمالي النهائي</span>
+      <span>${t("total")}</span>
       <strong>${formatPrice(totals.total)}</strong>
     </div>
   `;
@@ -644,27 +827,27 @@ function createReceipt(formData) {
 
   orderSummary.innerHTML = `
     <div class="order-number">
-      <span>رقم الطلب</span>
+      <span>${t("orderNumber")}</span>
       <strong>${orderNumber}</strong>
     </div>
     <div class="order-line">
-      <span>العميل</span>
+      <span>${t("customer")}</span>
       <strong>${formData.name}</strong>
     </div>
     <div class="order-line">
-      <span>الموبايل</span>
+      <span>${t("phone")}</span>
       <strong>${formData.phone}</strong>
     </div>
     <div class="order-line">
-      <span>العنوان</span>
+      <span>${t("address")}</span>
       <strong>${formData.city} - ${formData.address}</strong>
     </div>
     <div class="order-line">
-      <span>الدفع</span>
+      <span>${t("payment")}</span>
       <strong>${formData.payment}</strong>
     </div>
     <div class="order-line">
-      <span>التوصيل</span>
+      <span>${t("delivery")}</span>
       <strong>${formData.fulfillment}</strong>
     </div>
     ${entries
@@ -678,19 +861,19 @@ function createReceipt(formData) {
       )
       .join("")}
     <div class="order-total">
-      <span>المجموع قبل الخصم</span>
+      <span>${t("subtotal")}</span>
       <strong>${formatPrice(totals.subtotal)}</strong>
     </div>
     <div class="order-total">
-      <span>خصم القطعة الثانية ${totals.discountPercent}%</span>
+      <span>${t("secondDiscount", totals.discountPercent)}</span>
       <strong>- ${formatPrice(totals.discount)}</strong>
     </div>
     <div class="order-total">
-      <span>التوصيل</span>
+      <span>${t("delivery")}</span>
       <strong>${formatPrice(totals.delivery)}</strong>
     </div>
     <div class="order-total">
-      <span>الإجمالي النهائي</span>
+      <span>${t("total")}</span>
       <strong>${formatPrice(totals.total)}</strong>
     </div>
   `;
@@ -705,21 +888,21 @@ function closeOrderModal() {
 
 function createWhatsAppUrl(orderNumber, formData, entries, totals) {
   const lines = [
-    `طلب جديد من NŌRÉVA Beauty`,
-    `رقم الطلب: ${orderNumber}`,
-    `الاسم: ${formData.name}`,
-    `الموبايل: ${formData.phone}`,
-    `العنوان: ${formData.city} - ${formData.address}`,
-    `التوصيل: ${formData.fulfillment}`,
-    `الدفع: الدفع عند الاستلام`,
+    t("newOrder"),
+    `${t("orderNumber")}: ${orderNumber}`,
+    `${t("customer")}: ${formData.name}`,
+    `${t("phone")}: ${formData.phone}`,
+    `${t("address")}: ${formData.city} - ${formData.address}`,
+    `${t("delivery")}: ${formData.fulfillment}`,
+    `${t("payment")}: ${t("cashOnDelivery")}`,
     ``,
-    `المنتجات:`,
+    `${t("products")}:`,
     ...entries.map((item) => `- ${item.name} (${item.brand}) × ${item.qty} = ${formatPrice(item.qty * item.price)}`),
     ``,
-    `المجموع قبل الخصم: ${formatPrice(totals.subtotal)}`,
-    `خصم القطعة الثانية ${totals.discountPercent}%: - ${formatPrice(totals.discount)}`,
-    `التوصيل: ${formatPrice(totals.delivery)}`,
-    `الإجمالي النهائي: ${formatPrice(totals.total)}`,
+    `${t("subtotal")}: ${formatPrice(totals.subtotal)}`,
+    `${t("secondDiscount", totals.discountPercent)}: - ${formatPrice(totals.discount)}`,
+    `${t("delivery")}: ${formatPrice(totals.delivery)}`,
+    `${t("total")}: ${formatPrice(totals.total)}`,
   ];
   return `https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`;
 }
@@ -729,6 +912,82 @@ function setBrandFilter(brand) {
   brandSelect.value = brand;
   renderProducts();
   document.querySelector("#products").scrollIntoView({ behavior: "smooth" });
+}
+
+function setText(selector, value) {
+  const element = document.querySelector(selector);
+  if (element) element.textContent = value;
+}
+
+function setPlaceholder(selector, value) {
+  const element = document.querySelector(selector);
+  if (element) element.placeholder = value;
+}
+
+function applyLanguage() {
+  const lang = activeLanguage();
+  document.documentElement.lang = lang;
+  document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
+  document.body.classList.toggle("is-ltr", lang === "en");
+  languageToggle.textContent = lang === "ar" ? "EN" : "AR";
+  languageToggle.setAttribute("aria-label", lang === "ar" ? "Switch to English" : "Switch to Arabic");
+
+  setText('.nav a[href="#products"]', t("navProducts"));
+  setText('.nav a[href="#brandSpotlight"]', t("navBrands"));
+  setText('.nav a[href="#reviews"]', t("navReviews"));
+  setText('.nav a[href="#social"]', t("navSocial"));
+  setText('.nav a[href="#offers"]', t("navOffers"));
+  setText('.nav a[href="#contact"]', t("navContact"));
+  setText(".cart-toggle span", t("cart"));
+  setText(".hero-subtitle", t("heroSubtitle"));
+  setText('.hero-actions .primary-action[href="#products"]', t("shopNow"));
+  setText('.hero-actions .secondary-action[href="#brandSpotlight"]', t("browseBrands"));
+  setText(".search span", t("searchLabel"));
+  setPlaceholder("#searchInput", t("searchPlaceholder"));
+  setText('.filter[data-filter="all"]', t("allProducts"));
+  setText('.filter[data-filter="perfume"]', t("filterPerfume"));
+  setText('.filter[data-filter="men-fragrance"]', t("filterMen"));
+  setText('.filter[data-filter="women-fragrance"]', t("filterWomen"));
+  setText('.filter[data-filter="makeup"]', t("filterMakeup"));
+  setText('.filter[data-filter="offer"]', t("filterOffers"));
+  setText(".brand-select span", t("brandLabel"));
+  setText("#products h2", t("selectedProducts"));
+  setText("#products > p", t("productsIntro"));
+  setText("#brandSpotlight h2", t("brandHeading"));
+  setText("#brandSpotlight .section-heading > p", t("brandIntro"));
+  setText("#offers .primary-action", t("chooseBundle"));
+  setText("#reviews h2", t("reviewsHeading"));
+  setText("#reviews .section-heading > p", t("reviewsIntro"));
+  setText("#social h2", t("socialHeading"));
+  setText("#social .section-heading > p", t("socialIntro"));
+  setText("#contact h2", t("contactHeading"));
+  setText("#contact div > p:not(.eyebrow)", t("contactIntro"));
+  setText(".suggestions-phone", t("suggestions"));
+  setText(".contact-form button", t("sendOrder"));
+  setText(".checkout", t("checkout"));
+  setText("#checkoutStep h2", t("orderData"));
+  setText(".order-note", t("orderNote"));
+  setText(".payment-choice span", t("deliveryArea"));
+  setText(".checkout-submit", t("confirmOrder"));
+  setText("#receiptStep h2", t("receipt"));
+  setText(".rating-qr strong", t("qrReview"));
+  setText(".rating-qr span", t("qrReviewText"));
+  setText(".order-next strong", t("nextStep"));
+  setText(".order-next span", t("nextStepText"));
+  setText(".whatsapp-order", t("sendWhatsapp"));
+
+  renderBrandOptions();
+  renderBrandSpotlight();
+  renderProducts();
+  renderDeliveryControls();
+  renderOfferBanner();
+  renderCart();
+}
+
+function toggleLanguage() {
+  state.language = activeLanguage() === "ar" ? "en" : "ar";
+  localStorage.setItem("noreva-language", state.language);
+  applyLanguage();
 }
 
 filters.forEach((button) => {
@@ -792,6 +1051,7 @@ document.querySelector("#closeCart").addEventListener("click", closeCart);
 document.querySelector(".checkout").addEventListener("click", openOrderModal);
 closeOrderModalButton.addEventListener("click", closeOrderModal);
 closeProductModalButton.addEventListener("click", closeProductModal);
+languageToggle.addEventListener("click", toggleLanguage);
 deliveryArea.addEventListener("change", () => {
   updateDeliveryStatus();
   openOrderModal();
@@ -803,11 +1063,11 @@ checkoutForm.addEventListener("submit", (event) => {
     phone: document.querySelector("#customerPhone").value.trim(),
     city: document.querySelector("#customerCity").value.trim(),
     address: document.querySelector("#customerAddress").value.trim(),
-    payment: "الدفع عند الاستلام",
-    fulfillment: `توصيل إلى ${selectedDeliveryArea()?.label || "منطقة غير محددة"}`,
+    payment: t("cashOnDelivery"),
+    fulfillment: `${t("delivery")} - ${selectedDeliveryArea()?.label || ""}`,
   };
   if (!canDeliver()) {
-    alert("التوصيل غير متاح حاليًا لهذه المنطقة.");
+    alert(t("deliveryUnavailable"));
     return;
   }
   createReceipt(formData);
@@ -821,7 +1081,7 @@ overlay.addEventListener("click", () => {
 });
 document.querySelector(".contact-form").addEventListener("submit", (event) => {
   event.preventDefault();
-  alert("تم استلام بيانات الطلب. هنراجعها معاك قريبًا.");
+  alert(t("sentContact"));
 });
 
 if (window.AOS) {
@@ -833,12 +1093,7 @@ if (window.AOS) {
   });
 }
 
-renderBrandOptions();
-renderBrandSpotlight();
-renderProducts();
 renderReviews();
-renderDeliveryControls();
-renderOfferBanner();
 renderSocialQrCodes();
+applyLanguage();
 startStickerRotation();
-renderCart();

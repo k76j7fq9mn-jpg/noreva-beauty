@@ -49,6 +49,19 @@ a {
   text-decoration: none;
 }
 
+.is-ltr {
+  direction: ltr;
+}
+
+.is-ltr .product-card,
+.is-ltr .review-card,
+.is-ltr .order-card,
+.is-ltr .product-detail-card,
+.is-ltr .cart-panel,
+.is-ltr .contact {
+  text-align: left;
+}
+
 button,
 input,
 textarea,
@@ -141,6 +154,7 @@ select {
 }
 
 .cart-toggle,
+.language-toggle,
 .filter,
 .icon-button,
 .primary-action,
@@ -159,6 +173,17 @@ select {
   border-radius: 999px;
   color: var(--ink);
   background: rgba(255, 255, 255, 0.08);
+}
+
+.language-toggle {
+  min-height: 40px;
+  min-width: 48px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--soft-gold);
+  background: rgba(255, 255, 255, 0.08);
+  font-weight: 900;
 }
 
 .cart-toggle strong {
