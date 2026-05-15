@@ -881,14 +881,14 @@ h2 {
   font-size: 0.9rem;
 }
 
-.demo-payment {
-  display: none;
-  grid-template-columns: 1.4fr 0.8fr 0.8fr;
-  gap: 10px;
-}
-
-.demo-payment.show {
-  display: grid;
+.cash-note {
+  margin: 0;
+  padding: 12px;
+  border: 1px solid rgba(216, 182, 106, 0.2);
+  border-radius: 8px;
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.05);
+  font-weight: 800;
 }
 
 .checkout-submit {
@@ -957,6 +957,12 @@ h2 {
 
 .order-next strong {
   color: var(--ink);
+}
+
+.whatsapp-order {
+  width: 100%;
+  margin-top: 14px;
+  background: linear-gradient(135deg, #c7f4d7, #25d366);
 }
 
 .floating-sticker {
@@ -1185,8 +1191,7 @@ h2 {
 
   .reviews-grid,
   .social-grid,
-  .form-grid,
-  .demo-payment {
+  .form-grid {
     grid-template-columns: 1fr;
   }
 

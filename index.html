@@ -118,7 +118,7 @@
             <p class="eyebrow">Customer Reviews</p>
             <h2>آراء العملاء</h2>
           </div>
-          <p>تقييمات تجريبية تعرض شكل الثقة الاجتماعية داخل الموقع.</p>
+          <p>آراء العملاء عن المنتجات وتجربة الطلب.</p>
         </div>
         <div class="reviews-grid" id="reviewsGrid"></div>
       </section>
@@ -178,14 +178,14 @@
       </div>
     </aside>
 
-    <section class="order-modal" id="orderModal" aria-hidden="true" aria-label="تأكيد الطلب التجريبي">
+    <section class="order-modal" id="orderModal" aria-hidden="true" aria-label="تأكيد الطلب">
       <div class="order-card glass-panel">
         <button class="icon-button order-close" type="button" id="closeOrderModal" aria-label="إغلاق تأكيد الطلب">×</button>
         <div id="checkoutStep">
-          <p class="eyebrow">Demo Checkout</p>
+          <p class="eyebrow">Checkout</p>
           <h2>بيانات الطلب والدفع</h2>
           <p class="order-note">
-            دي تجربة محلية فقط. اكتب أي بيانات وهمية للتجربة، ومفيش دفع حقيقي هيتم.
+            الدفع عند الاستلام فقط. اكتب بيانات التوصيل وسيتم تجهيز رسالة واتساب بالطلب.
           </p>
           <form class="checkout-form" id="checkoutForm">
             <div class="form-grid">
@@ -194,35 +194,14 @@
               <input id="customerCity" type="text" placeholder="المدينة / المنطقة" required />
               <input id="customerAddress" type="text" placeholder="العنوان" required />
             </div>
-            <div class="form-grid">
-              <label class="payment-choice">
-                <span>طريقة الاستلام</span>
-                <select id="fulfillmentMethod">
-                  <option value="delivery">توصيل للعنوان</option>
-                  <option value="pickup">استلام من الفرع</option>
-                </select>
-              </label>
-              <label class="payment-choice">
-                <span>منطقة التوصيل</span>
-                <select id="deliveryArea"></select>
-              </label>
-            </div>
-            <p class="delivery-status" id="deliveryStatus"></p>
             <label class="payment-choice">
-              <span>طريقة الدفع</span>
-              <select id="paymentMethod">
-                <option value="cash">الدفع عند الاستلام</option>
-                <option value="wallet">محفظة إلكترونية</option>
-                <option value="card">بطاقة بنكية تجريبية</option>
-              </select>
+              <span>منطقة التوصيل</span>
+              <select id="deliveryArea"></select>
             </label>
-            <div class="demo-payment" id="demoPayment">
-              <input id="cardNumber" type="text" inputmode="numeric" placeholder="رقم بطاقة وهمي: 4242 4242 4242 4242" />
-              <input id="cardExpiry" type="text" placeholder="MM/YY" />
-              <input id="cardCvv" type="text" inputmode="numeric" placeholder="CVV" />
-            </div>
+            <p class="delivery-status" id="deliveryStatus"></p>
+            <p class="cash-note">طريقة الدفع: الدفع عند الاستلام</p>
             <div class="order-summary" id="checkoutSummary"></div>
-            <button class="primary-action checkout-submit" type="submit">تأكيد الطلب التجريبي</button>
+            <button class="primary-action checkout-submit" type="submit">تأكيد الطلب</button>
           </form>
         </div>
         <div id="receiptStep" hidden>
@@ -238,8 +217,9 @@
           </div>
           <div class="order-next">
             <strong>الخطوة التالية</strong>
-            <span>تأكيد البيانات، تجهيز الطلب، ثم التواصل مع العميل لتأكيد الدفع والتوصيل.</span>
+            <span>اضغط زر واتساب لإرسال الطلب كاملًا، وبعدها يتم تأكيد التوصيل والدفع عند الاستلام.</span>
           </div>
+          <a class="primary-action whatsapp-order" id="whatsappOrderLink" href="#" target="_blank" rel="noopener">إرسال الطلب على واتساب</a>
         </div>
       </div>
     </section>

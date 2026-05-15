@@ -6,13 +6,13 @@ const SITE_SETTINGS = {
       ["Welcome to NŌRÉVA", "اكتشف لمعة جديدة كل يوم."],
       ["Scent Check", "اختار عطرك قبل ما العرض يخلص."],
       ["Glow Moment", "منتجات مختارة بعناية للرجال والنساء."],
-      ["Limited Feel", "الطلب التجريبي جاهز للتجربة."],
+      ["Limited Feel", "اطلب الآن والدفع عند الاستلام."],
     ],
     en: [
       ["Welcome to NŌRÉVA", "Your New Addiction Starts Here."],
       ["Scent Check", "Find the fragrance that stays with you."],
       ["Glow Moment", "Beauty, fragrance, and makeup for everyone."],
-      ["Limited Feel", "Your demo checkout is ready."],
+      ["Limited Feel", "Order now and pay on delivery."],
     ],
   },
   delivery: {
@@ -35,6 +35,7 @@ const SITE_SETTINGS = {
     instagram: "https://www.instagram.com/norevabeauty",
     tiktok: "https://www.tiktok.com/@norevabeauty",
   },
+  whatsappNumber: "201018591535",
 };
 
 const featuredProducts = [
@@ -154,7 +155,9 @@ const featuredProducts = [
   },
 ];
 
-let products = [...featuredProducts, ...(window.MAZAYA_PRODUCTS || [])];
+let products = (window.MAZAYA_PRODUCTS || []).filter(
+  (product) => product.name && product.brand && product.price && product.image
+);
 
 const customerReviews = [
   {
@@ -201,11 +204,8 @@ const checkoutStep = document.querySelector("#checkoutStep");
 const receiptStep = document.querySelector("#receiptStep");
 const checkoutForm = document.querySelector("#checkoutForm");
 const checkoutSummary = document.querySelector("#checkoutSummary");
-const paymentMethod = document.querySelector("#paymentMethod");
-const demoPayment = document.querySelector("#demoPayment");
 const ratingQr = document.querySelector("#ratingQr");
 const reviewsGrid = document.querySelector("#reviewsGrid");
-const fulfillmentMethod = document.querySelector("#fulfillmentMethod");
 const deliveryArea = document.querySelector("#deliveryArea");
 const deliveryStatus = document.querySelector("#deliveryStatus");
 const offerLabel = document.querySelector("#offerLabel");
@@ -218,6 +218,7 @@ const instagramLink = document.querySelector("#instagramLink");
 const tiktokLink = document.querySelector("#tiktokLink");
 const instagramQr = document.querySelector("#instagramQr");
 const tiktokQr = document.querySelector("#tiktokQr");
+const whatsappOrderLink = document.querySelector("#whatsappOrderLink");
 
 function formatPrice(value) {
   return `${value.toLocaleString("ar-EG")} جنيه`;
@@ -265,11 +266,16 @@ function selectedDeliveryArea() {
 }
 
 function deliveryFee(subtotal = cartSubtotal()) {
-  if (fulfillmentMethod.value !== "delivery" || !isDeliveryOpen()) return 0;
+  if (!isDeliveryOpen()) return 0;
   const area = selectedDeliveryArea();
   if (!area || !area.enabled) return 0;
   if (subtotal >= SITE_SETTINGS.delivery.freeDeliveryAbove) return 0;
   return area.fee;
+}
+
+function canDeliver() {
+  const area = selectedDeliveryArea();
+  return SITE_SETTINGS.delivery.enabled && isDeliveryOpen() && area && area.enabled;
 }
 
 function orderTotals(entries = [...state.cart.values()]) {
@@ -398,30 +404,25 @@ function renderDeliveryControls() {
 function updateDeliveryStatus() {
   const open = isDeliveryOpen();
   const area = selectedDeliveryArea();
-  const deliverySelected = fulfillmentMethod.value === "delivery";
-  deliveryArea.disabled = !deliverySelected || !open;
+  deliveryArea.disabled = !open;
 
   if (!SITE_SETTINGS.delivery.enabled) {
-    deliveryStatus.textContent = "التوصيل مقفول حاليًا من إعدادات الموقع. المتاح الآن هو الاستلام من الفرع.";
-    fulfillmentMethod.value = "pickup";
+    deliveryStatus.textContent = "التوصيل غير متاح حاليًا. لا يمكن تأكيد الطلب الآن.";
     return;
   }
 
   if (!open) {
-    deliveryStatus.textContent = `التوصيل متاح من ${SITE_SETTINGS.delivery.workingHours.start}:00 إلى ${SITE_SETTINGS.delivery.workingHours.end}:00. ممكن تكمل الطلب كاستلام من الفرع.`;
-    if (deliverySelected) fulfillmentMethod.value = "pickup";
+    deliveryStatus.textContent = `التوصيل متاح من ${SITE_SETTINGS.delivery.workingHours.start}:00 إلى ${SITE_SETTINGS.delivery.workingHours.end}:00. لا يمكن تأكيد الطلب خارج مواعيد التوصيل.`;
     deliveryArea.disabled = true;
     return;
   }
 
-  if (!deliverySelected) {
-    deliveryStatus.textContent = "تم اختيار الاستلام من الفرع، لا توجد مصاريف توصيل.";
+  if (!area || !area.enabled) {
+    deliveryStatus.textContent = "منطقة التوصيل غير متاحة حاليًا.";
     return;
   }
 
-  deliveryStatus.textContent = area
-    ? `التوصيل متاح إلى ${area.label}. مصاريف التوصيل ${formatPrice(deliveryFee())}، ومجاني فوق ${formatPrice(SITE_SETTINGS.delivery.freeDeliveryAbove)}.`
-    : "اختار منطقة التوصيل.";
+  deliveryStatus.textContent = `التوصيل متاح إلى ${area.label}. مصاريف التوصيل ${formatPrice(deliveryFee())}، ومجاني فوق ${formatPrice(SITE_SETTINGS.delivery.freeDeliveryAbove)}. الدفع عند الاستلام.`;
 }
 
 function renderOfferBanner() {
@@ -508,7 +509,7 @@ function closeCart() {
 function openOrderModal() {
   const entries = [...state.cart.values()];
   if (!entries.length) {
-    alert("السلة فاضية. ضيف منتج الأول عشان تعمل طلب تجريبي.");
+    alert("السلة فاضية. ضيف منتج الأول عشان تعمل طلب.");
     return;
   }
 
@@ -578,7 +579,7 @@ function createReceipt(formData) {
       <strong>${formData.payment}</strong>
     </div>
     <div class="order-line">
-      <span>الاستلام</span>
+      <span>التوصيل</span>
       <strong>${formData.fulfillment}</strong>
     </div>
     ${entries
@@ -608,6 +609,7 @@ function createReceipt(formData) {
       <strong>${formatPrice(totals.total)}</strong>
     </div>
   `;
+  whatsappOrderLink.href = createWhatsAppUrl(orderNumber, formData, entries, totals);
 }
 
 function closeOrderModal() {
@@ -616,10 +618,25 @@ function closeOrderModal() {
   if (!cartPanel.classList.contains("open")) overlay.classList.remove("show");
 }
 
-function paymentLabel(value) {
-  if (value === "card") return "بطاقة بنكية تجريبية";
-  if (value === "wallet") return "محفظة إلكترونية";
-  return "الدفع عند الاستلام";
+function createWhatsAppUrl(orderNumber, formData, entries, totals) {
+  const lines = [
+    `طلب جديد من NŌRÉVA Beauty`,
+    `رقم الطلب: ${orderNumber}`,
+    `الاسم: ${formData.name}`,
+    `الموبايل: ${formData.phone}`,
+    `العنوان: ${formData.city} - ${formData.address}`,
+    `التوصيل: ${formData.fulfillment}`,
+    `الدفع: الدفع عند الاستلام`,
+    ``,
+    `المنتجات:`,
+    ...entries.map((item) => `- ${item.name} (${item.brand}) × ${item.qty} = ${formatPrice(item.qty * item.price)}`),
+    ``,
+    `المجموع قبل الخصم: ${formatPrice(totals.subtotal)}`,
+    `الخصم ${totals.discountPercent}%: - ${formatPrice(totals.discount)}`,
+    `التوصيل: ${formatPrice(totals.delivery)}`,
+    `الإجمالي النهائي: ${formatPrice(totals.total)}`,
+  ];
+  return `https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`;
 }
 
 function setBrandFilter(brand) {
@@ -661,13 +678,6 @@ document.querySelector(".cart-toggle").addEventListener("click", openCart);
 document.querySelector("#closeCart").addEventListener("click", closeCart);
 document.querySelector(".checkout").addEventListener("click", openOrderModal);
 closeOrderModalButton.addEventListener("click", closeOrderModal);
-paymentMethod.addEventListener("change", () => {
-  demoPayment.classList.toggle("show", paymentMethod.value === "card");
-});
-fulfillmentMethod.addEventListener("change", () => {
-  updateDeliveryStatus();
-  openOrderModal();
-});
 deliveryArea.addEventListener("change", () => {
   updateDeliveryStatus();
   openOrderModal();
@@ -679,12 +689,13 @@ checkoutForm.addEventListener("submit", (event) => {
     phone: document.querySelector("#customerPhone").value.trim(),
     city: document.querySelector("#customerCity").value.trim(),
     address: document.querySelector("#customerAddress").value.trim(),
-    payment: paymentLabel(paymentMethod.value),
-    fulfillment:
-      fulfillmentMethod.value === "delivery"
-        ? `توصيل إلى ${selectedDeliveryArea()?.label || "منطقة غير محددة"}`
-        : "استلام من الفرع",
+    payment: "الدفع عند الاستلام",
+    fulfillment: `توصيل إلى ${selectedDeliveryArea()?.label || "منطقة غير محددة"}`,
   };
+  if (!canDeliver()) {
+    alert("التوصيل غير متاح حاليًا لهذه المنطقة أو خارج مواعيد التوصيل.");
+    return;
+  }
   createReceipt(formData);
   checkoutStep.hidden = true;
   receiptStep.hidden = false;
