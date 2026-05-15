@@ -721,7 +721,13 @@ function renderCart() {
   const totals = orderTotals(entries);
 
   cartCount.textContent = totalQty;
-  cartTotal.textContent = formatPrice(totals.subtotal - totals.discount);
+  cartTotal.textContent = formatPrice(totals.total - totals.delivery);
+  const subtotalEl = document.getElementById('cartSubtotalDisplay');
+  const discountRowEl = document.getElementById('cartDiscountRow');
+  const discountEl = document.getElementById('cartDiscountDisplay');
+  if (subtotalEl) subtotalEl.textContent = formatPrice(totals.subtotal);
+  if (discountRowEl) discountRowEl.style.display = totals.discount > 0 ? 'flex' : 'none';
+  if (discountEl) discountEl.textContent = '- ' + formatPrice(totals.discount);
 
   cartItems.innerHTML = entries.length
     ? entries
