@@ -6,7 +6,7 @@ const SITE_SETTINGS = {
       ["Welcome to NŌRÉVA", "اكتشف لمعة جديدة كل يوم."],
       ["Scent Check", "اختار عطرك قبل ما العرض يخلص."],
       ["Glow Moment", "منتجات مختارة بعناية للرجال والنساء."],
-      ["Limited Feel", "الطلب الاطلب الآن!"],
+      ["Limited Feel", "الطلب التجريبي جاهز للتجربة."],
     ],
     en: [
       ["Welcome to NŌRÉVA", "Your New Addiction Starts Here."],
@@ -37,7 +37,7 @@ const SITE_SETTINGS = {
   },
 };
 
-const products = [
+const featuredProducts = [
   {
     id: 1,
     name: "NŌRÉVA Amber Bloom",
@@ -153,6 +153,8 @@ const products = [
     offer: true,
   },
 ];
+
+let products = [...featuredProducts, ...(window.MAZAYA_PRODUCTS || [])];
 
 const customerReviews = [
   {
@@ -289,11 +291,21 @@ function stars(value) {
   return "★★★★★".slice(0, rounded) + "☆☆☆☆☆".slice(0, 5 - rounded);
 }
 
+function escapeHTML(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
 function visibleProducts() {
   return products.filter((product) => {
     const matchesFilter =
       state.filter === "all" ||
       product.category === state.filter ||
+      (state.filter === "perfume" && ["perfume", "men-fragrance", "women-fragrance"].includes(product.category)) ||
       (state.filter === "offer" && product.offer);
     const matchesBrand = state.brand === "all" || product.brand === state.brand;
     const query = `${product.name} ${product.brand}`.toLowerCase();
@@ -302,37 +314,57 @@ function visibleProducts() {
   });
 }
 
+function renderBrandOptions() {
+  const brands = [...new Set(products.map((product) => product.brand).filter(Boolean))].sort((a, b) =>
+    a.localeCompare(b)
+  );
+  brandSelect.innerHTML =
+    `<option value="all">كل البراندات</option>` +
+    brands.map((brand) => `<option value="${brand}">${brand}</option>`).join("");
+}
+
 function renderProducts() {
-  const items = visibleProducts();
+  const allItems = visibleProducts();
+  const items = allItems.slice(0, 80);
   grid.innerHTML = items
     .map(
-      (product, index) => `
+      (product, index) => {
+        const productName = escapeHTML(product.name);
+        const productBrand = escapeHTML(product.brand);
+        const productDescription = escapeHTML(product.description);
+        const productDetails = escapeHTML(product.details);
+        const productImage = escapeHTML(product.image || "");
+        return `
         <article class="product-card glass-panel" data-aos="zoom-in" data-aos-delay="${Math.min(index * 70, 280)}">
-          <div class="product-visual" style="--tone-a:${product.tones[0]};--tone-b:${product.tones[1]};--tone-c:${product.tones[2]};--shape-w:${product.shape[0]};--shape-h:${product.shape[1]};--shape-r:${product.shape[2]}">
-            <span class="tag">${product.tag}</span>
+          <div class="product-visual ${product.image ? "has-image" : ""}" style="--tone-a:${(product.tones || ["#0f0d0b"])[0]};--tone-b:${(product.tones || ["#0f0d0b", "#b88945"])[1]};--tone-c:${(product.tones || ["#0f0d0b", "#b88945", "#4d2b20"])[2]};--shape-w:${(product.shape || ["74px"])[0]};--shape-h:${(product.shape || ["142px"])[1]};--shape-r:${(product.shape || ["18px"])[2]}">
+            ${product.image ? `<img class="product-image" src="${productImage}" alt="${productName}" loading="lazy" />` : ""}
+            <span class="tag">${escapeHTML(product.tag)}</span>
           </div>
           <div>
-            <span class="product-brand">${product.brand}</span>
-            <h3>${product.name}</h3>
+            <span class="product-brand">${productBrand}</span>
+            <h3>${productName}</h3>
             <div class="rating-row" aria-label="تقييم ${product.rating} من 5">
               <span>${stars(product.rating)}</span>
               <strong>${product.rating}</strong>
               <small>${product.reviewCount} رأي</small>
             </div>
-            <p>${product.description}</p>
-            <p class="product-details">${product.details}</p>
+            <p>${productDescription}</p>
+            <p class="product-details">${productDetails}</p>
           </div>
           <div class="product-bottom">
             <span class="price">${formatPrice(product.price)}</span>
             <button class="add-button" type="button" data-id="${product.id}">إضافة</button>
           </div>
         </article>
-      `
+      `;
+      }
     )
     .join("");
 
-  if (!items.length) {
+  if (!allItems.length) {
     grid.innerHTML = `<p class="empty glass-panel">لا توجد منتجات مطابقة للبحث الحالي.</p>`;
+  } else if (allItems.length > items.length) {
+    grid.innerHTML += `<p class="empty glass-panel">يتم عرض أول ${items.length} منتج من ${allItems.length}. استخدم البحث أو فلتر البراند للوصول لصنف معين بسرعة.</p>`;
   }
 
   if (window.AOS) AOS.refreshHard();
@@ -476,7 +508,7 @@ function closeCart() {
 function openOrderModal() {
   const entries = [...state.cart.values()];
   if (!entries.length) {
-    alert("السلة فاضية. ضيف منتج الأول عشان تكمل طلبك.");
+    alert("السلة فاضية. ضيف منتج الأول عشان تعمل طلب تجريبي.");
     return;
   }
 
@@ -585,7 +617,7 @@ function closeOrderModal() {
 }
 
 function paymentLabel(value) {
-  if (value === "card") return "بطاقة بنكية";
+  if (value === "card") return "بطاقة بنكية تجريبية";
   if (value === "wallet") return "محفظة إلكترونية";
   return "الدفع عند الاستلام";
 }
@@ -654,30 +686,6 @@ checkoutForm.addEventListener("submit", (event) => {
         : "استلام من الفرع",
   };
   createReceipt(formData);
-
-  // === WhatsApp Order Notification ===
-  (function() {
-    var _entries = Array.from(state.cart.values());
-    var _totals = orderTotals(_entries);
-    var _name = document.querySelector('#customerName').value.trim();
-    var _phone = document.querySelector('#customerPhone').value.trim();
-    var _city = document.querySelector('#customerCity') ? document.querySelector('#customerCity').value.trim() : '';
-    var _address = document.querySelector('#customerAddress').value.trim();
-    var _pm = document.querySelector('#paymentMethod');
-    var _payment = _pm ? _pm.options[_pm.selectedIndex].text : 'الدفع عند الاستلام';
-    var _da = document.querySelector('#deliveryArea');
-    var _daText = _da ? _da.options[_da.selectedIndex].text : '';
-    var _orderNum = 'NOR-' + Date.now().toString().slice(-6);
-    var _items = '';
-    _entries.forEach(function(item) {
-      _items += '\n  • ' + item.name + ' x' + item.qty + ' = ' + (item.price * item.qty) + ' جنيه';
-    });
-    var _msg = '*🛒 طلب جديد من NŌRÉVA Beauty*' + '\n────────────────────' + '\n📃 *رقم الطلب:* ' + _orderNum + '\n────────────────────' + '\n👤 *بيانات العميل:*' + '\nالاسم: ' + _name + '\n📞 الموبايل: ' + _phone + '\n📍 العنوان: ' + _city + ' - ' + _address + '\n────────────────────' + '\n📦 *المنتجات:*' + _items + '\n────────────────────' + '\n💰 *الحساب:*' + '\nالمجموع قبل الخصم: ' + _totals.subtotal + ' جنيه' + (_totals.discount > 0 ? '\nالخصم: -' + _totals.discount + ' جنيه' : '') + '\nالتوصيل: ' + _totals.delivery + ' جنيه' + '\n⭐ *الإجمالي النهائي: ' + _totals.total + ' جنيه*' + '\n────────────────────' + '\n💳 *طريقة الدفع:* ' + _payment + '\n🚚 *منطقة التوصيل:* ' + _daText + '\n────────────────────';
-    var _waUrl = 'https://wa.me/201018591535?text=' + encodeURIComponent(_msg);
-    setTimeout(function() { window.open(_waUrl, '_blank'); }, 700);
-  })();
-  // === End WhatsApp ===
-
   checkoutStep.hidden = true;
   receiptStep.hidden = false;
 });
@@ -699,6 +707,7 @@ if (window.AOS) {
   });
 }
 
+renderBrandOptions();
 renderProducts();
 renderReviews();
 renderDeliveryControls();

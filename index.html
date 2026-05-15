@@ -52,6 +52,8 @@
         <div class="filters" role="group" aria-label="تصنيف المنتجات">
           <button class="filter active" type="button" data-filter="all">الكل</button>
           <button class="filter" type="button" data-filter="perfume">بيرفيوم</button>
+          <button class="filter" type="button" data-filter="men-fragrance">رجالي</button>
+          <button class="filter" type="button" data-filter="women-fragrance">حريمي</button>
           <button class="filter" type="button" data-filter="makeup">ميك أب</button>
           <button class="filter" type="button" data-filter="offer">عروض</button>
         </div>
@@ -116,7 +118,7 @@
             <p class="eyebrow">Customer Reviews</p>
             <h2>آراء العملاء</h2>
           </div>
-          <p></p>
+          <p>تقييمات تجريبية تعرض شكل الثقة الاجتماعية داخل الموقع.</p>
         </div>
         <div class="reviews-grid" id="reviewsGrid"></div>
       </section>
@@ -176,14 +178,15 @@
       </div>
     </aside>
 
-    <section class="order-modal" id="orderModal" aria-hidden="true" aria-label="تأكيد الطلب">
+    <section class="order-modal" id="orderModal" aria-hidden="true" aria-label="تأكيد الطلب التجريبي">
       <div class="order-card glass-panel">
         <button class="icon-button order-close" type="button" id="closeOrderModal" aria-label="إغلاق تأكيد الطلب">×</button>
         <div id="checkoutStep">
           <p class="eyebrow">Demo Checkout</p>
           <h2>بيانات الطلب والدفع</h2>
           <p class="order-note">
-            </p>
+            دي تجربة محلية فقط. اكتب أي بيانات وهمية للتجربة، ومفيش دفع حقيقي هيتم.
+          </p>
           <form class="checkout-form" id="checkoutForm">
             <div class="form-grid">
               <input id="customerName" type="text" placeholder="اسم العميل" required />
@@ -210,7 +213,7 @@
               <select id="paymentMethod">
                 <option value="cash">الدفع عند الاستلام</option>
                 <option value="wallet">محفظة إلكترونية</option>
-                <option value="card">بطاقة بنكية</option>
+                <option value="card">بطاقة بنكية تجريبية</option>
               </select>
             </label>
             <div class="demo-payment" id="demoPayment">
@@ -219,7 +222,7 @@
               <input id="cardCvv" type="text" inputmode="numeric" placeholder="CVV" />
             </div>
             <div class="order-summary" id="checkoutSummary"></div>
-            <button class="primary-action checkout-submit" type="submit">تأكيد الطلب</button>
+            <button class="primary-action checkout-submit" type="submit">تأكيد الطلب التجريبي</button>
           </form>
         </div>
         <div id="receiptStep" hidden>
@@ -248,6 +251,7 @@
     <div class="overlay" id="overlay"></div>
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="products-data.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
