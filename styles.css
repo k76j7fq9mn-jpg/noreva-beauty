@@ -786,11 +786,32 @@ h2 {
 
 .cart-header,
 .cart-item,
-.cart-footer > div {
+.cart-footer > .cart-totals {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+}
+
+.cart-total-row {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
+}
+
+.cart-discount-row {
+  color: var(--soft-gold);
+}
+
+.cart-discount-row .discount-amount {
+  color: #e86c6c;
+}
+
+.cart-total-final {
+  border-top: 1px solid var(--line);
+  padding-top: 8px;
+  font-weight: 700;
 }
 
 .icon-button {
@@ -1286,6 +1307,13 @@ h2 {
     gap: 10px;
     min-height: 76px;
     padding-inline: 14px;
+  }
+
+  .language-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    order: 3;
   }
 
   .brand-mark {
