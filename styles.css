@@ -1266,6 +1266,94 @@ h2 {
   color: var(--muted);
 }
 
+/* ── Brand Story Section ──────────────────────── */
+.brand-story {
+  padding: 80px 24px;
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.brand-story-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.brand-story h2 {
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 800;
+  color: var(--ink);
+  letter-spacing: 0.02em;
+  margin-bottom: 8px;
+}
+
+.story-lead {
+  font-size: clamp(1.05rem, 2vw, 1.3rem);
+  font-weight: 700;
+  color: var(--soft-gold);
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.story-body {
+  font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+  color: rgba(255,255,255,0.82);
+  line-height: 1.85;
+}
+
+.story-features {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  margin: 8px 0;
+}
+
+.story-feature {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.story-feature-icon {
+  color: var(--soft-gold);
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+
+.story-closing {
+  font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+  color: rgba(255,255,255,0.82);
+  line-height: 1.85;
+  font-style: italic;
+}
+
+.story-signature {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 12px;
+}
+
+.brand-name-story {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: var(--soft-gold);
+  letter-spacing: 0.08em;
+}
+
+.story-tagline {
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.5);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
 @media (max-width: 960px) {
   .toolbar,
   .contact,
