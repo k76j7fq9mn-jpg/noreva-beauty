@@ -32,8 +32,7 @@ const SITE_SETTINGS = {
     dailyOffer: { enabled: false, day: 4, percent: 15 }, // 4 Thursday
   },
   social: {
-    instagram: "https://www.instagram.com/norevabeauty",
-    tiktok: "https://www.tiktok.com/@norevabeauty",
+    instagram: "https://www.instagram.com/norevabeauty/",
   },
   whatsappNumber: "201018591535",
 };
@@ -155,7 +154,7 @@ const featuredProducts = [
   },
 ];
 
-let products = (window.MAZAYA_PRODUCTS || []).filter(
+let products = (window.NOREVA_PRODUCTS || []).filter(
   (product) => product.name && product.brand && product.price && product.image
 );
 
@@ -219,9 +218,7 @@ const sticker = document.querySelector(".floating-sticker");
 const stickerTitle = sticker.querySelector("span");
 const stickerText = sticker.querySelector("strong");
 const instagramLink = document.querySelector("#instagramLink");
-const tiktokLink = document.querySelector("#tiktokLink");
 const instagramQr = document.querySelector("#instagramQr");
-const tiktokQr = document.querySelector("#tiktokQr");
 const whatsappOrderLink = document.querySelector("#whatsappOrderLink");
 const languageToggle = document.querySelector("#languageToggle");
 
@@ -294,7 +291,7 @@ const translations = {
     reviewsHeading: "آراء العملاء",
     reviewsIntro: "آراء العملاء عن المنتجات وتجربة الطلب.",
     socialHeading: "تابعنا على السوشيال",
-    socialIntro: "امسح الكود وافتح صفحة Instagram أو TikTok مباشرة.",
+    socialIntro: "امسح الكود وافتح صفحة Instagram مباشرة.",
     contactHeading: "جاهزين للطلبات والاستفسار",
     contactIntro: "اكتب لنا تفاصيل الطلب، أو ابعت أسماء المنتجات اللي عجبتك من السلة.",
     suggestions: "رقم المقترحات: 01018591535",
@@ -392,7 +389,7 @@ const translations = {
     reviewsHeading: "Customer reviews",
     reviewsIntro: "Customer feedback about products and the ordering experience.",
     socialHeading: "Follow us",
-    socialIntro: "Scan the code to open Instagram or TikTok directly.",
+    socialIntro: "Scan the code to open Instagram directly.",
     contactHeading: "Ready for orders and questions",
     contactIntro: "Send us order details or the product names you liked from the cart.",
     suggestions: "Suggestions phone: 01018591535",
@@ -734,11 +731,8 @@ function startStickerRotation() {
 
 function renderSocialQrCodes() {
   const instagram = SITE_SETTINGS.social.instagram;
-  const tiktok = SITE_SETTINGS.social.tiktok;
   instagramLink.href = instagram;
-  tiktokLink.href = tiktok;
   instagramQr.src = `https://api.qrserver.com/v1/create-qr-code/?size=190x190&margin=8&data=${encodeURIComponent(instagram)}`;
-  tiktokQr.src = `https://api.qrserver.com/v1/create-qr-code/?size=190x190&margin=8&data=${encodeURIComponent(tiktok)}`;
 }
 
 function renderCart() {

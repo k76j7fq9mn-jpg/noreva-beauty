@@ -212,6 +212,7 @@ select {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  filter: saturate(1.06) contrast(1.04);
 }
 
 .hero::after {
@@ -677,7 +678,8 @@ h2 {
 
 .social-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 420px);
+  justify-content: center;
   gap: 18px;
 }
 
@@ -1469,30 +1471,34 @@ h2 {
   }
 
   .site-header {
-    gap: 10px;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 42px 42px;
+    gap: 8px;
     min-height: 76px;
     padding-inline: 14px;
   }
 
-  .language-toggle {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    order: 3;
+  .brand {
+    min-width: 0;
+  }
+
+  .brand-copy {
+    min-width: 0;
   }
 
   .brand-mark {
-    width: 36px;
-    height: 36px;
+    width: 32px;
+    height: 32px;
+    font-size: 1.02rem;
   }
 
   .logo-name {
-    font-size: 1.05rem;
+    font-size: 0.92rem;
   }
 
   .logo-tagline {
-    max-width: 145px;
-    font-size: 0.66rem;
+    max-width: 128px;
+    font-size: 0.56rem;
   }
 
   .nav {
@@ -1502,9 +1508,9 @@ h2 {
     left: 12px;
     z-index: 35;
     justify-content: space-around;
-    gap: 6px;
+    gap: 4px;
     min-height: 58px;
-    padding: 8px;
+    padding: 7px;
     background: rgba(7, 7, 7, 0.82);
     border: 1px solid var(--line);
     border-radius: 14px;
@@ -1513,11 +1519,12 @@ h2 {
   }
 
   .nav a {
-    min-width: 64px;
-    padding: 10px 8px;
+    min-width: 43px;
+    padding: 9px 4px;
     border-radius: 10px;
     text-align: center;
-    font-size: 0.82rem;
+    font-size: 0.66rem;
+    line-height: 1.15;
   }
 
   .nav a:active {
@@ -1528,12 +1535,31 @@ h2 {
     display: none;
   }
 
+  .cart-toggle {
+    display: grid;
+    place-items: center;
+    width: 42px;
+    min-height: 40px;
+    padding: 7px;
+  }
+
+  .language-toggle {
+    display: grid;
+    place-items: center;
+    width: 42px;
+    min-width: 42px;
+    min-height: 40px;
+    padding: 8px 6px;
+    font-size: 0.78rem;
+  }
+
   .hero {
     min-height: 660px;
     align-items: center;
   }
 
-  .hero img {
+  .hero img,
+  .hero-video {
     height: 100%;
     object-fit: cover;
     object-position: 43% top;
