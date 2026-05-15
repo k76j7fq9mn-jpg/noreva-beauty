@@ -310,6 +310,18 @@ const translations = {
     nextStep: "الخطوة التالية",
     nextStepText: "اضغط زر واتساب لإرسال الطلب كاملًا، وبعدها يتم تأكيد التوصيل والدفع عند الاستلام.",
     sendWhatsapp: "إرسال الطلب على واتساب",
+    storyTitle: "نوريفا | القصة",
+    storyP1: "في NŌRÉVA، العطر مش مجرد ريحة حلوة...",
+    storyP2: "العطر هو هويتك، حضورك، والبصمة اللي بتفضل في الذاكرة حتى بعد ما تمشي.",
+    storyP3: "بعد خبرة تمتد لأكثر من 20 عامًا في عالم العطور والجمال، وُلدت NŌRÉVA برؤية مختلفة... تقديم تجربة عطرية فاخرة مستوحاة من عالم العطور النيش وأشهر الروائح العالمية، لكن بأسلوب أقرب إليك.",
+    storyP4: "نعتمد على زيوت عطرية عالية الجودة، بثبات يدوم وفوحان يلفت الانتباه، مع اهتمام بأدق التفاصيل لتقديم تجربة تليق بشخصيتك.",
+    storyP5: "في NŌRÉVA، إحنا مؤمنين إن لكل شخص بصمته الخاصة، لذلك تقدر تختار عطرك المفضل، وإحنا نعيد تقديمه بلمسة NŌRÉVA الخاصة...",
+    storyFeature1: "ثبات أفضل",
+    storyFeature2: "فوحان أقوى",
+    storyFeature3: "تفاصيل مصممة بطريقتك أنت",
+    storyP6: "الفخامة الحقيقية مش لازم تكون بأسعار مبالغ فيها، لذلك صممنا عطور تجمع بين الرقي، الأداء، والسعر التنافسي في زجاجة واحدة.",
+    storyP7: "كل عطر من NŌRÉVA هو حالة... ذكرى... وجزء منك.",
+    storyTagline: "Scent Your Signature",
   },
   en: {
     currency: "EGP",
@@ -395,6 +407,18 @@ const translations = {
     nextStep: "Next step",
     nextStepText: "Tap the WhatsApp button to send the full order, then delivery and cash payment will be confirmed.",
     sendWhatsapp: "Send order on WhatsApp",
+    storyTitle: "NŌRÉVA | Our Story",
+    storyP1: "At NŌRÉVA, fragrance is more than just a pleasant scent...",
+    storyP2: "It is your identity, your presence, and the impression you leave long after you've gone.",
+    storyP3: "With over 20 years of experience in the world of fragrance and beauty, NŌRÉVA was born with a different vision... delivering a luxury fragrance experience inspired by niche perfumery and iconic global scents, in a way that feels closer to you.",
+    storyP4: "We rely on high-quality fragrance oils with lasting sillage and a captivating trail, crafted with attention to every detail to offer an experience worthy of your personality.",
+    storyP5: "At NŌRÉVA, we believe every person has their own signature, so you can choose your favorite scent and we'll recreate it with NŌRÉVA's unique touch...",
+    storyFeature1: "Better longevity",
+    storyFeature2: "Stronger projection",
+    storyFeature3: "Details crafted your way",
+    storyP6: "True luxury doesn't have to come with an excessive price tag. That's why we crafted fragrances that bring together elegance, performance, and competitive pricing in one bottle.",
+    storyP7: "Every NŌRÉVA fragrance is a feeling... a memory... a part of you.",
+    storyTagline: "Scent Your Signature",
   },
 };
 
@@ -982,6 +1006,16 @@ function applyLanguage() {
   setText(".order-next span", t("nextStepText"));
   setText(".whatsapp-order", t("sendWhatsapp"));
 
+  setText("#story h2", t("storyTitle"));
+  setText("#story .story-lead", t("storyP1"));
+  const storyBodyEls = document.querySelectorAll("#story .story-body");
+  const storyKeys = ["storyP2", "storyP3", "storyP4", "storyP5", "storyP6"];
+  storyBodyEls.forEach((el, i) => { if (storyKeys[i]) el.textContent = t(storyKeys[i]); });
+  setText("#story .story-closing", t("storyP7"));
+  setText("#story .story-tagline", t("storyTagline"));
+  const featureEls = document.querySelectorAll("#story .story-feature span:last-child");
+  const featureKeys = ["storyFeature1", "storyFeature2", "storyFeature3"];
+  featureEls.forEach((el, i) => { if (featureKeys[i]) el.textContent = t(featureKeys[i]); });
   renderBrandOptions();
   renderBrandSpotlight();
   renderProducts();
