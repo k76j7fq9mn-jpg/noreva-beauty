@@ -146,19 +146,15 @@
             <p class="eyebrow">Social QR</p>
             <h2>تابعنا على السوشيال</h2>
           </div>
-          <p>امسح الكود وافتح صفحة Instagram أو TikTok مباشرة.</p>
+          <p>امسح الكود وافتح صفحة Instagram مباشرة.</p>
         </div>
         <div class="social-grid">
-          <a class="social-card glass-panel" id="instagramLink" href="#" target="_blank" rel="noopener" data-aos="zoom-in">
+          <a class="social-card glass-panel" id="instagramLink" href="https://www.instagram.com/norevabeauty/" target="_blank" rel="noopener" data-aos="zoom-in">
             <img id="instagramQr" alt="QR Code لصفحة Instagram" />
             <span>Instagram</span>
             <strong>@norevabeauty</strong>
           </a>
-          <a class="social-card glass-panel" id="tiktokLink" href="#" target="_blank" rel="noopener" data-aos="zoom-in" data-aos-delay="100">
-            <img id="tiktokQr" alt="QR Code لصفحة TikTok" />
-            <span>TikTok</span>
-            <strong>@norevabeauty</strong>
-          </a>
+          
         </div>
       </section>
 
@@ -187,9 +183,19 @@
       </div>
       <div class="cart-items" id="cartItems"></div>
       <div class="cart-footer">
-        <div>
-          <span>الإجمالي</span>
-          <strong id="cartTotal">0 جنيه</strong>
+        <div class="cart-totals">
+          <div class="cart-total-row">
+            <span>السعر الكامل</span>
+            <strong id="cartSubtotalDisplay">0 جنيه</strong>
+          </div>
+          <div class="cart-total-row cart-discount-row" id="cartDiscountRow" style="display:none">
+            <span>الخصم</span>
+            <strong id="cartDiscountDisplay" class="discount-amount">- 0 جنيه</strong>
+          </div>
+          <div class="cart-total-row cart-total-final">
+            <span>الإجمالي</span>
+            <strong id="cartTotal">0 جنيه</strong>
+          </div>
         </div>
         <button class="primary-action checkout" type="button">إتمام الطلب</button>
       </div>
