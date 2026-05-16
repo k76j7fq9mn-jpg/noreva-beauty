@@ -812,21 +812,79 @@ function handleCheckoutSubmit(event) {
 }
 
 function buildOrderWhatsappLink(order, entries, totals, area) {
-  const lines = [
-    t("newOrder"),
-    `${t("orderNumber")}: ${order.id}`,
-    `${t("customer")}: ${order.name}`,
-    `${t("phone")}: ${order.phone}`,
-    `${t("address")}: ${order.city} - ${order.address}`,
-    `${t("fulfillment")}: ${area.label}`,
-    `${t("products")}:`,
-    ...entries.map((item) => `- ${item.name} (${item.brand}) × ${item.qty} = ${formatPrice(item.price * item.qty)}`),
-    `${t("subtotal")}: ${formatPrice(totals.subtotal)}`,
-    `${t("secondDiscount", SITE_SETTINGS.discounts.secondItemPercent)}: - ${formatPrice(totals.discount)}`,
-    `${t("delivery")}: ${totals.deliveryFee ? formatPrice(totals.deliveryFee) : t("freeDelivery")}`,
-    `${t("total")}: ${formatPrice(totals.total)}`,
-    t("cashOnDelivery"),
-  ];
+  const productLines = entries.flatMap((item) => [
+    `${item.name} × ${item.qty}`,
+    formatPrice(item.price * item.qty),
+  ]);
+  const discountTitle = t("secondDiscount", SITE_SETTINGS.discounts.secondItemPercent);
+  const discountValue = totals.discount ? `- ${formatPrice(totals.discount)}` : formatPrice(0);
+  const deliveryFee = totals.deliveryFee ? formatPrice(totals.deliveryFee) : t("freeDelivery");
+  const address = `${order.city} - ${order.address}`;
+  const lines = state.language === "ar"
+    ? [
+        "✨ تم تأكيد طلبك من NŌRÉVA",
+        "",
+        `رقم الطلب #${order.id}`,
+        "",
+        `عزيزي/عزيزتي ${order.name},`,
+        "شكرا لاختيارك NŌRÉVA Beauty.",
+        "",
+        "يتم الآن تجهيز طلبك بعناية وسيصلك قريبا.",
+        "",
+        "━━━━━━━━━━━━━━",
+        "📦 ملخص الطلب",
+        "",
+        ...productLines,
+        "",
+        `${discountTitle}: ${discountValue}`,
+        "",
+        "رسوم التوصيل",
+        deliveryFee,
+        "",
+        "━━━━━━━━━━━━━━",
+        `💳 الإجمالي النهائي: ${formatPrice(totals.total)}`,
+        `طريقة الدفع: ${t("cashOnDelivery")}`,
+        "",
+        "📍 عنوان التوصيل",
+        address,
+        "",
+        "📞 رقم الهاتف",
+        order.phone,
+        "",
+        "شكرا لكونك جزءا من تجربة NŌRÉVA ✨",
+      ]
+    : [
+        "✨ Your NŌRÉVA order has been confirmed",
+        "",
+        `Order No. #${order.id}`,
+        "",
+        `Dear ${order.name},`,
+        "Thank you for choosing NŌRÉVA Beauty.",
+        "",
+        "Your order is now being prepared with care and will be delivered soon.",
+        "",
+        "━━━━━━━━━━━━━━",
+        "📦 Order Summary",
+        "",
+        ...productLines,
+        "",
+        `${discountTitle}: ${discountValue}`,
+        "",
+        "Delivery Fee",
+        deliveryFee,
+        "",
+        "━━━━━━━━━━━━━━",
+        `💳 Final Total: ${formatPrice(totals.total)}`,
+        `Payment Method: ${t("cashOnDelivery")}`,
+        "",
+        "📍 Delivery Address",
+        address,
+        "",
+        "📞 Phone Number",
+        order.phone,
+        "",
+        "Thank you for being part of the NŌRÉVA experience ✨",
+      ];
   return `https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`;
 }
 
