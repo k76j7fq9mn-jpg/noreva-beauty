@@ -1631,7 +1631,8 @@ h2 {
   .toolbar,
   .contact,
   .receipt-layout,
-  .product-detail-layout {
+  .product-detail-layout,
+  .product-detail-grid {
     grid-template-columns: 1fr;
   }
 
@@ -1851,15 +1852,37 @@ h2 {
   }
 
   .product-detail-card {
-    padding: 22px;
+    max-height: calc(100vh - 24px);
+    padding: 54px 16px 18px;
+  }
+
+  .product-detail-grid {
+    gap: 14px;
   }
 
   .product-detail-visual {
-    min-height: 250px;
+    min-height: 0;
+    height: clamp(138px, 30vh, 180px);
   }
 
   .product-detail-visual img {
-    max-height: 225px;
+    width: auto;
+    max-width: 74%;
+    max-height: 150px;
+  }
+
+  .product-detail-content {
+    gap: 10px;
+  }
+
+  .product-detail-content h2 {
+    margin-bottom: 2px;
+    font-size: 1.35rem;
+  }
+
+  .detail-list {
+    grid-template-columns: 1fr;
+    gap: 8px;
   }
 
   .floating-sticker {
