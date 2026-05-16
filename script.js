@@ -7,7 +7,7 @@ const SITE_SETTINGS = {
   },
   delivery: {
     enabled: true,
-    freeDeliveryAbove: 8000,
+    freeDeliveryAbove: 4000,
     areas: {
       cairo: { label: "القاهرة", fee: 100, enabled: true },
       giza: { label: "الجيزة", fee: 150, enabled: true },
@@ -812,46 +812,52 @@ function handleCheckoutSubmit(event) {
 }
 
 function buildOrderWhatsappLink(order, entries, totals, area) {
-  const productLines = entries.flatMap((item) => [
-    `${item.name} × ${item.qty}`,
-    formatPrice(item.price * item.qty),
-  ]);
+  const productLines = entries.flatMap((item) => {
+    const productTotal = formatPrice(item.price * item.qty);
+    return [
+      `${item.name} × ${item.qty}`,
+      state.language === "ar" ? `${productTotal}` : `${productTotal}`,
+    ];
+  });
   const discountTitle = t("secondDiscount", SITE_SETTINGS.discounts.secondItemPercent);
   const discountValue = totals.discount ? `- ${formatPrice(totals.discount)}` : formatPrice(0);
   const deliveryFee = totals.deliveryFee ? formatPrice(totals.deliveryFee) : t("freeDelivery");
   const address = `${order.city} - ${order.address}`;
   const lines = state.language === "ar"
     ? [
+        "✨ Your NŌRÉVA order has been confirmed",
         "✨ تم تأكيد طلبك من NŌRÉVA",
         "",
-        `رقم الطلب #${order.id}`,
+        `Order No. / رقم الطلب: #${order.id}`,
         "",
-        `عزيزي/عزيزتي ${order.name},`,
-        "شكرا لاختيارك NŌRÉVA Beauty.",
+        `Dear / عزيزنا ${order.name},`,
         "",
-        "يتم الآن تجهيز طلبك بعناية وسيصلك قريبا.",
+        "Thank you for choosing NŌRÉVA Beauty. Your order is now being prepared with care and will be delivered soon.",
+        "",
+        "شكراً لاختيارك NŌRÉVA Beauty. جاري تجهيز طلبك بكل حب وعناية، وسيتم توصيله إليك قريباً.",
         "",
         "━━━━━━━━━━━━━━",
-        "📦 ملخص الطلب",
+        "📦 Order Summary / تفاصيل الطلب",
         "",
         ...productLines,
         "",
         `${discountTitle}: ${discountValue}`,
         "",
-        "رسوم التوصيل",
+        "Delivery Fee / مصاريف التوصيل:",
         deliveryFee,
         "",
         "━━━━━━━━━━━━━━",
-        `💳 الإجمالي النهائي: ${formatPrice(totals.total)}`,
-        `طريقة الدفع: ${t("cashOnDelivery")}`,
+        `💳 Final Total / الإجمالي النهائي: ${formatPrice(totals.total)}`,
         "",
-        "📍 عنوان التوصيل",
-        address,
+        `Payment Method / طريقة الدفع: ${t("cashOnDelivery")}`,
         "",
-        "📞 رقم الهاتف",
-        order.phone,
+        `📍 Delivery Address / العنوان: ${address}`,
         "",
-        "شكرا لكونك جزءا من تجربة NŌRÉVA ✨",
+        `📞 Phone Number / رقم الهاتف: ${order.phone}`,
+        "",
+        "Thank you for being part of the NŌRÉVA experience ✨",
+        "",
+        "شكراً لأنك جزء من تجربة NŌRÉVA الفريدة ✨",
       ]
     : [
         "✨ Your NŌRÉVA order has been confirmed",
