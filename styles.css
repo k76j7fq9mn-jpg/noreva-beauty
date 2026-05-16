@@ -19,11 +19,15 @@
 
 html {
   scroll-behavior: smooth;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 body {
   margin: 0;
+  max-width: 100%;
   min-height: 100vh;
+  overflow-x: hidden;
   background:
     radial-gradient(circle at 18% 10%, rgba(216, 182, 106, 0.16), transparent 28%),
     radial-gradient(circle at 84% 18%, rgba(163, 31, 69, 0.12), transparent 30%),
@@ -546,6 +550,60 @@ h2 {
   gap: 18px;
 }
 
+.brand-card {
+  position: relative;
+  min-height: 270px;
+  display: grid;
+  align-content: end;
+  justify-items: start;
+  overflow: hidden;
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: var(--ink);
+  text-align: right;
+  isolation: isolate;
+}
+
+.brand-card img {
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center bottom;
+  filter: saturate(0.95) brightness(0.72);
+  transform: scale(1.02);
+}
+
+.brand-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.82));
+}
+
+.brand-card span {
+  color: var(--gold);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+}
+
+.brand-card strong {
+  color: var(--soft-gold);
+  font-family: var(--serif);
+  font-size: clamp(2rem, 4vw, 3.6rem);
+  font-weight: 300;
+  line-height: 1;
+}
+
+.brand-card small {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 .spotlight-card {
   position: relative;
   min-height: 260px;
@@ -739,6 +797,13 @@ h2 {
   color: var(--soft-gold);
   background: rgba(255, 255, 255, 0.06);
   font-weight: 800;
+}
+
+.owner-line {
+  margin-top: 10px;
+  color: var(--soft-gold);
+  font-weight: 800;
+  letter-spacing: 0;
 }
 
 .contact-form {
@@ -953,6 +1018,19 @@ h2 {
   align-items: center;
 }
 
+.product-detail-grid {
+  display: grid;
+  grid-template-columns: minmax(250px, 0.9fr) minmax(0, 1.1fr);
+  gap: 26px;
+  align-items: stretch;
+}
+
+.product-detail-content {
+  display: grid;
+  align-content: center;
+  gap: 14px;
+}
+
 .product-detail-visual {
   position: relative;
   display: grid;
@@ -994,6 +1072,11 @@ h2 {
   color: var(--muted);
 }
 
+.product-detail-description,
+.product-detail-note {
+  color: var(--muted);
+}
+
 .product-detail-text {
   padding-top: 14px;
   border-top: 1px solid rgba(216, 182, 106, 0.18);
@@ -1021,6 +1104,30 @@ h2 {
 }
 
 .product-detail-meta strong {
+  color: var(--soft-gold);
+}
+
+.detail-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.detail-list div {
+  display: grid;
+  gap: 4px;
+  padding: 12px;
+  border: 1px solid rgba(216, 182, 106, 0.22);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.detail-list span {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.detail-list strong {
   color: var(--soft-gold);
 }
 
@@ -1193,6 +1300,10 @@ h2 {
 }
 
 .floating-sticker:hover {
+  animation: wiggle 0.42s ease-in-out;
+}
+
+.floating-sticker.is-changing {
   animation: wiggle 0.42s ease-in-out;
 }
 

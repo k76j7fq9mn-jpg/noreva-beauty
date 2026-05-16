@@ -19,7 +19,8 @@
     gender: "Men",
     image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-products/noir-sultan.jpg",
     source: "NOREVA",
-    offer: true
+    offer: true,
+    featured: true
   },
   {
     id: 3002,
@@ -41,7 +42,8 @@
     gender: "Men",
     image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-products/oud-eclipse.jpg",
     source: "NOREVA",
-    offer: true
+    offer: true,
+    featured: true
   },
   {
     id: 3003,
@@ -63,7 +65,8 @@
     gender: "Men",
     image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-products/avent-noir.jpg",
     source: "NOREVA",
-    offer: true
+    offer: true,
+    featured: true
   },
   {
     id: 3004,
@@ -151,7 +154,8 @@
     gender: "Women",
     image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-products/rose-velours.jpg",
     source: "NOREVA",
-    offer: true
+    offer: true,
+    featured: true
   },
   {
     id: 3008,
@@ -173,7 +177,8 @@
     gender: "Women",
     image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-products/delina-etoile.jpg",
     source: "NOREVA",
-    offer: true
+    offer: true,
+    featured: true
   },
   {
     id: 3009,
@@ -195,7 +200,8 @@
     gender: "Women",
     image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-products/valaya-lumiere.jpg",
     source: "NOREVA",
-    offer: true
+    offer: true,
+    featured: true
   },
   {
     id: 3010,
