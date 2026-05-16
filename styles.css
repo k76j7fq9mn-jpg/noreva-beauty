@@ -409,7 +409,17 @@ h2 {
   padding: 14px;
   border-radius: 10px;
   cursor: pointer;
-  transition: border-color 0.2s ease, transform 0.2s ease;
+  opacity: 0;
+  transform: translateY(18px) scale(0.985);
+  transition: opacity 0.48s ease var(--reveal-delay, 0ms),
+              border-color 0.28s ease,
+              box-shadow 0.38s ease,
+              transform 0.48s cubic-bezier(0.22, 1, 0.36, 1) var(--reveal-delay, 0ms);
+}
+
+.product-card.is-revealed {
+  opacity: 1;
+  transform: translateY(0) scale(1);
 }
 
 .product-card:hover,
@@ -448,7 +458,8 @@ h2 {
   height: 82%;
   object-fit: contain;
   filter: drop-shadow(0 22px 28px rgba(0, 0, 0, 0.42));
-  transition: transform 0.22s ease;
+  transition: transform 0.42s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
 }
 
 .product-card:hover .product-image {
@@ -556,6 +567,7 @@ h2 {
   display: grid;
   align-content: end;
   justify-items: start;
+  gap: 6px;
   overflow: hidden;
   padding: 24px;
   border: 1px solid var(--line);
@@ -563,6 +575,10 @@ h2 {
   color: var(--ink);
   text-align: right;
   isolation: isolate;
+  cursor: pointer;
+  transition: transform 0.42s cubic-bezier(0.22, 1, 0.36, 1),
+              border-color 0.32s ease,
+              box-shadow 0.42s ease;
 }
 
 .brand-card img {
@@ -575,6 +591,8 @@ h2 {
   object-position: center bottom;
   filter: saturate(0.95) brightness(0.72);
   transform: scale(1.02);
+  transition: transform 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+              filter 0.45s ease;
 }
 
 .brand-card::after {
@@ -583,6 +601,44 @@ h2 {
   inset: 0;
   z-index: -1;
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.82));
+}
+
+.brand-card.noreva::after {
+  background:
+    radial-gradient(circle at 72% 22%, rgba(216, 182, 106, 0.24), transparent 28%),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.84));
+}
+
+.brand-card.ajmal::after {
+  background:
+    radial-gradient(circle at 24% 18%, rgba(216, 182, 106, 0.32), transparent 26%),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.12), rgba(22, 10, 4, 0.88));
+}
+
+.brand-card.catrice::after {
+  background:
+    radial-gradient(circle at 76% 20%, rgba(163, 31, 69, 0.34), transparent 26%),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.08), rgba(38, 9, 22, 0.86));
+}
+
+.brand-card.essence::after {
+  background:
+    radial-gradient(circle at 30% 18%, rgba(15, 118, 110, 0.32), transparent 24%),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.08), rgba(5, 26, 24, 0.86));
+}
+
+.brand-card:hover,
+.brand-card:focus-visible {
+  transform: translateY(-5px) scale(1.012);
+  border-color: var(--soft-gold);
+  box-shadow: 0 28px 58px rgba(0, 0, 0, 0.52), 0 0 0 1px rgba(242, 223, 173, 0.14);
+  outline: 0;
+}
+
+.brand-card:hover img,
+.brand-card:focus-visible img {
+  filter: saturate(1.06) brightness(0.82);
+  transform: scale(1.08);
 }
 
 .brand-card span {
@@ -602,6 +658,19 @@ h2 {
 .brand-card small {
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+.brand-card em {
+  display: inline-flex;
+  width: fit-content;
+  margin-top: 6px;
+  padding: 5px 10px;
+  border: 1px solid rgba(216, 182, 106, 0.28);
+  border-radius: 999px;
+  color: var(--soft-gold);
+  background: rgba(0, 0, 0, 0.38);
+  font-size: 0.76rem;
+  font-style: normal;
 }
 
 .spotlight-card {
@@ -978,6 +1047,11 @@ h2 {
 
 .product-modal.open {
   display: grid;
+}
+
+.order-modal.open .order-card,
+.product-modal.open .product-detail-card {
+  animation: modalReveal 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
 .order-card {
@@ -1469,7 +1543,7 @@ h2 {
 }
 
 
-/* ── Luxury Cinematic Animations ────────────────── */
+/* Luxury cinematic animations */
 @keyframes fadeInUp {
   from { opacity: 0; transform: translateY(32px); }
   to   { opacity: 1; transform: translateY(0); }
@@ -1483,11 +1557,17 @@ h2 {
   100% { background-position: 200% center; }
 }
 
+@keyframes modalReveal {
+  from { opacity: 0; transform: translateY(18px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
 .hero-content { animation: fadeInUp 1.1s cubic-bezier(0.22, 1, 0.36, 1) both; }
 .brand-story  { animation: fadeInScale 0.9s cubic-bezier(0.22, 1, 0.36, 1) both; }
 
 .product-card {
-  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1),
+  transition: opacity 0.48s ease var(--reveal-delay, 0ms),
+              transform 0.48s cubic-bezier(0.22, 1, 0.36, 1) var(--reveal-delay, 0ms),
               box-shadow 0.4s ease,
               border-color 0.3s ease;
 }
@@ -1534,12 +1614,15 @@ h2 {
   transform: scaleX(1);
 }
 
-.spotlight-card {
+.spotlight-card,
+.brand-card {
   transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
               border-color 0.3s ease,
-              background 0.3s ease;
+              background 0.3s ease,
+              box-shadow 0.35s ease;
 }
-.spotlight-card:hover {
+.spotlight-card:hover,
+.brand-card:hover {
   transform: translateY(-3px) scale(1.02);
   border-color: var(--soft-gold);
 }

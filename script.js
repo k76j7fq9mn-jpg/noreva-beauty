@@ -34,6 +34,49 @@ const SITE_SETTINGS = {
 };
 
 const PRODUCTS = Array.isArray(window.NOREVA_PRODUCTS) ? window.NOREVA_PRODUCTS : [];
+const BRAND_REGISTRY = [
+  {
+    id: "NŌRÉVA",
+    name: "NŌRÉVA",
+    image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-products/noir-sultan.jpg",
+    tone: "noreva",
+    description: {
+      ar: "عطور مختارة بتوقيع NŌRÉVA للرجال والنساء.",
+      en: "Signature NŌRÉVA fragrances for men and women.",
+    },
+  },
+  {
+    id: "Ajmal",
+    name: "Ajmal",
+    image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/download.jpg",
+    tone: "ajmal",
+    description: {
+      ar: "طابع شرقي دافئ وفخم لعشاق العود.",
+      en: "Warm oriental character for oud lovers.",
+    },
+  },
+  {
+    id: "Catrice",
+    name: "Catrice",
+    image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/hero-products.png",
+    tone: "catrice",
+    description: {
+      ar: "ميك أب عملي بلمسة ناعمة للروتين اليومي.",
+      en: "Everyday makeup with a soft polished feel.",
+    },
+  },
+  {
+    id: "Essence",
+    name: "Essence",
+    image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/hero-products.png",
+    tone: "essence",
+    description: {
+      ar: "ألوان خفيفة ومرحة للوك سريع وسهل.",
+      en: "Fresh playful colors for quick easy looks.",
+    },
+  },
+];
+
 const state = {
   filter: "all",
   brand: "all",
@@ -388,9 +431,8 @@ function updateStaticLinks() {
 }
 
 function populateBrandSelect() {
-  const brands = [...new Set(PRODUCTS.map((product) => product.brand).filter(Boolean))];
-  elements.brandSelect.innerHTML = `<option value="all">${t("allBrands")}</option>${brands
-    .map((brand) => `<option value="${escapeHTML(brand)}">${escapeHTML(brand)}</option>`)
+  elements.brandSelect.innerHTML = `<option value="all">${t("allBrands")}</option>${BRAND_REGISTRY
+    .map((brand) => `<option value="${escapeHTML(brand.id)}">${escapeHTML(brand.name)}</option>`)
     .join("")}`;
 }
 
@@ -513,6 +555,12 @@ function renderProducts() {
   }
 
   elements.productGrid.innerHTML = products.map(renderProductCard).join("");
+  requestAnimationFrame(() => {
+    document.querySelectorAll(".product-card").forEach((card, index) => {
+      card.style.setProperty("--reveal-delay", `${Math.min(index * 45, 280)}ms`);
+      card.classList.add("is-revealed");
+    });
+  });
   window.AOS?.refresh?.();
 }
 
@@ -579,16 +627,15 @@ function openProductModal(productId) {
 }
 
 function renderBrandSpotlight() {
-  const brands = [...new Set(PRODUCTS.map((product) => product.brand))];
-  elements.spotlightGrid.innerHTML = brands.map((brand) => {
-    const brandProducts = PRODUCTS.filter((product) => product.brand === brand);
-    const firstImage = brandProducts.find((product) => product.image)?.image || "assets/noreva-hero.jpg";
+  elements.spotlightGrid.innerHTML = BRAND_REGISTRY.map((brand, index) => {
+    const brandProducts = PRODUCTS.filter((product) => product.brand === brand.id);
     return `
-      <button class="brand-card glass-panel" type="button" data-brand-card="${escapeHTML(brand)}" data-aos="zoom-in">
-        <img src="${escapeHTML(firstImage)}" alt="${escapeHTML(brand)}" loading="lazy" />
+      <button class="brand-card glass-panel ${escapeHTML(brand.tone)}" type="button" data-brand-card="${escapeHTML(brand.id)}" data-aos="zoom-in" data-aos-delay="${Math.min(index * 70, 220)}">
+        <img src="${escapeHTML(brand.image)}" alt="${escapeHTML(brand.name)}" loading="lazy" />
         <span>Brand Spotlight</span>
-        <strong>${escapeHTML(brand)}</strong>
-        <small>${t("brandProducts", brandProducts.length)}</small>
+        <strong>${escapeHTML(brand.name)}</strong>
+        <small>${escapeHTML(brand.description[state.language])}</small>
+        <em>${t("brandProducts", brandProducts.length)}</em>
       </button>
     `;
   }).join("");
