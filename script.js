@@ -348,6 +348,9 @@ function cacheElements() {
     productModal: document.querySelector("#productModal"),
     productDetailBody: document.querySelector("#productDetailBody"),
     closeProductModal: document.querySelector("#closeProductModal"),
+    tasteModal: document.querySelector("#tasteModal"),
+    closeTasteModal: document.querySelector("#closeTasteModal"),
+    tasteForm: document.querySelector("#tasteForm"),
     spotlightGrid: document.querySelector(".spotlight-grid"),
     reviewsGrid: document.querySelector("#reviewsGrid"),
     offerTitle: document.querySelector("#offerTitle"),
@@ -373,6 +376,12 @@ function bindEvents() {
 
   elements.filters.forEach((button) => {
     button.addEventListener("click", () => {
+      if (button.dataset.filter === "custom") {
+        elements.filters.forEach((item) => item.classList.remove("active"));
+        button.classList.add("active");
+        openTasteModal();
+        return;
+      }
       elements.filters.forEach((item) => item.classList.remove("active"));
       button.classList.add("active");
       state.filter = button.dataset.filter;
@@ -385,6 +394,7 @@ function bindEvents() {
   elements.checkoutButton?.addEventListener("click", openCheckout);
   elements.closeOrderModal?.addEventListener("click", closeAllPanels);
   elements.closeProductModal?.addEventListener("click", closeAllPanels);
+  elements.closeTasteModal?.addEventListener("click", closeAllPanels);
   elements.overlay?.addEventListener("click", closeAllPanels);
   elements.deliveryArea?.addEventListener("change", renderCheckoutSummary);
   elements.checkoutForm?.addEventListener("submit", handleCheckoutSubmit);
@@ -392,6 +402,7 @@ function bindEvents() {
     event.preventDefault();
     alert(t("sentContact"));
   });
+  elements.tasteForm?.addEventListener("submit", handleTasteSubmit);
   elements.languageToggle?.addEventListener("click", () => {
     state.language = state.language === "ar" ? "en" : "ar";
     localStorage.setItem("noreva-language", state.language);
@@ -415,6 +426,14 @@ function bindEvents() {
     const qtyButton = event.target.closest("[data-cart-action]");
     if (qtyButton) {
       updateQuantity(Number(qtyButton.dataset.id), qtyButton.dataset.cartAction);
+      return;
+    }
+
+    const customFilter = event.target.closest(".filter[data-filter='custom']");
+    if (customFilter) {
+      elements.filters.forEach((item) => item.classList.remove("active"));
+      customFilter.classList.add("active");
+      openTasteModal();
       return;
     }
 
@@ -743,7 +762,34 @@ function closeAllPanels() {
   elements.orderModal.setAttribute("aria-hidden", "true");
   elements.productModal.classList.remove("open");
   elements.productModal.setAttribute("aria-hidden", "true");
+  elements.tasteModal?.classList.remove("open");
+  elements.tasteModal?.setAttribute("aria-hidden", "true");
   elements.overlay.classList.remove("open");
+}
+
+function openTasteModal() {
+  elements.tasteModal?.classList.add("open");
+  elements.tasteModal?.setAttribute("aria-hidden", "false");
+  elements.overlay.classList.add("open");
+}
+
+function handleTasteSubmit(event) {
+  event.preventDefault();
+  const form = new FormData(elements.tasteForm);
+  const lines = [
+    "NŌRÉVA Match Request",
+    "",
+    `Name: ${form.get("customerName") || "-"}`,
+    `Phone: ${form.get("customerPhone") || "-"}`,
+    "",
+    `Current scent style: ${form.get("currentScent")}`,
+    `Preferred style: ${form.get("style")}`,
+    `Occasion: ${form.get("occasion")}`,
+    `Performance: ${form.get("performance")}`,
+    "",
+    "Please recommend the best NŌRÉVA fragrance for me.",
+  ];
+  window.open(`https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
 }
 
 function openCheckout() {

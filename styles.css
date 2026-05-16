@@ -318,11 +318,19 @@ h2 {
 
 .toolbar {
   display: grid;
-  grid-template-columns: minmax(240px, 1fr) auto minmax(190px, 240px);
+  grid-template-columns: 1fr;
   gap: 16px;
   margin-top: 34px;
   padding: 16px;
   border-radius: 10px;
+}
+
+.toolbar .search,
+.toolbar .brand-select,
+.filter[data-filter="all"],
+.filter[data-filter="perfume"],
+.filter[data-filter="offer"] {
+  display: none;
 }
 
 .search,
@@ -364,8 +372,9 @@ h2 {
 }
 
 .filters {
-  gap: 8px;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
 }
 
 .filter {
@@ -378,7 +387,7 @@ h2 {
 }
 
 .filter-custom {
-  display: none;
+  display: block;
 }
 
 .filter.active {
@@ -1045,6 +1054,15 @@ h2 {
   padding: 20px;
 }
 
+.taste-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 45;
+  display: none;
+  place-items: center;
+  padding: 20px;
+}
+
 .order-modal.open {
   display: grid;
 }
@@ -1053,8 +1071,13 @@ h2 {
   display: grid;
 }
 
+.taste-modal.open {
+  display: grid;
+}
+
 .order-modal.open .order-card,
-.product-modal.open .product-detail-card {
+.product-modal.open .product-detail-card,
+.taste-modal.open .taste-card {
   animation: modalReveal 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
@@ -1094,6 +1117,56 @@ h2 {
   grid-template-columns: minmax(260px, 0.9fr) minmax(0, 1.1fr);
   gap: 26px;
   align-items: center;
+}
+
+.taste-card {
+  position: relative;
+  width: min(560px, 100%);
+  max-height: min(720px, calc(100vh - 40px));
+  overflow: auto;
+  padding: 28px;
+  border-radius: 12px;
+}
+
+.taste-close {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 2;
+}
+
+.taste-intro {
+  color: var(--muted);
+}
+
+.taste-form {
+  display: grid;
+  gap: 12px;
+}
+
+.taste-form label {
+  display: grid;
+  gap: 6px;
+}
+
+.taste-form label span {
+  color: var(--soft-gold);
+  font-weight: 700;
+}
+
+.taste-form input,
+.taste-form select {
+  min-height: 48px;
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.06);
+  padding: 10px 12px;
+}
+
+.taste-form option {
+  color: #111;
 }
 
 .product-detail-grid {

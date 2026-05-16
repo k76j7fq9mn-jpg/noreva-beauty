@@ -21,7 +21,7 @@
     <meta name="twitter:description" content="More than perfume. A signature." />
     <meta name="twitter:image" content="https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-hero.jpg" />
     <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
-    <link rel="stylesheet" href="styles.css?v=20260516-5" />
+    <link rel="stylesheet" href="styles.css?v=20260516-6" />
   </head>
   <body>
     <header class="site-header">
@@ -234,11 +234,62 @@
       </div>
     </section>
 
+    <section class="taste-modal" id="tasteModal" aria-hidden="true" aria-label="اختيار ذوق العميل">
+      <div class="taste-card glass-panel">
+        <button class="icon-button taste-close" type="button" id="closeTasteModal" aria-label="إغلاق اختيار الذوق">×</button>
+        <p class="eyebrow">NŌRÉVA Match</p>
+        <h2>اختار ذوقك</h2>
+        <p class="taste-intro">جاوب كام اختيار سريع، ونرشح لك عطر مناسب لشخصيتك.</p>
+        <form class="taste-form" id="tasteForm">
+          <label>
+            <span>بتستخدم إيه غالبًا؟</span>
+            <select name="currentScent" required>
+              <option value="عطور هادئة">عطور هادئة</option>
+              <option value="عطور قوية">عطور قوية</option>
+              <option value="عود وشرقي">عود وشرقي</option>
+              <option value="فريش وحمضي">فريش وحمضي</option>
+              <option value="فانيليا وسويت">فانيليا وسويت</option>
+            </select>
+          </label>
+          <label>
+            <span>تحب الستايل يكون؟</span>
+            <select name="style" required>
+              <option value="Sport">Sport</option>
+              <option value="Classic">Classic</option>
+              <option value="Soft">ناعم</option>
+              <option value="Luxury">فاخر</option>
+              <option value="Bold">قوي ولافت</option>
+            </select>
+          </label>
+          <label>
+            <span>المناسبة الأساسية؟</span>
+            <select name="occasion" required>
+              <option value="استخدام يومي">استخدام يومي</option>
+              <option value="خروجات ومناسبات">خروجات ومناسبات</option>
+              <option value="شغل">شغل</option>
+              <option value="هدايا">هدايا</option>
+            </select>
+          </label>
+          <label>
+            <span>عايز الثبات؟</span>
+            <select name="performance" required>
+              <option value="متوسط وناعم">متوسط وناعم</option>
+              <option value="قوي">قوي</option>
+              <option value="قوي جدًا">قوي جدًا</option>
+            </select>
+          </label>
+          <input name="customerName" type="text" placeholder="اسمك" />
+          <input name="customerPhone" type="tel" placeholder="رقم الموبايل" />
+          <button class="primary-action" type="submit">ابعت اختياراتي على واتساب</button>
+        </form>
+      </div>
+    </section>
+
     <a class="floating-sticker" href="#products" aria-label="Welcome to NŌRÉVA"><span>Welcome to NŌRÉVA</span><strong>Your New Addiction Starts Here.</strong></a>
     <div class="overlay" id="overlay"></div>
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="products-data.js?v=20260516-5"></script>
-    <script src="script.js?v=20260516-5"></script>
+    <script src="products-data.js?v=20260516-6"></script>
+    <script src="script.js?v=20260516-6"></script>
   </body>
 </html>
