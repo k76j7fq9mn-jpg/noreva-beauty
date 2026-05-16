@@ -1,4 +1,4 @@
-const SITE_SETTINGS = {
+﻿const SITE_SETTINGS = {
   language: "auto",
   whatsappNumber: "201018591535",
   stickerIntervalMs: 6500,
@@ -776,22 +776,55 @@ function openTasteModal() {
 function handleTasteSubmit(event) {
   event.preventDefault();
   const form = new FormData(elements.tasteForm);
-  const lines = [
-    "NŌRÉVA Match Request",
-    "",
-    `Name: ${form.get("customerName") || "-"}`,
-    `Phone: ${form.get("customerPhone") || "-"}`,
-    "",
-    `Current scent style: ${form.get("currentScent")}`,
-    `Preferred style: ${form.get("style")}`,
-    `Occasion: ${form.get("occasion")}`,
-    `Performance: ${form.get("performance")}`,
-    "",
-    "Please recommend the best NŌRÉVA fragrance for me.",
-  ];
+  const preferences = [
+    form.get("currentScent"),
+    form.get("style"),
+    form.get("occasion"),
+    form.get("performance"),
+  ].filter(Boolean);
+  const name = form.get("customerName") || "-";
+  const phone = form.get("customerPhone") || "-";
+  const lines = state.language === "ar"
+    ? [
+        "✨ جاري تجهيز اختيارك الخاص من NŌRÉVA",
+        "",
+        "كل عطر بيحكي قصة…",
+        "وعطرك لازم يسيب بصمته الخاصة.",
+        "",
+        `الاسم: ${name}`,
+        `رقم الهاتف: ${phone}`,
+        "",
+        "━━━━━━━━━━━━━━",
+        "اختياراتك المفضلة:",
+        "",
+        ...preferences.map((item) => `• ${item}`),
+        "",
+        "━━━━━━━━━━━━━━",
+        "فريق NŌRÉVA بيختار بعناية العطر الأنسب لشخصيتك وذوقك.",
+        "",
+        "هيوصلك ترشيحك الخاص قريب جدًا على واتساب 🖤",
+      ]
+    : [
+        "✨ Your NŌRÉVA Match Is Being Prepared",
+        "",
+        "Every fragrance tells a story…",
+        "and yours should leave a signature.",
+        "",
+        `Name: ${name}`,
+        `Phone: ${phone}`,
+        "",
+        "━━━━━━━━━━━━━━",
+        "Your selected preferences:",
+        "",
+        ...preferences.map((item) => `• ${item}`),
+        "",
+        "━━━━━━━━━━━━━━",
+        "Our team is carefully selecting the NŌRÉVA scent that matches your style best.",
+        "",
+        "You’ll receive your personalized recommendation shortly on WhatsApp 🖤",
+      ];
   window.open(`https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
 }
-
 function openCheckout() {
   if (!state.cart.size) {
     alert(t("checkoutEmpty"));
@@ -1021,3 +1054,4 @@ function escapeHTML(value) {
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
 }
+
