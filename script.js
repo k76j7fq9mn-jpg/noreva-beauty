@@ -151,6 +151,7 @@ const translations = {
     filterPerfume: "بيرفيوم",
     filterMen: "رجالي",
     filterWomen: "حريمي",
+    filterCustom: "من اختيارك",
     filterOffers: "عروض",
     brandLabel: "البراند",
     picksHeading: "مختارات NŌRÉVA",
@@ -245,6 +246,7 @@ const translations = {
     filterPerfume: "Perfume",
     filterMen: "Men",
     filterWomen: "Women",
+    filterCustom: "Your choice",
     filterOffers: "Offers",
     brandLabel: "Brand",
     picksHeading: "NŌRÉVA Picks",
@@ -297,6 +299,7 @@ document.addEventListener("DOMContentLoaded", () => {
   applyLanguage();
   renderAll();
   startStickerRotation();
+  primeHeroVideo();
 
   if (window.AOS) {
     window.AOS.init({ once: true, duration: 700, easing: "ease-out-cubic" });
@@ -469,6 +472,7 @@ function applyLanguage() {
   setText(".filter[data-filter='perfume']", t("filterPerfume"));
   setText(".filter[data-filter='men-fragrance']", t("filterMen"));
   setText(".filter[data-filter='women-fragrance']", t("filterWomen"));
+  setText(".filter[data-filter='custom']", t("filterCustom"));
   setText(".filter[data-filter='offer']", t("filterOffers"));
   setText(".brand-select span", t("brandLabel"));
   setText("#products h2", t("picksHeading"));
@@ -531,6 +535,8 @@ function filterProducts() {
     products = products.filter((product) => product.category?.includes("fragrance"));
   } else if (state.filter === "offer") {
     products = products.filter((product) => product.offer);
+  } else if (state.filter === "custom") {
+    products = PRODUCTS.filter((product) => product.brand === "NŌRÉVA");
   } else if (state.filter !== "all") {
     products = products.filter((product) => product.category === state.filter);
   }
@@ -925,6 +931,31 @@ function startStickerRotation() {
   };
   applyMessage();
   setInterval(applyMessage, SITE_SETTINGS.stickerIntervalMs);
+}
+
+function primeHeroVideo() {
+  const video = document.querySelector(".hero-video");
+  if (!video) return;
+
+  video.muted = true;
+  video.defaultMuted = true;
+  video.playsInline = true;
+  video.setAttribute("playsinline", "");
+  video.setAttribute("webkit-playsinline", "");
+
+  const tryPlay = () => {
+    const playAttempt = video.play();
+    if (playAttempt && typeof playAttempt.catch === "function") {
+      playAttempt.catch(() => {});
+    }
+  };
+
+  tryPlay();
+  window.addEventListener("load", tryPlay, { once: true });
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) tryPlay();
+  });
+  document.addEventListener("touchstart", tryPlay, { once: true, passive: true });
 }
 
 function formatPrice(value) {

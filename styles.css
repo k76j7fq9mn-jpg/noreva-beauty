@@ -377,6 +377,10 @@ h2 {
   background: rgba(255, 255, 255, 0.06);
 }
 
+.filter-custom {
+  display: none;
+}
+
 .filter.active {
   color: #111;
   background: var(--gold);
@@ -1666,14 +1670,27 @@ h2 {
   }
 
   .site-header {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 30;
     display: grid;
-    grid-template-columns: minmax(0, 1fr);
+    grid-template-columns: 52px minmax(0, 1fr) 52px;
+    grid-template-areas:
+      "lang brand cart"
+      "nav nav nav";
     gap: 10px;
     min-height: auto;
     padding: 10px 14px 12px;
+    background:
+      linear-gradient(180deg, rgba(5, 5, 5, 0.9), rgba(5, 5, 5, 0.54) 72%, rgba(5, 5, 5, 0));
+    border: 0;
+    box-shadow: none;
   }
 
   .brand {
+    grid-area: brand;
     justify-content: center;
     min-width: 0;
   }
@@ -1698,6 +1715,7 @@ h2 {
   }
 
   .nav {
+    grid-area: nav;
     position: static;
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -1726,24 +1744,29 @@ h2 {
   }
 
   .cart-toggle span {
-    display: inline;
+    display: none;
   }
 
   .cart-toggle {
+    grid-area: cart;
     justify-content: center;
-    width: 100%;
+    width: 52px;
     min-height: 40px;
     padding: 7px;
+    border-radius: 999px;
+    background: rgba(7, 7, 7, 0.66);
   }
 
   .language-toggle {
+    grid-area: lang;
     display: grid;
     place-items: center;
-    width: 100%;
-    min-width: 0;
+    width: 52px;
+    min-width: 52px;
     min-height: 40px;
     padding: 8px 6px;
     font-size: 0.78rem;
+    background: rgba(7, 7, 7, 0.66);
   }
 
   .cart-toggle,
@@ -1754,6 +1777,7 @@ h2 {
   .hero {
     min-height: 660px;
     align-items: center;
+    padding-top: 128px;
   }
 
   .hero img,
@@ -1791,11 +1815,23 @@ h2 {
 
   .filters {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .filter {
     width: 100%;
+  }
+
+  .search,
+  .brand-select,
+  .filter[data-filter="all"],
+  .filter[data-filter="perfume"],
+  .filter[data-filter="offer"] {
+    display: none;
+  }
+
+  .filter-custom {
+    display: block;
   }
 
   .products {
@@ -1897,11 +1933,11 @@ h2 {
   .language-toggle {
     position: static;
     z-index: auto;
-    background: rgba(7, 7, 7, 0.92);
+    background: rgba(7, 7, 7, 0.66);
     border: 1px solid var(--soft-gold);
     border-radius: 999px;
-    width: 42px;
-    min-width: 42px;
+    width: 52px;
+    min-width: 52px;
     min-height: 40px;
     backdrop-filter: blur(20px);
     box-shadow: var(--shadow);
