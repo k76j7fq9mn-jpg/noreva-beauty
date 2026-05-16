@@ -1678,7 +1678,7 @@ h2 {
     display: grid;
     grid-template-columns: 52px minmax(0, 1fr) 52px;
     grid-template-areas:
-      "lang brand cart"
+      "cart brand lang"
       "nav nav nav";
     gap: 10px;
     min-height: auto;
@@ -1769,15 +1769,10 @@ h2 {
     background: rgba(7, 7, 7, 0.66);
   }
 
-  .cart-toggle,
-  .language-toggle {
-    grid-row: auto;
-  }
-
   .hero {
-    min-height: 660px;
+    min-height: 720px;
     align-items: center;
-    padding-top: 128px;
+    padding-top: 144px;
   }
 
   .hero img,
@@ -1795,11 +1790,24 @@ h2 {
 
   .hero-content {
     align-self: end;
-    padding-bottom: 54px;
+    padding-top: 96px;
+    padding-bottom: 64px;
+    text-align: center;
   }
 
   h1 {
-    font-size: 3rem;
+    font-size: clamp(3.25rem, 15vw, 5.15rem);
+    max-width: 7ch;
+    margin-inline: auto;
+    line-height: 0.9;
+  }
+
+  .hero-subtitle {
+    margin-inline: auto;
+  }
+
+  .hero-actions {
+    justify-content: center;
   }
 
   .toolbar,
