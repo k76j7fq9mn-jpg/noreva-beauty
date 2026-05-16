@@ -943,6 +943,31 @@ h2 {
   width: 100%;
 }
 
+.cart-offer-note {
+  display: grid;
+  gap: 4px;
+  margin-top: 14px;
+  padding: 12px;
+  border: 1px solid rgba(216, 182, 106, 0.38);
+  border-radius: 8px;
+  color: var(--ink);
+  background:
+    linear-gradient(135deg, rgba(216, 182, 106, 0.18), rgba(255, 255, 255, 0.04));
+}
+
+.cart-offer-note strong {
+  color: var(--soft-gold);
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.cart-offer-note span {
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
 .cart-total-row {
   display: flex;
   align-items: center;
@@ -1155,7 +1180,8 @@ h2 {
 }
 
 .taste-form input,
-.taste-form select {
+.taste-form select,
+.checkout-form textarea {
   min-height: 48px;
   width: 100%;
   border: 1px solid var(--line);
@@ -1163,6 +1189,21 @@ h2 {
   color: var(--ink);
   background: rgba(255, 255, 255, 0.06);
   padding: 10px 12px;
+}
+
+.checkout-form textarea {
+  min-height: 88px;
+  resize: vertical;
+}
+
+.order-comment {
+  display: grid;
+  gap: 8px;
+}
+
+.order-comment span {
+  color: var(--soft-gold);
+  font-weight: 700;
 }
 
 .taste-form option {
@@ -1821,13 +1862,18 @@ h2 {
   }
 
   .cart-toggle {
-    grid-area: cart;
+    position: fixed;
+    left: 14px;
+    bottom: 14px;
+    z-index: 58;
     justify-content: center;
-    width: 52px;
-    min-height: 40px;
-    padding: 7px;
+    width: 56px;
+    min-height: 56px;
+    padding: 8px;
     border-radius: 999px;
-    background: rgba(7, 7, 7, 0.66);
+    background: rgba(7, 7, 7, 0.86);
+    box-shadow: 0 18px 42px rgba(0, 0, 0, 0.45);
+    backdrop-filter: blur(18px);
   }
 
   .language-toggle {

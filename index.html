@@ -13,8 +13,8 @@
     <meta property="og:title" content="NŌRÉVA Beauty | Luxury Niche Perfume" />
     <meta property="og:description" content="More than perfume. A signature. Luxury-inspired fragrances for men and women." />
     <meta property="og:url" content="https://k76j7fq9mn-jpg.github.io/noreva-beauty/" />
-    <meta property="og:image" content="https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-whatsapp-preview.jpeg?v=20260517-1" />
-    <meta property="og:image:secure_url" content="https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-whatsapp-preview.jpeg?v=20260517-1" />
+    <meta property="og:image" content="https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-whatsapp-preview.jpeg?v=20260517-2" />
+    <meta property="og:image:secure_url" content="https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-whatsapp-preview.jpeg?v=20260517-2" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="1404" />
     <meta property="og:image:height" content="1124" />
@@ -22,9 +22,9 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="NŌRÉVA Beauty | Luxury Niche Perfume" />
     <meta name="twitter:description" content="More than perfume. A signature." />
-    <meta name="twitter:image" content="https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-whatsapp-preview.jpeg?v=20260517-1" />
+    <meta name="twitter:image" content="https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-whatsapp-preview.jpeg?v=20260517-2" />
     <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
-    <link rel="stylesheet" href="styles.css?v=20260517-1" />
+    <link rel="stylesheet" href="styles.css?v=20260517-2" />
   </head>
   <body>
     <header class="site-header">
@@ -185,6 +185,10 @@
         <h2>سلة التسوق</h2>
         <button class="icon-button" type="button" id="closeCart" aria-label="إغلاق السلة">×</button>
       </div>
+      <div class="cart-offer-note" id="cartOfferNote">
+        <strong>عرض نوفيرا</strong>
+        <span>20% خصم على القطعة الثانية يتحسب تلقائيا في السلة.</span>
+      </div>
       <div class="cart-items" id="cartItems"></div>
       <div class="cart-footer">
         <div class="cart-totals">
@@ -220,6 +224,10 @@
             <label class="payment-choice"><span>منطقة التوصيل</span><select id="deliveryArea"></select></label>
             <p class="delivery-status" id="deliveryStatus"></p>
             <p class="cash-note">طريقة الدفع: الدفع عند الاستلام</p>
+            <label class="order-comment">
+              <span>ملاحظات على الطلب</span>
+              <textarea id="customerNotes" name="customerNotes" rows="3" placeholder="مثلا: ميعاد مناسب للتوصيل، تفاصيل العنوان، أو أي ملاحظة للطلب"></textarea>
+            </label>
             <div class="order-summary" id="checkoutSummary"></div>
             <button class="primary-action checkout-submit" type="submit">تأكيد الطلب</button>
           </form>
@@ -253,6 +261,7 @@
               <option value="فريش وحمضي">فريش وحمضي</option>
               <option value="فانيليا وسويت">فانيليا وسويت</option>
             </select>
+            <input name="currentScentOther" type="text" placeholder="أخرى: اكتب نوع أو اسم عطر بتحبه" />
           </label>
           <label>
             <span>تحب الستايل يكون؟</span>
@@ -263,6 +272,7 @@
               <option value="Luxury">فاخر</option>
               <option value="Bold">قوي ولافت</option>
             </select>
+            <input name="styleOther" type="text" placeholder="أخرى: اكتب الستايل بطريقتك" />
           </label>
           <label>
             <span>المناسبة الأساسية؟</span>
@@ -272,6 +282,7 @@
               <option value="شغل">شغل</option>
               <option value="هدايا">هدايا</option>
             </select>
+            <input name="occasionOther" type="text" placeholder="أخرى: مناسبة معينة أو استخدام خاص" />
           </label>
           <label>
             <span>عايز الثبات؟</span>
@@ -280,6 +291,16 @@
               <option value="قوي">قوي</option>
               <option value="قوي جدًا">قوي جدًا</option>
             </select>
+            <input name="performanceOther" type="text" placeholder="أخرى: اكتب درجة الثبات أو الفوحان اللي تحبها" />
+          </label>
+          <label>
+            <span>بتدخن؟</span>
+            <select name="smoking" required>
+              <option value="لا">لا</option>
+              <option value="نعم">نعم</option>
+              <option value="أحيانا">أحيانا</option>
+            </select>
+            <input name="smokingOther" type="text" placeholder="أخرى: اكتب أي تفصيلة مهمة عن الاستخدام" />
           </label>
           <input name="customerName" type="text" placeholder="اسمك" />
           <input name="customerPhone" type="tel" placeholder="رقم الموبايل" />
@@ -292,7 +313,7 @@
     <div class="overlay" id="overlay"></div>
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="products-data.js?v=20260517-1"></script>
-    <script src="script.js?v=20260517-1"></script>
+    <script src="products-data.js?v=20260517-2"></script>
+    <script src="script.js?v=20260517-2"></script>
   </body>
 </html>

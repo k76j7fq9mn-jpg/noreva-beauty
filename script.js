@@ -113,6 +113,8 @@ const translations = {
     detailsFallback: "تفاصيل المنتج متاحة عند الطلب.",
     detailsMore: "اكتب لنا على واتساب لو محتاج تفاصيل أكثر عن المنتج.",
     cartEmpty: "السلة فاضية حاليا.",
+    cartOfferLabel: "عرض NŌRÉVA",
+    cartOfferNote: "20% خصم على القطعة الثانية يتحسب تلقائيا في السلة.",
     subtotal: "المجموع قبل الخصم",
     secondDiscount: (percent) => `خصم القطعة الثانية ${percent}%`,
     delivery: "التوصيل",
@@ -168,6 +170,9 @@ const translations = {
     checkout: "إتمام الطلب",
     orderData: "بيانات الطلب والدفع",
     orderNote: "الدفع عند الاستلام فقط. اكتب بيانات التوصيل وسيتم تجهيز رسالة واتساب بالطلب.",
+    orderNotes: "ملاحظات الطلب",
+    orderNotesPlaceholder: "مثلا: ميعاد مناسب للتوصيل، تفاصيل العنوان، أو أي ملاحظة للطلب",
+    noNotes: "لا توجد ملاحظات",
     deliveryArea: "منطقة التوصيل",
     confirmOrder: "تأكيد الطلب",
     receipt: "فاتورة الطلب",
@@ -208,6 +213,8 @@ const translations = {
     detailsFallback: "Product details are available on request.",
     detailsMore: "Message us on WhatsApp if you need more details about this product.",
     cartEmpty: "Your cart is empty.",
+    cartOfferLabel: "NŌRÉVA offer",
+    cartOfferNote: "20% off the second item is applied automatically in your cart.",
     subtotal: "Subtotal",
     secondDiscount: (percent) => `${percent}% second item discount`,
     delivery: "Delivery",
@@ -263,6 +270,9 @@ const translations = {
     checkout: "Checkout",
     orderData: "Order and payment details",
     orderNote: "Cash on delivery only. Enter delivery details and a WhatsApp order message will be prepared.",
+    orderNotes: "Order notes",
+    orderNotesPlaceholder: "Example: preferred delivery time, address details, or any order note",
+    noNotes: "No notes",
     deliveryArea: "Delivery area",
     confirmOrder: "Confirm order",
     receipt: "Order receipt",
@@ -330,6 +340,7 @@ function cacheElements() {
     cartSubtotalDisplay: document.querySelector("#cartSubtotalDisplay"),
     cartDiscountRow: document.querySelector("#cartDiscountRow"),
     cartDiscountDisplay: document.querySelector("#cartDiscountDisplay"),
+    cartOfferNote: document.querySelector("#cartOfferNote"),
     cartToggle: document.querySelector(".cart-toggle"),
     closeCart: document.querySelector("#closeCart"),
     checkoutButton: document.querySelector(".checkout"),
@@ -342,6 +353,7 @@ function cacheElements() {
     orderSummary: document.querySelector("#orderSummary"),
     deliveryArea: document.querySelector("#deliveryArea"),
     deliveryStatus: document.querySelector("#deliveryStatus"),
+    customerNotes: document.querySelector("#customerNotes"),
     ratingQr: document.querySelector("#ratingQr"),
     whatsappOrderLink: document.querySelector("#whatsappOrderLink"),
     closeOrderModal: document.querySelector("#closeOrderModal"),
@@ -419,7 +431,10 @@ function bindEvents() {
 
     const addButton = event.target.closest("[data-add-to-cart]");
     if (addButton) {
-      addToCart(Number(addButton.dataset.addToCart));
+      addToCart(Number(addButton.dataset.addToCart), {
+        closeProduct: Boolean(addButton.closest("#productModal")),
+        showCart: true,
+      });
       return;
     }
 
@@ -483,6 +498,8 @@ function applyLanguage() {
   setText(".nav a[href='#story']", t("navStory"));
   setText(".nav a[href='#contact']", t("navContact"));
   setText(".cart-toggle span", t("cart"));
+  setText("#cartOfferNote strong", t("cartOfferLabel"));
+  setText("#cartOfferNote span", t("cartOfferNote"));
   setText(".hero .primary-action", t("shopNow"));
   setText(".hero .secondary-action", t("browseBrands"));
   setText(".search span", t("searchLabel"));
@@ -508,6 +525,8 @@ function applyLanguage() {
   setText("#checkoutStep h2", t("orderData"));
   setText(".order-note", t("orderNote"));
   setText(".payment-choice span", t("deliveryArea"));
+  setText(".order-comment span", t("orderNotes"));
+  if (elements.customerNotes) elements.customerNotes.placeholder = t("orderNotesPlaceholder");
   setText(".checkout-submit", t("confirmOrder"));
   setText("#receiptStep h2", t("receipt"));
   setText(".rating-qr strong", t("qrReview"));
@@ -681,14 +700,18 @@ function renderReviews() {
   `).join("");
 }
 
-function addToCart(productId) {
+function addToCart(productId, options = {}) {
   const product = PRODUCTS.find((item) => item.id === productId);
   if (!product) return;
   const current = state.cart.get(productId) || { ...product, qty: 0 };
   current.qty += 1;
   state.cart.set(productId, current);
   renderCart();
-  openCart();
+  if (options.closeProduct) {
+    elements.productModal.classList.remove("open");
+    elements.productModal.setAttribute("aria-hidden", "true");
+  }
+  if (options.showCart !== false) openCart();
 }
 
 function updateQuantity(productId, action) {
@@ -777,10 +800,11 @@ function handleTasteSubmit(event) {
   event.preventDefault();
   const form = new FormData(elements.tasteForm);
   const preferences = [
-    form.get("currentScent"),
-    form.get("style"),
-    form.get("occasion"),
-    form.get("performance"),
+    readTasteChoice(form, "currentScent", "currentScentOther", state.language === "ar" ? "العطور المستخدمة" : "Current scent"),
+    readTasteChoice(form, "style", "styleOther", state.language === "ar" ? "الستايل" : "Style"),
+    readTasteChoice(form, "occasion", "occasionOther", state.language === "ar" ? "المناسبة" : "Occasion"),
+    readTasteChoice(form, "performance", "performanceOther", state.language === "ar" ? "الثبات والفوحان" : "Performance"),
+    readTasteChoice(form, "smoking", "smokingOther", state.language === "ar" ? "التدخين" : "Smoking"),
   ].filter(Boolean);
   const name = form.get("customerName") || "-";
   const phone = form.get("customerPhone") || "-";
@@ -825,6 +849,15 @@ function handleTasteSubmit(event) {
       ];
   window.open(`https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
 }
+
+function readTasteChoice(form, fieldName, otherName, label) {
+  const selected = String(form.get(fieldName) || "").trim();
+  const other = String(form.get(otherName) || "").trim();
+  if (!selected && !other) return "";
+  if (other) return `${label}: ${selected || "-"} / ${state.language === "ar" ? "أخرى" : "Other"}: ${other}`;
+  return `${label}: ${selected}`;
+}
+
 function openCheckout() {
   if (!state.cart.size) {
     alert(t("checkoutEmpty"));
@@ -872,6 +905,7 @@ function handleCheckoutSubmit(event) {
     phone: form.get("customerPhone") || document.querySelector("#customerPhone").value,
     city: form.get("customerCity") || document.querySelector("#customerCity").value,
     address: form.get("customerAddress") || document.querySelector("#customerAddress").value,
+    notes: form.get("customerNotes") || document.querySelector("#customerNotes")?.value || "",
   };
   const totals = calculateTotals();
   const entries = getCartEntries();
@@ -882,6 +916,7 @@ function handleCheckoutSubmit(event) {
     <div class="summary-row"><span>${t("customer")}</span><strong>${escapeHTML(order.name)}</strong></div>
     <div class="summary-row"><span>${t("phone")}</span><strong>${escapeHTML(order.phone)}</strong></div>
     <div class="summary-row"><span>${t("address")}</span><strong>${escapeHTML(order.city)} - ${escapeHTML(order.address)}</strong></div>
+    <div class="summary-row"><span>${t("orderNotes")}</span><strong>${escapeHTML(order.notes || t("noNotes"))}</strong></div>
     <div class="summary-row"><span>${t("fulfillment")}</span><strong>${escapeHTML(area.label)}</strong></div>
     ${entries.map((item) => `<div class="summary-row"><span>${escapeHTML(item.name)} × ${item.qty}</span><strong>${formatPrice(item.price * item.qty)}</strong></div>`).join("")}
     <div class="summary-row"><span>${t("subtotal")}</span><strong>${formatPrice(totals.subtotal)}</strong></div>
@@ -938,6 +973,8 @@ function buildOrderWhatsappLink(order, entries, totals, area) {
         "",
         `📍 Delivery Address / العنوان: ${address}`,
         "",
+        `📝 Notes / ملاحظات: ${order.notes || t("noNotes")}`,
+        "",
         `📞 Phone Number / رقم الهاتف: ${order.phone}`,
         "",
         "Thank you for being part of the NŌRÉVA experience ✨",
@@ -970,6 +1007,9 @@ function buildOrderWhatsappLink(order, entries, totals, area) {
         "",
         "📍 Delivery Address",
         address,
+        "",
+        "📝 Notes",
+        order.notes || t("noNotes"),
         "",
         "📞 Phone Number",
         order.phone,
