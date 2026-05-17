@@ -138,6 +138,8 @@ const translations = {
     brand: "الماركة",
     wantProduct: "أريد معرفة التفاصيل وإتمام الطلب.",
     sentContact: "تم استلام بيانات الطلب. هنراجعها معاك قريبا.",
+    contactWhatsappTitle: "رسالة جديدة من موقع NŌRÉVA Beauty",
+    contactMessageLabel: "الرسالة",
     navProducts: "المنتجات",
     navBrands: "البراند",
     navReviews: "الآراء",
@@ -238,6 +240,8 @@ const translations = {
     brand: "Brand",
     wantProduct: "I want details and to complete the order.",
     sentContact: "Order details received. We will get back to you shortly.",
+    contactWhatsappTitle: "New message from NŌRÉVA Beauty website",
+    contactMessageLabel: "Message",
     navProducts: "Products",
     navBrands: "Brand",
     navReviews: "Reviews",
@@ -410,10 +414,7 @@ function bindEvents() {
   elements.overlay?.addEventListener("click", closeAllPanels);
   elements.deliveryArea?.addEventListener("change", renderCheckoutSummary);
   elements.checkoutForm?.addEventListener("submit", handleCheckoutSubmit);
-  elements.contactForm?.addEventListener("submit", (event) => {
-    event.preventDefault();
-    alert(t("sentContact"));
-  });
+  elements.contactForm?.addEventListener("submit", handleContactSubmit);
   elements.tasteForm?.addEventListener("submit", handleTasteSubmit);
   elements.languageToggle?.addEventListener("click", () => {
     state.language = state.language === "ar" ? "en" : "ar";
@@ -520,7 +521,7 @@ function applyLanguage() {
   setText("#social h2", t("socialHeading"));
   setText("#social .section-heading p:last-child", t("socialIntro"));
   setText("#contact h2", t("contactHeading"));
-  setText("#contact > div > p:not(.eyebrow):not(.owner-line)", t("contactIntro"));
+  setText("#contact > div > p:not(.eyebrow):not(.signature-line)", t("contactIntro"));
   setText(".contact-form button", t("sendOrder"));
   setText("#checkoutStep h2", t("orderData"));
   setText(".order-note", t("orderNote"));
@@ -1028,6 +1029,43 @@ function buildProductWhatsappLink(product) {
     t("wantProduct"),
   ].join("\n");
   return `https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(message)}`;
+}
+
+function handleContactSubmit(event) {
+  event.preventDefault();
+  const form = new FormData(elements.contactForm);
+  const name = String(form.get("contactName") || "").trim();
+  const phone = String(form.get("contactPhone") || "").trim() || "-";
+  const message = String(form.get("contactMessage") || "").trim();
+  if (!name || !message) return;
+
+  const lines = state.language === "ar"
+    ? [
+        `✨ ${t("contactWhatsappTitle")}`,
+        "",
+        `الاسم: ${name}`,
+        `رقم الهاتف: ${phone}`,
+        "",
+        `${t("contactMessageLabel")}:`,
+        message,
+        "",
+        "━━━━━━━━━━━━━━",
+        "تم إرسال الرسالة من قسم الاقتراحات والشكاوى في موقع NŌRÉVA.",
+      ]
+    : [
+        `✨ ${t("contactWhatsappTitle")}`,
+        "",
+        `Name: ${name}`,
+        `Phone: ${phone}`,
+        "",
+        `${t("contactMessageLabel")}:`,
+        message,
+        "",
+        "━━━━━━━━━━━━━━",
+        "Sent from the suggestions and complaints section on the NŌRÉVA website.",
+      ];
+
+  window.open(`https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
 }
 
 function updateOfferBand() {
