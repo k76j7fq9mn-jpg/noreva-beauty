@@ -5,6 +5,10 @@
   social: {
     instagram: "https://www.instagram.com/norevabeauty/",
   },
+  crm: {
+    storageKey: "noreva-crm-records",
+    endpoint: "",
+  },
   delivery: {
     enabled: true,
     freeDeliveryAbove: 4000,
@@ -175,6 +179,10 @@ const translations = {
     orderNotes: "ملاحظات الطلب",
     orderNotesPlaceholder: "مثلا: ميعاد مناسب للتوصيل، تفاصيل العنوان، أو أي ملاحظة للطلب",
     noNotes: "لا توجد ملاحظات",
+    marketingConsent: "أوافق على استقبال عروض وأخبار NŌRÉVA على واتساب.",
+    marketingConsentYes: "موافق على استقبال العروض",
+    marketingConsentNo: "غير موافق على استقبال العروض",
+    whatsappOffers: "عروض واتساب",
     deliveryArea: "منطقة التوصيل",
     confirmOrder: "تأكيد الطلب",
     receipt: "فاتورة الطلب",
@@ -277,6 +285,10 @@ const translations = {
     orderNotes: "Order notes",
     orderNotesPlaceholder: "Example: preferred delivery time, address details, or any order note",
     noNotes: "No notes",
+    marketingConsent: "I agree to receive NŌRÉVA offers and news on WhatsApp.",
+    marketingConsentYes: "Agreed to receive offers",
+    marketingConsentNo: "Not agreed to receive offers",
+    whatsappOffers: "WhatsApp offers",
     deliveryArea: "Delivery area",
     confirmOrder: "Confirm order",
     receipt: "Order receipt",
@@ -528,6 +540,9 @@ function applyLanguage() {
   setText(".payment-choice span", t("deliveryArea"));
   setText(".order-comment span", t("orderNotes"));
   if (elements.customerNotes) elements.customerNotes.placeholder = t("orderNotesPlaceholder");
+  document.querySelectorAll(".consent-choice span").forEach((node) => {
+    node.textContent = t("marketingConsent");
+  });
   setText(".checkout-submit", t("confirmOrder"));
   setText("#receiptStep h2", t("receipt"));
   setText(".rating-qr strong", t("qrReview"));
@@ -809,6 +824,7 @@ function handleTasteSubmit(event) {
   ].filter(Boolean);
   const name = form.get("customerName") || "-";
   const phone = form.get("customerPhone") || "-";
+  const marketingConsent = form.get("marketingConsent") === "on";
   const lines = state.language === "ar"
     ? [
         "✨ جاري تجهيز اختيارك الخاص من NŌRÉVA",
@@ -818,6 +834,7 @@ function handleTasteSubmit(event) {
         "",
         `الاسم: ${name}`,
         `رقم الهاتف: ${phone}`,
+        `العروض: ${marketingConsent ? t("marketingConsentYes") : t("marketingConsentNo")}`,
         "",
         "━━━━━━━━━━━━━━",
         "اختياراتك المفضلة:",
@@ -837,6 +854,7 @@ function handleTasteSubmit(event) {
         "",
         `Name: ${name}`,
         `Phone: ${phone}`,
+        `Offers: ${marketingConsent ? t("marketingConsentYes") : t("marketingConsentNo")}`,
         "",
         "━━━━━━━━━━━━━━",
         "Your selected preferences:",
@@ -848,6 +866,15 @@ function handleTasteSubmit(event) {
         "",
         "You’ll receive your personalized recommendation shortly on WhatsApp 🖤",
       ];
+  saveCrmRecord({
+    type: "match",
+    status: "new",
+    name,
+    phone,
+    message: preferences.join(" | "),
+    marketingConsent,
+    source: "taste-picker",
+  });
   window.open(`https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
 }
 
@@ -907,6 +934,7 @@ function handleCheckoutSubmit(event) {
     city: form.get("customerCity") || document.querySelector("#customerCity").value,
     address: form.get("customerAddress") || document.querySelector("#customerAddress").value,
     notes: form.get("customerNotes") || document.querySelector("#customerNotes")?.value || "",
+    marketingConsent: form.get("marketingConsent") === "on",
   };
   const totals = calculateTotals();
   const entries = getCartEntries();
@@ -918,6 +946,7 @@ function handleCheckoutSubmit(event) {
     <div class="summary-row"><span>${t("phone")}</span><strong>${escapeHTML(order.phone)}</strong></div>
     <div class="summary-row"><span>${t("address")}</span><strong>${escapeHTML(order.city)} - ${escapeHTML(order.address)}</strong></div>
     <div class="summary-row"><span>${t("orderNotes")}</span><strong>${escapeHTML(order.notes || t("noNotes"))}</strong></div>
+    <div class="summary-row"><span>${t("whatsappOffers")}</span><strong>${order.marketingConsent ? t("marketingConsentYes") : t("marketingConsentNo")}</strong></div>
     <div class="summary-row"><span>${t("fulfillment")}</span><strong>${escapeHTML(area.label)}</strong></div>
     ${entries.map((item) => `<div class="summary-row"><span>${escapeHTML(item.name)} × ${item.qty}</span><strong>${formatPrice(item.price * item.qty)}</strong></div>`).join("")}
     <div class="summary-row"><span>${t("subtotal")}</span><strong>${formatPrice(totals.subtotal)}</strong></div>
@@ -928,6 +957,23 @@ function handleCheckoutSubmit(event) {
 
   elements.ratingQr.src = `https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=${encodeURIComponent(SITE_SETTINGS.social.instagram)}`;
   elements.whatsappOrderLink.href = buildOrderWhatsappLink(order, entries, totals, area);
+  saveCrmRecord({
+    type: "order",
+    status: "new",
+    orderId: order.id,
+    name: order.name,
+    phone: order.phone,
+    city: order.city,
+    address: order.address,
+    message: order.notes,
+    marketingConsent: order.marketingConsent,
+    items: entries.map((item) => `${item.name} x ${item.qty}`).join(" | "),
+    subtotal: totals.subtotal,
+    discount: totals.discount,
+    deliveryFee: totals.deliveryFee,
+    total: totals.total,
+    source: "checkout",
+  });
   elements.checkoutStep.hidden = true;
   elements.receiptStep.hidden = false;
 }
@@ -976,6 +1022,8 @@ function buildOrderWhatsappLink(order, entries, totals, area) {
         "",
         `📝 Notes / ملاحظات: ${order.notes || t("noNotes")}`,
         "",
+        `WhatsApp Offers / عروض واتساب: ${order.marketingConsent ? t("marketingConsentYes") : t("marketingConsentNo")}`,
+        "",
         `📞 Phone Number / رقم الهاتف: ${order.phone}`,
         "",
         "Thank you for being part of the NŌRÉVA experience ✨",
@@ -1012,6 +1060,9 @@ function buildOrderWhatsappLink(order, entries, totals, area) {
         "📝 Notes",
         order.notes || t("noNotes"),
         "",
+        "WhatsApp Offers",
+        order.marketingConsent ? t("marketingConsentYes") : t("marketingConsentNo"),
+        "",
         "📞 Phone Number",
         order.phone,
         "",
@@ -1037,6 +1088,7 @@ function handleContactSubmit(event) {
   const name = String(form.get("contactName") || "").trim();
   const phone = String(form.get("contactPhone") || "").trim() || "-";
   const message = String(form.get("contactMessage") || "").trim();
+  const marketingConsent = form.get("marketingConsent") === "on";
   if (!name || !message) return;
 
   const lines = state.language === "ar"
@@ -1045,6 +1097,7 @@ function handleContactSubmit(event) {
         "",
         `الاسم: ${name}`,
         `رقم الهاتف: ${phone}`,
+        `العروض: ${marketingConsent ? t("marketingConsentYes") : t("marketingConsentNo")}`,
         "",
         `${t("contactMessageLabel")}:`,
         message,
@@ -1057,6 +1110,7 @@ function handleContactSubmit(event) {
         "",
         `Name: ${name}`,
         `Phone: ${phone}`,
+        `Offers: ${marketingConsent ? t("marketingConsentYes") : t("marketingConsentNo")}`,
         "",
         `${t("contactMessageLabel")}:`,
         message,
@@ -1065,7 +1119,43 @@ function handleContactSubmit(event) {
         "Sent from the suggestions and complaints section on the NŌRÉVA website.",
       ];
 
+  saveCrmRecord({
+    type: "message",
+    status: "new",
+    name,
+    phone,
+    message,
+    marketingConsent,
+    source: "contact",
+  });
   window.open(`https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
+}
+
+function saveCrmRecord(record) {
+  const now = new Date();
+  const crmRecord = {
+    id: `NRV-CRM-${now.getTime()}`,
+    createdAt: now.toISOString(),
+    language: state.language,
+    ...record,
+  };
+
+  try {
+    const stored = JSON.parse(localStorage.getItem(SITE_SETTINGS.crm.storageKey) || "[]");
+    stored.unshift(crmRecord);
+    localStorage.setItem(SITE_SETTINGS.crm.storageKey, JSON.stringify(stored.slice(0, 500)));
+  } catch (error) {
+    console.warn("Could not save CRM record locally", error);
+  }
+
+  if (SITE_SETTINGS.crm.endpoint) {
+    fetch(SITE_SETTINGS.crm.endpoint, {
+      method: "POST",
+      mode: "no-cors",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(crmRecord),
+    }).catch((error) => console.warn("Could not sync CRM record", error));
+  }
 }
 
 function updateOfferBand() {

@@ -24,7 +24,7 @@
     <meta name="twitter:description" content="More than perfume. A signature." />
     <meta name="twitter:image" content="https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/noreva-whatsapp-preview.jpeg?v=20260517-2" />
     <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
-    <link rel="stylesheet" href="styles.css?v=20260518-2" />
+    <link rel="stylesheet" href="styles.css?v=20260518-3" />
   </head>
   <body>
     <header class="site-header">
@@ -197,6 +197,10 @@
           <input name="contactName" type="text" placeholder="اسمك" aria-label="اسمك" required />
           <input name="contactPhone" type="tel" placeholder="رقم الموبايل" aria-label="رقم الموبايل" />
           <textarea name="contactMessage" placeholder="اكتب اقتراحك أو شكوتك أو تفاصيل الطلب" aria-label="تفاصيل الطلب" required></textarea>
+          <label class="consent-choice">
+            <input name="marketingConsent" type="checkbox" />
+            <span>أوافق على استقبال عروض وأخبار NŌRÉVA على واتساب.</span>
+          </label>
           <button class="primary-action" type="submit">إرسال الطلب</button>
         </form>
       </section>
@@ -249,6 +253,10 @@
             <label class="order-comment">
               <span>ملاحظات على الطلب</span>
               <textarea id="customerNotes" name="customerNotes" rows="3" placeholder="مثلا: ميعاد مناسب للتوصيل، تفاصيل العنوان، أو أي ملاحظة للطلب"></textarea>
+            </label>
+            <label class="consent-choice">
+              <input name="marketingConsent" type="checkbox" />
+              <span>أوافق على استقبال عروض وأخبار NŌRÉVA على واتساب.</span>
             </label>
             <div class="order-summary" id="checkoutSummary"></div>
             <button class="primary-action checkout-submit" type="submit">تأكيد الطلب</button>
@@ -326,6 +334,10 @@
           </label>
           <input name="customerName" type="text" placeholder="اسمك" />
           <input name="customerPhone" type="tel" placeholder="رقم الموبايل" />
+          <label class="consent-choice">
+            <input name="marketingConsent" type="checkbox" />
+            <span>أوافق على استقبال عروض وأخبار NŌRÉVA على واتساب.</span>
+          </label>
           <button class="primary-action" type="submit">ابعت اختياراتي على واتساب</button>
         </form>
       </div>
@@ -335,7 +347,7 @@
     <div class="overlay" id="overlay"></div>
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="products-data.js?v=20260518-2"></script>
-    <script src="script.js?v=20260518-2"></script>
+    <script src="products-data.js?v=20260518-3"></script>
+    <script src="script.js?v=20260518-3"></script>
   </body>
 </html>

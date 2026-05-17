@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NŌRÉVA Admin | Orders & CRM</title>
+    <link rel="stylesheet" href="styles.css?v=20260518-3" />
+    <style>
+      body {
+        min-height: 100vh;
+        padding: 28px;
+        background:
+          linear-gradient(rgba(4, 4, 4, 0.86), rgba(4, 4, 4, 0.92)),
+          url("assets/noreva-whatsapp-preview.jpeg") center / cover fixed;
+      }
+
+      .admin-shell {
+        width: min(1220px, 100%);
+        margin: 0 auto;
+      }
+
+      .admin-hero {
+        display: grid;
+        gap: 16px;
+        margin-bottom: 20px;
+        padding: clamp(22px, 4vw, 42px);
+        border-radius: 12px;
+      }
+
+      .admin-hero h1 {
+        max-width: none;
+        margin: 0;
+        font-size: clamp(2.2rem, 5vw, 4.6rem);
+      }
+
+      .admin-hero p {
+        max-width: 760px;
+        color: var(--muted);
+        line-height: 1.8;
+      }
+
+      .admin-actions,
+      .admin-tabs,
+      .stats-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .admin-tabs {
+        margin: 18px 0;
+      }
+
+      .admin-tab,
+      .admin-export {
+        min-height: 42px;
+        padding: 10px 15px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        color: var(--ink);
+        background: rgba(255, 255, 255, 0.07);
+        cursor: pointer;
+        font-weight: 800;
+        transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+      }
+
+      .admin-tab:hover,
+      .admin-export:hover,
+      .admin-tab.active {
+        transform: translateY(-1px);
+        border-color: rgba(216, 182, 106, 0.72);
+        background: rgba(216, 182, 106, 0.16);
+      }
+
+      .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        margin-bottom: 18px;
+      }
+
+      .stat-card {
+        padding: 18px;
+        border-radius: 10px;
+      }
+
+      .stat-card span {
+        color: var(--muted);
+        font-size: 0.88rem;
+      }
+
+      .stat-card strong {
+        display: block;
+        margin-top: 8px;
+        color: var(--soft-gold);
+        font-family: var(--serif);
+        font-size: 2rem;
+        font-weight: 300;
+      }
+
+      .admin-grid {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 340px;
+        gap: 16px;
+      }
+
+      .admin-panel {
+        padding: 16px;
+        border-radius: 12px;
+      }
+
+      .admin-table-wrap {
+        overflow: auto;
+      }
+
+      .admin-table {
+        width: 100%;
+        min-width: 860px;
+        border-collapse: collapse;
+      }
+
+      .admin-table th,
+      .admin-table td {
+        padding: 12px;
+        border-bottom: 1px solid rgba(216, 182, 106, 0.16);
+        text-align: start;
+        vertical-align: top;
+      }
+
+      .admin-table th {
+        color: var(--soft-gold);
+        font-size: 0.84rem;
+        font-weight: 800;
+      }
+
+      .admin-table td {
+        color: rgba(251, 247, 236, 0.82);
+        font-size: 0.9rem;
+      }
+
+      .badge {
+        display: inline-flex;
+        padding: 5px 9px;
+        border: 1px solid rgba(216, 182, 106, 0.32);
+        border-radius: 999px;
+        color: var(--soft-gold);
+        background: rgba(0, 0, 0, 0.22);
+        font-size: 0.78rem;
+        font-weight: 800;
+      }
+
+      .customer-list {
+        display: grid;
+        gap: 10px;
+        margin-top: 12px;
+      }
+
+      .customer-card {
+        padding: 12px;
+        border: 1px solid rgba(216, 182, 106, 0.18);
+        border-radius: 8px;
+        background: rgba(255, 255, 255, 0.04);
+      }
+
+      .customer-card strong {
+        color: var(--ink);
+      }
+
+      .customer-card span {
+        display: block;
+        margin-top: 4px;
+        color: var(--muted);
+        font-size: 0.88rem;
+      }
+
+      .empty-admin {
+        padding: 28px;
+        color: var(--muted);
+        text-align: center;
+      }
+
+      @media (max-width: 860px) {
+        body {
+          padding: 14px;
+        }
+
+        .stats-grid,
+        .admin-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .admin-actions,
+        .admin-tabs {
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .admin-tab,
+        .admin-export {
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="admin-shell">
+      <section class="admin-hero glass-panel">
+        <p class="eyebrow">NŌRÉVA CRM</p>
+        <h1>لوحة الطلبات والعملاء</h1>
+        <p>متابعة الطلبات، الاقتراحات، اختيارات العطور، وقائمة العملاء الموافقين على استقبال العروض. هذه نسخة إدارة أولية جاهزة للتصدير والربط لاحقًا مع Google Sheets.</p>
+        <div class="admin-actions">
+          <a class="primary-action" href="index.html">الرجوع للموقع</a>
+          <button class="admin-export" type="button" id="exportRecords">تصدير كل البيانات CSV</button>
+          <button class="admin-export" type="button" id="exportMarketing">تصدير عملاء العروض CSV</button>
+        </div>
+      </section>
+
+      <section class="stats-grid" aria-label="ملخص البيانات">
+        <div class="stat-card glass-panel"><span>كل السجلات</span><strong id="totalRecords">0</strong></div>
+        <div class="stat-card glass-panel"><span>طلبات</span><strong id="totalOrders">0</strong></div>
+        <div class="stat-card glass-panel"><span>اقتراحات وشكاوى</span><strong id="totalMessages">0</strong></div>
+        <div class="stat-card glass-panel"><span>عملاء العروض</span><strong id="totalMarketing">0</strong></div>
+      </section>
+
+      <div class="admin-tabs" role="group" aria-label="تصفية البيانات">
+        <button class="admin-tab active" type="button" data-filter="all">الكل</button>
+        <button class="admin-tab" type="button" data-filter="order">الطلبات</button>
+        <button class="admin-tab" type="button" data-filter="message">الشكاوى والاقتراحات</button>
+        <button class="admin-tab" type="button" data-filter="match">من اختيارك</button>
+      </div>
+
+      <section class="admin-grid">
+        <div class="admin-panel glass-panel">
+          <div class="admin-table-wrap">
+            <table class="admin-table">
+              <thead>
+                <tr>
+                  <th>التاريخ</th>
+                  <th>النوع</th>
+                  <th>الاسم</th>
+                  <th>الموبايل</th>
+                  <th>المدينة</th>
+                  <th>التفاصيل</th>
+                  <th>الإجمالي</th>
+                  <th>العروض</th>
+                </tr>
+              </thead>
+              <tbody id="recordsBody"></tbody>
+            </table>
+          </div>
+          <p class="empty-admin" id="emptyState" hidden>لا توجد بيانات مسجلة حتى الآن.</p>
+        </div>
+
+        <aside class="admin-panel glass-panel">
+          <p class="eyebrow">Marketing List</p>
+          <h2>عملاء وافقوا على العروض</h2>
+          <div class="customer-list" id="marketingList"></div>
+        </aside>
+      </section>
+    </main>
+
+    <script>
+      const storageKey = "noreva-crm-records";
+      let currentFilter = "all";
+
+      const els = {
+        recordsBody: document.querySelector("#recordsBody"),
+        emptyState: document.querySelector("#emptyState"),
+        marketingList: document.querySelector("#marketingList"),
+        totalRecords: document.querySelector("#totalRecords"),
+        totalOrders: document.querySelector("#totalOrders"),
+        totalMessages: document.querySelector("#totalMessages"),
+        totalMarketing: document.querySelector("#totalMarketing"),
+        tabs: document.querySelectorAll(".admin-tab"),
+        exportRecords: document.querySelector("#exportRecords"),
+        exportMarketing: document.querySelector("#exportMarketing"),
+      };
+
+      function getRecords() {
+        try {
+          return JSON.parse(localStorage.getItem(storageKey) || "[]");
+        } catch {
+          return [];
+        }
+      }
+
+      function formatDate(value) {
+        if (!value) return "-";
+        return new Intl.DateTimeFormat("ar-EG", {
+          dateStyle: "medium",
+          timeStyle: "short",
+        }).format(new Date(value));
+      }
+
+      function recordType(type) {
+        return {
+          order: "طلب",
+          message: "اقتراح/شكوى",
+          match: "من اختيارك",
+        }[type] || type || "-";
+      }
+
+      function render() {
+        const records = getRecords();
+        const filtered = currentFilter === "all"
+          ? records
+          : records.filter((record) => record.type === currentFilter);
+        const marketing = records.filter((record) => record.marketingConsent && record.phone && record.phone !== "-");
+
+        els.totalRecords.textContent = records.length;
+        els.totalOrders.textContent = records.filter((record) => record.type === "order").length;
+        els.totalMessages.textContent = records.filter((record) => record.type === "message").length;
+        els.totalMarketing.textContent = marketing.length;
+
+        els.recordsBody.innerHTML = filtered.map((record) => `
+          <tr>
+            <td>${escapeHTML(formatDate(record.createdAt))}</td>
+            <td><span class="badge">${escapeHTML(recordType(record.type))}</span></td>
+            <td>${escapeHTML(record.name || "-")}</td>
+            <td>${escapeHTML(record.phone || "-")}</td>
+            <td>${escapeHTML(record.city || "-")}</td>
+            <td>${escapeHTML(record.items || record.message || "-")}</td>
+            <td>${record.total ? `${Number(record.total).toLocaleString("ar-EG")} جنيه` : "-"}</td>
+            <td>${record.marketingConsent ? "نعم" : "لا"}</td>
+          </tr>
+        `).join("");
+        els.emptyState.hidden = filtered.length > 0;
+
+        els.marketingList.innerHTML = marketing.length
+          ? marketing.map((record) => `
+              <div class="customer-card">
+                <strong>${escapeHTML(record.name || "عميل NŌRÉVA")}</strong>
+                <span>${escapeHTML(record.phone || "-")}</span>
+                <span>${escapeHTML(record.type ? recordType(record.type) : "-")} · ${escapeHTML(formatDate(record.createdAt))}</span>
+              </div>
+            `).join("")
+          : `<p class="empty-admin">لا يوجد عملاء وافقوا على العروض بعد.</p>`;
+      }
+
+      function escapeHTML(value) {
+        return String(value ?? "")
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#039;");
+      }
+
+      function exportCsv(records, filename) {
+        const headers = ["createdAt", "type", "status", "orderId", "name", "phone", "city", "address", "items", "message", "subtotal", "discount", "deliveryFee", "total", "marketingConsent", "source"];
+        const rows = records.map((record) => headers.map((key) => `"${String(record[key] ?? "").replace(/"/g, '""')}"`).join(","));
+        const csv = "\ufeff" + [headers.join(","), ...rows].join("\n");
+        const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement("a");
+        link.href = url;
+        link.download = filename;
+        link.click();
+        URL.revokeObjectURL(url);
+      }
+
+      els.tabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+          els.tabs.forEach((item) => item.classList.remove("active"));
+          tab.classList.add("active");
+          currentFilter = tab.dataset.filter;
+          render();
+        });
+      });
+
+      els.exportRecords.addEventListener("click", () => exportCsv(getRecords(), "noreva-crm-records.csv"));
+      els.exportMarketing.addEventListener("click", () => {
+        const marketing = getRecords().filter((record) => record.marketingConsent);
+        exportCsv(marketing, "noreva-marketing-customers.csv");
+      });
+
+      render();
+    </script>
+  </body>
+</html>

@@ -1314,6 +1314,27 @@ h2 {
   padding: 10px 12px;
 }
 
+.consent-choice {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  color: rgba(251, 247, 236, 0.78);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.consent-choice input {
+  width: 18px;
+  min-width: 18px;
+  height: 18px;
+  margin-top: 3px;
+  accent-color: var(--gold);
+}
+
+.consent-choice span {
+  color: inherit;
+}
+
 .checkout-form textarea {
   min-height: 88px;
   resize: vertical;
