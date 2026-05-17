@@ -190,6 +190,24 @@ select {
   font-weight: 900;
 }
 
+.admin-access {
+  display: none;
+  min-height: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 13px;
+  border: 1px solid rgba(216, 182, 106, 0.42);
+  border-radius: 999px;
+  color: var(--soft-gold);
+  background: rgba(255, 255, 255, 0.08);
+  font-size: 0.86rem;
+  font-weight: 900;
+}
+
+.admin-mode .admin-access {
+  display: inline-flex;
+}
+
 .cart-toggle strong {
   display: grid;
   place-items: center;
@@ -2034,6 +2052,22 @@ h2 {
     min-height: 40px;
     padding: 8px 6px;
     font-size: 0.78rem;
+    background: rgba(7, 7, 7, 0.66);
+  }
+
+  .admin-mode .site-header {
+    grid-template-columns: 52px minmax(0, 1fr) 52px 52px;
+    grid-template-areas:
+      "cart brand lang admin"
+      "nav nav nav nav";
+  }
+
+  .admin-access {
+    grid-area: admin;
+    width: 52px;
+    min-height: 40px;
+    padding: 7px 4px;
+    font-size: 0.66rem;
     background: rgba(7, 7, 7, 0.66);
   }
 

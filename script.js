@@ -316,6 +316,7 @@ const elements = {};
 
 document.addEventListener("DOMContentLoaded", () => {
   cacheElements();
+  applyAdminMode();
   bindEvents();
   populateBrandSelect();
   populateDeliveryAreas();
@@ -333,6 +334,16 @@ document.addEventListener("DOMContentLoaded", () => {
 function detectLanguage() {
   const navLanguage = (navigator.language || "").toLowerCase();
   return navLanguage.startsWith("ar") ? "ar" : "en";
+}
+
+function applyAdminMode() {
+  const params = new URLSearchParams(window.location.search);
+  if (params.get("admin") === "1") {
+    document.body.classList.add("admin-mode");
+    sessionStorage.setItem("noreva-admin-mode", "1");
+  } else if (sessionStorage.getItem("noreva-admin-mode") === "1") {
+    document.body.classList.add("admin-mode");
+  }
 }
 
 function t(key, ...args) {

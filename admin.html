@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NŌRÉVA Admin | Orders & CRM</title>
-    <link rel="stylesheet" href="styles.css?v=20260518-4" />
+    <link rel="stylesheet" href="styles.css?v=20260518-5" />
     <style>
       body {
         min-height: 100vh;
@@ -178,6 +178,61 @@
         text-align: center;
       }
 
+      .auth-screen {
+        position: fixed;
+        inset: 0;
+        z-index: 100;
+        display: grid;
+        place-items: center;
+        padding: 18px;
+        background: rgba(0, 0, 0, 0.82);
+        backdrop-filter: blur(18px);
+      }
+
+      .auth-card {
+        width: min(420px, 100%);
+        display: grid;
+        gap: 14px;
+        padding: 26px;
+        border-radius: 12px;
+        text-align: center;
+      }
+
+      .auth-card h1 {
+        max-width: none;
+        margin: 0;
+        font-size: clamp(2rem, 7vw, 3.25rem);
+      }
+
+      .auth-card p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.7;
+      }
+
+      .auth-card input {
+        min-height: 48px;
+        padding: 12px 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        color: var(--ink);
+        background: rgba(255, 255, 255, 0.07);
+        text-align: center;
+        outline-color: var(--gold);
+      }
+
+      .auth-error {
+        min-height: 20px;
+        color: #ff9f9f;
+        font-weight: 800;
+      }
+
+      .admin-locked .admin-shell {
+        filter: blur(8px);
+        pointer-events: none;
+        user-select: none;
+      }
+
       @media (max-width: 860px) {
         body {
           padding: 14px;
@@ -201,7 +256,18 @@
       }
     </style>
   </head>
-  <body>
+  <body class="admin-locked">
+    <section class="auth-screen" id="authScreen" aria-label="تسجيل دخول الإدارة">
+      <form class="auth-card glass-panel" id="adminAuthForm">
+        <p class="eyebrow">Private Access</p>
+        <h1>NŌRÉVA Admin</h1>
+        <p>ادخل الرقم السري لفتح لوحة الطلبات والعملاء.</p>
+        <input id="adminPassword" type="password" placeholder="الرقم السري" autocomplete="current-password" required />
+        <button class="primary-action" type="submit">دخول الإدارة</button>
+        <span class="auth-error" id="authError"></span>
+      </form>
+    </section>
+
     <main class="admin-shell">
       <section class="admin-hero glass-panel">
         <p class="eyebrow">NŌRÉVA CRM</p>
@@ -260,9 +326,15 @@
 
     <script>
       const storageKey = "noreva-crm-records";
+      const adminPassword = "Noreva2026";
+      const authKey = "noreva-admin-authenticated";
       let currentFilter = "all";
 
       const els = {
+        authScreen: document.querySelector("#authScreen"),
+        adminAuthForm: document.querySelector("#adminAuthForm"),
+        adminPasswordInput: document.querySelector("#adminPassword"),
+        authError: document.querySelector("#authError"),
         recordsBody: document.querySelector("#recordsBody"),
         emptyState: document.querySelector("#emptyState"),
         marketingList: document.querySelector("#marketingList"),
@@ -274,6 +346,30 @@
         exportRecords: document.querySelector("#exportRecords"),
         exportMarketing: document.querySelector("#exportMarketing"),
       };
+
+      function unlockAdmin() {
+        document.body.classList.remove("admin-locked");
+        els.authScreen.hidden = true;
+        render();
+      }
+
+      if (sessionStorage.getItem(authKey) === "1") {
+        unlockAdmin();
+      } else {
+        els.adminPasswordInput.focus();
+      }
+
+      els.adminAuthForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        if (els.adminPasswordInput.value === adminPassword) {
+          sessionStorage.setItem(authKey, "1");
+          unlockAdmin();
+          return;
+        }
+        els.authError.textContent = "الرقم السري غير صحيح";
+        els.adminPasswordInput.value = "";
+        els.adminPasswordInput.focus();
+      });
 
       function getRecords() {
         try {
@@ -373,7 +469,7 @@
         exportCsv(marketing, "noreva-marketing-customers.csv");
       });
 
-      render();
+      if (sessionStorage.getItem(authKey) === "1") render();
     </script>
   </body>
 </html>
