@@ -142,8 +142,7 @@ const translations = {
     brand: "الماركة",
     wantProduct: "أريد معرفة التفاصيل وإتمام الطلب.",
     sentContact: "تم استلام بيانات الطلب. هنراجعها معاك قريبا.",
-    contactWhatsappTitle: "رسالة جديدة من موقع NŌRÉVA Beauty",
-    contactMessageLabel: "الرسالة",
+    contactSaved: "تم تسجيل رسالتك بنجاح في لوحة الإدارة.",
     navProducts: "المنتجات",
     navBrands: "البراند",
     navReviews: "الآراء",
@@ -248,8 +247,7 @@ const translations = {
     brand: "Brand",
     wantProduct: "I want details and to complete the order.",
     sentContact: "Order details received. We will get back to you shortly.",
-    contactWhatsappTitle: "New message from NŌRÉVA Beauty website",
-    contactMessageLabel: "Message",
+    contactSaved: "Your message has been saved in the admin dashboard.",
     navProducts: "Products",
     navBrands: "Brand",
     navReviews: "Reviews",
@@ -388,6 +386,7 @@ function cacheElements() {
     languageToggle: document.querySelector("#languageToggle"),
     floatingSticker: document.querySelector(".floating-sticker"),
     contactForm: document.querySelector(".contact-form"),
+    contactSuccess: document.querySelector("#contactSuccess"),
   });
 }
 
@@ -535,6 +534,7 @@ function applyLanguage() {
   setText("#contact h2", t("contactHeading"));
   setText("#contact > div > p:not(.eyebrow):not(.signature-line)", t("contactIntro"));
   setText(".contact-form button", t("sendOrder"));
+  setText("#contactSuccess", t("contactSaved"));
   setText("#checkoutStep h2", t("orderData"));
   setText(".order-note", t("orderNote"));
   setText(".payment-choice span", t("deliveryArea"));
@@ -1091,34 +1091,6 @@ function handleContactSubmit(event) {
   const marketingConsent = form.get("marketingConsent") === "on";
   if (!name || !message) return;
 
-  const lines = state.language === "ar"
-    ? [
-        `✨ ${t("contactWhatsappTitle")}`,
-        "",
-        `الاسم: ${name}`,
-        `رقم الهاتف: ${phone}`,
-        `العروض: ${marketingConsent ? t("marketingConsentYes") : t("marketingConsentNo")}`,
-        "",
-        `${t("contactMessageLabel")}:`,
-        message,
-        "",
-        "━━━━━━━━━━━━━━",
-        "تم إرسال الرسالة من قسم الاقتراحات والشكاوى في موقع NŌRÉVA.",
-      ]
-    : [
-        `✨ ${t("contactWhatsappTitle")}`,
-        "",
-        `Name: ${name}`,
-        `Phone: ${phone}`,
-        `Offers: ${marketingConsent ? t("marketingConsentYes") : t("marketingConsentNo")}`,
-        "",
-        `${t("contactMessageLabel")}:`,
-        message,
-        "",
-        "━━━━━━━━━━━━━━",
-        "Sent from the suggestions and complaints section on the NŌRÉVA website.",
-      ];
-
   saveCrmRecord({
     type: "message",
     status: "new",
@@ -1128,7 +1100,13 @@ function handleContactSubmit(event) {
     marketingConsent,
     source: "contact",
   });
-  window.open(`https://wa.me/${SITE_SETTINGS.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
+  elements.contactForm.reset();
+  if (elements.contactSuccess) {
+    elements.contactSuccess.hidden = false;
+    window.setTimeout(() => {
+      elements.contactSuccess.hidden = true;
+    }, 5000);
+  }
 }
 
 function saveCrmRecord(record) {
