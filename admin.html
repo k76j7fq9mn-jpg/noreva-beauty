@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NŌRÉVA Admin | Orders & CRM</title>
-    <link rel="stylesheet" href="styles.css?v=20260518-13" />
+    <link rel="stylesheet" href="styles.css?v=20260518-14" />
     <style>
       body {
         min-height: 100vh;
@@ -237,6 +237,16 @@
         user-select: none;
       }
 
+      .site-quick-link {
+        position: fixed;
+        left: 18px;
+        bottom: 18px;
+        z-index: 60;
+        min-height: 46px;
+        padding-inline: 18px;
+        box-shadow: 0 18px 44px rgba(0, 0, 0, 0.45);
+      }
+
       @media (max-width: 860px) {
         body {
           padding: 14px;
@@ -261,6 +271,8 @@
     </style>
   </head>
   <body class="admin-locked">
+    <a class="primary-action site-quick-link" href="index.html?v=20260518-14">فتح الموقع</a>
+
     <section class="auth-screen" id="authScreen" aria-label="تسجيل دخول الإدارة">
       <form class="auth-card glass-panel" id="adminAuthForm">
         <p class="eyebrow">Private Access</p>
@@ -278,8 +290,8 @@
         <h1>لوحة الطلبات والعملاء</h1>
         <p>متابعة الطلبات، الاقتراحات، اختيارات العطور، وقائمة العملاء الموافقين على استقبال العروض. الطلبات تستمر في واتساب وتتسجل هنا، أما الاقتراحات والشكاوي فتظهر هنا فقط.</p>
         <div class="admin-actions">
-          <a class="primary-action" href="index.html?v=20260518-13">فتح موقع العملاء</a>
-          <a class="secondary-action" href="owner.html?v=20260518-13">بوابة المالك</a>
+          <a class="primary-action" href="index.html?v=20260518-14">فتح موقع العملاء</a>
+          <a class="secondary-action" href="owner.html?v=20260518-14">بوابة المالك</a>
           <button class="admin-export" type="button" id="exportRecords">تصدير كل البيانات CSV</button>
           <button class="admin-export" type="button" id="exportMarketing">تصدير عملاء العروض CSV</button>
         </div>
