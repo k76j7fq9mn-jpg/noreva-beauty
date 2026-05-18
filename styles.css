@@ -311,6 +311,7 @@ h2 {
 .section-heading,
 .products,
 .brand-spotlight,
+.noreva-motion,
 .offer-band,
 .contact {
   width: min(1180px, calc(100% - 36px));
@@ -727,24 +728,6 @@ h2 {
     linear-gradient(180deg, rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.84));
 }
 
-.brand-card.ajmal::after {
-  background:
-    radial-gradient(circle at 24% 18%, rgba(216, 182, 106, 0.32), transparent 26%),
-    linear-gradient(180deg, rgba(0, 0, 0, 0.12), rgba(22, 10, 4, 0.88));
-}
-
-.brand-card.catrice::after {
-  background:
-    radial-gradient(circle at 76% 20%, rgba(163, 31, 69, 0.34), transparent 26%),
-    linear-gradient(180deg, rgba(0, 0, 0, 0.08), rgba(38, 9, 22, 0.86));
-}
-
-.brand-card.essence::after {
-  background:
-    radial-gradient(circle at 30% 18%, rgba(15, 118, 110, 0.32), transparent 24%),
-    linear-gradient(180deg, rgba(0, 0, 0, 0.08), rgba(5, 26, 24, 0.86));
-}
-
 .brand-card:hover,
 .brand-card:focus-visible {
   transform: translateY(-5px) scale(1.012);
@@ -791,6 +774,101 @@ h2 {
   font-style: normal;
 }
 
+.noreva-motion {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 0.82fr) minmax(360px, 1.18fr);
+  gap: clamp(18px, 4vw, 42px);
+  align-items: center;
+  margin-top: 34px;
+  padding: clamp(18px, 3vw, 30px);
+  overflow: hidden;
+  border-radius: 12px;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.035), rgba(216, 182, 106, 0.07)),
+    rgba(7, 7, 7, 0.66);
+}
+
+.noreva-motion::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  pointer-events: none;
+  border-radius: inherit;
+  background:
+    radial-gradient(circle at 78% 10%, rgba(216, 182, 106, 0.2), transparent 34%),
+    linear-gradient(120deg, transparent 10%, rgba(246, 225, 166, 0.08), transparent 42%);
+}
+
+.motion-copy,
+.motion-frame {
+  position: relative;
+  z-index: 1;
+}
+
+.motion-copy h2 {
+  color: var(--soft-gold);
+}
+
+.motion-copy p:not(.eyebrow) {
+  max-width: 520px;
+  color: var(--muted);
+  line-height: 1.85;
+}
+
+.motion-frame {
+  min-height: clamp(320px, 44vw, 520px);
+  overflow: hidden;
+  border: 1px solid rgba(216, 182, 106, 0.3);
+  border-radius: 10px;
+  background: #050505;
+  box-shadow: 0 28px 70px rgba(0, 0, 0, 0.48);
+}
+
+.motion-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.82;
+  filter: saturate(1.05) contrast(1.08);
+  transform: scale(1.01);
+}
+
+.motion-shine {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, 0.7), transparent 42%, rgba(0, 0, 0, 0.38)),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.72));
+}
+
+.motion-caption {
+  position: absolute;
+  right: clamp(16px, 3vw, 30px);
+  bottom: clamp(16px, 3vw, 30px);
+  display: grid;
+  gap: 6px;
+  max-width: 320px;
+  text-align: start;
+}
+
+.motion-caption span {
+  color: var(--gold);
+  font-size: 0.78rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.motion-caption strong {
+  color: var(--soft-gold);
+  font-family: var(--serif);
+  font-size: clamp(1.75rem, 3.4vw, 3.4rem);
+  font-weight: 300;
+  line-height: 1;
+}
+
 .spotlight-card {
   position: relative;
   min-height: 260px;
@@ -821,24 +899,6 @@ h2 {
   inset: 0;
   z-index: -1;
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.78));
-}
-
-.spotlight-card.ajmal {
-  --spotlight-bg:
-    radial-gradient(circle at 25% 20%, rgba(216, 182, 106, 0.7), transparent 22%),
-    linear-gradient(135deg, #070707, #2c1d0f 52%, #060606);
-}
-
-.spotlight-card.catrice {
-  --spotlight-bg:
-    radial-gradient(circle at 70% 20%, rgba(163, 31, 69, 0.7), transparent 24%),
-    linear-gradient(135deg, #090809, #3d1424 54%, #080808);
-}
-
-.spotlight-card.essence {
-  --spotlight-bg:
-    radial-gradient(circle at 30% 18%, rgba(15, 118, 110, 0.65), transparent 24%),
-    linear-gradient(135deg, #070909, #12312d 56%, #060606);
 }
 
 .spotlight-card span {
@@ -987,28 +1047,22 @@ h2 {
 }
 
 .signature-line {
-  display: inline-grid;
-  gap: 2px;
-  margin-top: 14px;
+  display: inline-flex;
+  margin: 16px 0 0;
   color: var(--soft-gold);
+  transform: rotate(-8deg) skewX(-10deg);
 }
 
 .signature-line span {
   font-family: var(--serif);
-  font-size: clamp(1.7rem, 3vw, 2.45rem);
+  font-size: clamp(3.6rem, 8vw, 6.4rem);
   font-style: italic;
   font-weight: 300;
-  line-height: 0.9;
-  text-shadow: 0 10px 26px rgba(216, 182, 106, 0.22);
-}
-
-.signature-line strong {
-  color: rgba(251, 247, 236, 0.72);
-  font-family: var(--serif);
-  font-size: 0.86rem;
-  font-style: italic;
-  font-weight: 300;
-  letter-spacing: 0;
+  line-height: 0.72;
+  letter-spacing: -0.08em;
+  text-shadow:
+    0 10px 26px rgba(216, 182, 106, 0.28),
+    0 0 22px rgba(242, 223, 173, 0.12);
 }
 
 .contact-form {
@@ -2083,6 +2137,7 @@ h2 {
   .section-heading,
   .products,
   .brand-spotlight,
+  .noreva-motion,
   .reviews-section,
   .social-section,
   .offer-band,
@@ -2108,6 +2163,25 @@ h2 {
   .exclusive-preview p:not(.preview-label) {
     font-size: 0.96rem;
     line-height: 1.85;
+  }
+
+  .noreva-motion {
+    grid-template-columns: 1fr;
+    gap: 18px;
+    margin-top: 24px;
+    padding: 16px;
+  }
+
+  .motion-frame {
+    min-height: 360px;
+  }
+
+  .motion-copy {
+    text-align: center;
+  }
+
+  .motion-copy p:not(.eyebrow) {
+    margin-inline: auto;
   }
 
   .preview-actions {

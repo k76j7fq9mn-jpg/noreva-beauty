@@ -53,36 +53,6 @@ const BRAND_REGISTRY = [
       en: "Signature NŌRÉVA fragrances for men and women.",
     },
   },
-  {
-    id: "Ajmal",
-    name: "Ajmal",
-    image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/download.jpg",
-    tone: "ajmal",
-    description: {
-      ar: "طابع شرقي دافئ وفخم لعشاق العود.",
-      en: "Warm oriental character for oud lovers.",
-    },
-  },
-  {
-    id: "Catrice",
-    name: "Catrice",
-    image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/hero-products.png",
-    tone: "catrice",
-    description: {
-      ar: "ميك أب عملي بلمسة ناعمة للروتين اليومي.",
-      en: "Everyday makeup with a soft polished feel.",
-    },
-  },
-  {
-    id: "Essence",
-    name: "Essence",
-    image: "https://k76j7fq9mn-jpg.github.io/noreva-beauty/assets/hero-products.png",
-    tone: "essence",
-    description: {
-      ar: "ألوان خفيفة ومرحة للوك سريع وسهل.",
-      en: "Fresh playful colors for quick easy looks.",
-    },
-  },
 ];
 
 const state = {
