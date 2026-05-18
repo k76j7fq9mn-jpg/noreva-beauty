@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NŌRÉVA Admin | Orders & CRM</title>
-    <link rel="stylesheet" href="styles.css?v=20260518-6" />
+    <link rel="stylesheet" href="styles.css?v=20260518-7" />
     <style>
       body {
         min-height: 100vh;
@@ -326,7 +326,7 @@
 
     <script>
       const storageKey = "noreva-crm-records";
-      const adminPasswords = ["Noreva2026", "noreva2026"];
+      const adminPasswords = ["1234", "Noreva2026", "noreva2026"];
       const authKey = "noreva-admin-authenticated";
       let currentFilter = "all";
 
@@ -361,7 +361,7 @@
 
       els.adminAuthForm.addEventListener("submit", (event) => {
         event.preventDefault();
-        const enteredPassword = els.adminPasswordInput.value.trim();
+        const enteredPassword = String(els.adminPasswordInput.value || "").trim();
         if (adminPasswords.includes(enteredPassword)) {
           sessionStorage.setItem(authKey, "1");
           unlockAdmin();

@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NŌRÉVA Owner Access</title>
+    <link rel="stylesheet" href="styles.css?v=20260518-7" />
+    <style>
+      body {
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        padding: 18px;
+        background:
+          linear-gradient(rgba(4, 4, 4, 0.8), rgba(4, 4, 4, 0.92)),
+          url("assets/noreva-whatsapp-preview.jpeg") center / cover fixed;
+      }
+
+      .owner-card {
+        width: min(560px, 100%);
+        display: grid;
+        gap: 16px;
+        padding: clamp(24px, 5vw, 42px);
+        border-radius: 14px;
+        text-align: center;
+      }
+
+      .owner-card h1 {
+        max-width: none;
+        margin: 0;
+        font-size: clamp(2.2rem, 8vw, 4.2rem);
+      }
+
+      .owner-card p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.8;
+      }
+
+      .owner-auth,
+      .owner-links {
+        display: grid;
+        gap: 12px;
+      }
+
+      .owner-card input {
+        min-height: 50px;
+        padding: 12px 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        color: var(--ink);
+        background: rgba(255, 255, 255, 0.08);
+        text-align: center;
+        outline-color: var(--gold);
+      }
+
+      .owner-links {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .owner-error {
+        min-height: 20px;
+        color: #ff9f9f;
+        font-weight: 800;
+      }
+
+      @media (max-width: 560px) {
+        .owner-links {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="owner-card glass-panel">
+      <p class="eyebrow">Private Owner Link</p>
+      <h1>NŌRÉVA Owner</h1>
+      <p>لينك خاص للإدارة. بعد الدخول تقدر تفتح موقع العملاء أو لوحة الطلبات والعملاء.</p>
+
+      <form class="owner-auth" id="ownerAuth">
+        <input id="ownerPassword" type="password" placeholder="الرقم السري" autocomplete="current-password" required />
+        <button class="primary-action" type="submit">دخول</button>
+        <span class="owner-error" id="ownerError"></span>
+      </form>
+
+      <section class="owner-links" id="ownerLinks" hidden>
+        <a class="primary-action" href="index.html?v=20260518-7">فتح موقع العملاء</a>
+        <a class="secondary-action" href="admin.html">فتح لوحة الإدارة</a>
+      </section>
+    </main>
+
+    <script>
+      const passwords = ["1234", "Noreva2026", "noreva2026"];
+      const ownerAuth = document.querySelector("#ownerAuth");
+      const ownerLinks = document.querySelector("#ownerLinks");
+      const ownerPassword = document.querySelector("#ownerPassword");
+      const ownerError = document.querySelector("#ownerError");
+
+      ownerAuth.addEventListener("submit", (event) => {
+        event.preventDefault();
+        const entered = String(ownerPassword.value || "").trim();
+        if (!passwords.includes(entered)) {
+          ownerError.textContent = "الرقم السري غير صحيح";
+          ownerPassword.value = "";
+          ownerPassword.focus();
+          return;
+        }
+        sessionStorage.setItem("noreva-admin-authenticated", "1");
+        ownerAuth.hidden = true;
+        ownerLinks.hidden = false;
+      });
+    </script>
+  </body>
+</html>
