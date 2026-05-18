@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NŌRÉVA Admin | Orders & CRM</title>
-    <link rel="stylesheet" href="styles.css?v=20260518-14" />
+    <link rel="stylesheet" href="styles.css?v=20260518-15" />
     <style>
       body {
         min-height: 100vh;
@@ -267,11 +267,59 @@
         .admin-export {
           width: 100%;
         }
+
+        .admin-table {
+          min-width: 0;
+        }
+
+        .admin-table thead {
+          display: none;
+        }
+
+        .admin-table,
+        .admin-table tbody,
+        .admin-table tr,
+        .admin-table td {
+          display: block;
+          width: 100%;
+        }
+
+        .admin-table tr {
+          margin-bottom: 12px;
+          padding: 12px;
+          border: 1px solid rgba(216, 182, 106, 0.18);
+          border-radius: 10px;
+          background: rgba(255, 255, 255, 0.04);
+        }
+
+        .admin-table td {
+          display: grid;
+          grid-template-columns: 98px minmax(0, 1fr);
+          gap: 10px;
+          padding: 9px 0;
+          border-bottom: 1px solid rgba(216, 182, 106, 0.1);
+        }
+
+        .admin-table td:last-child {
+          border-bottom: 0;
+        }
+
+        .admin-table td::before {
+          content: attr(data-label);
+          color: var(--soft-gold);
+          font-weight: 900;
+        }
+
+        .site-quick-link {
+          right: 14px;
+          left: 14px;
+          bottom: 14px;
+        }
       }
     </style>
   </head>
   <body class="admin-locked">
-    <a class="primary-action site-quick-link" href="index.html?v=20260518-14">فتح الموقع</a>
+    <a class="primary-action site-quick-link" href="index.html?v=20260518-15">فتح الموقع</a>
 
     <section class="auth-screen" id="authScreen" aria-label="تسجيل دخول الإدارة">
       <form class="auth-card glass-panel" id="adminAuthForm">
@@ -290,8 +338,8 @@
         <h1>لوحة الطلبات والعملاء</h1>
         <p>متابعة الطلبات، الاقتراحات، اختيارات العطور، وقائمة العملاء الموافقين على استقبال العروض. الطلبات تستمر في واتساب وتتسجل هنا، أما الاقتراحات والشكاوي فتظهر هنا فقط.</p>
         <div class="admin-actions">
-          <a class="primary-action" href="index.html?v=20260518-14">فتح موقع العملاء</a>
-          <a class="secondary-action" href="owner.html?v=20260518-14">بوابة المالك</a>
+          <a class="primary-action" href="index.html?v=20260518-15">فتح موقع العملاء</a>
+          <a class="secondary-action" href="owner.html?v=20260518-15">بوابة المالك</a>
           <button class="admin-export" type="button" id="exportRecords">تصدير كل البيانات CSV</button>
           <button class="admin-export" type="button" id="exportMarketing">تصدير عملاء العروض CSV</button>
         </div>
@@ -427,14 +475,14 @@
 
         els.recordsBody.innerHTML = filtered.map((record) => `
           <tr>
-            <td>${escapeHTML(formatDate(record.createdAt))}</td>
-            <td><span class="badge">${escapeHTML(recordType(record.type))}</span></td>
-            <td>${escapeHTML(record.name || "-")}</td>
-            <td>${escapeHTML(record.phone || "-")}</td>
-            <td>${escapeHTML(record.city || "-")}</td>
-            <td>${escapeHTML(record.items || record.message || "-")}</td>
-            <td>${record.total ? `${Number(record.total).toLocaleString("ar-EG")} جنيه` : "-"}</td>
-            <td>${record.marketingConsent ? "نعم" : "لا"}</td>
+            <td data-label="التاريخ">${escapeHTML(formatDate(record.createdAt))}</td>
+            <td data-label="النوع"><span class="badge">${escapeHTML(recordType(record.type))}</span></td>
+            <td data-label="الاسم">${escapeHTML(record.name || "-")}</td>
+            <td data-label="الموبايل">${escapeHTML(record.phone || "-")}</td>
+            <td data-label="المدينة">${escapeHTML(record.city || "-")}</td>
+            <td data-label="التفاصيل">${escapeHTML(record.items || record.message || "-")}</td>
+            <td data-label="الإجمالي">${record.total ? `${Number(record.total).toLocaleString("ar-EG")} جنيه` : "-"}</td>
+            <td data-label="العروض">${record.marketingConsent ? "نعم" : "لا"}</td>
           </tr>
         `).join("");
         els.emptyState.hidden = filtered.length > 0;
