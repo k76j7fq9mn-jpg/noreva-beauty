@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NŌRÉVA Owner Access</title>
-    <link rel="stylesheet" href="styles.css?v=20260518-12" />
+    <link rel="stylesheet" href="styles.css?v=20260518-13" />
     <style>
       body {
         min-height: 100vh;
@@ -88,8 +88,8 @@
       </form>
 
       <section class="owner-links" id="ownerLinks" hidden>
-        <a class="primary-action" id="adminDirectLink" href="admin.html?v=20260518-12">فتح لوحة الإدارة</a>
-        <a class="secondary-action" href="index.html?v=20260518-12">فتح موقع العملاء</a>
+        <a class="primary-action" href="admin.html?v=20260518-13">فتح لوحة الإدارة</a>
+        <a class="secondary-action" href="index.html?v=20260518-13">فتح موقع العملاء</a>
       </section>
     </main>
 
@@ -99,7 +99,15 @@
       const ownerLinks = document.querySelector("#ownerLinks");
       const ownerPassword = document.querySelector("#ownerPassword");
       const ownerError = document.querySelector("#ownerError");
-      const adminDirectLink = document.querySelector("#adminDirectLink");
+      function showOwnerChoices() {
+        ownerAuth.hidden = true;
+        ownerLinks.hidden = false;
+        ownerError.textContent = "";
+      }
+
+      if (sessionStorage.getItem("noreva-admin-authenticated") === "1") {
+        showOwnerChoices();
+      }
 
       ownerAuth.addEventListener("submit", (event) => {
         event.preventDefault();
@@ -111,10 +119,7 @@
           return;
         }
         sessionStorage.setItem("noreva-admin-authenticated", "1");
-        ownerAuth.hidden = true;
-        ownerLinks.hidden = false;
-        ownerError.textContent = "";
-        adminDirectLink.focus();
+        showOwnerChoices();
       });
     </script>
   </body>
