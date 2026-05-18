@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NŌRÉVA Owner Access</title>
-    <link rel="stylesheet" href="styles.css?v=20260518-11" />
+    <link rel="stylesheet" href="styles.css?v=20260518-12" />
     <style>
       body {
         min-height: 100vh;
@@ -59,7 +59,7 @@
       }
 
       .owner-links {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
       }
 
       .owner-error {
@@ -88,8 +88,8 @@
       </form>
 
       <section class="owner-links" id="ownerLinks" hidden>
-        <a class="primary-action" id="adminDirectLink" href="admin.html?v=20260518-11">فتح لوحة الإدارة</a>
-        <a class="secondary-action" href="index.html?v=20260518-11">فتح موقع العملاء</a>
+        <a class="primary-action" id="adminDirectLink" href="admin.html?v=20260518-12">فتح لوحة الإدارة</a>
+        <a class="secondary-action" href="index.html?v=20260518-12">فتح موقع العملاء</a>
       </section>
     </main>
 
@@ -115,9 +115,6 @@
         ownerLinks.hidden = false;
         ownerError.textContent = "";
         adminDirectLink.focus();
-        setTimeout(() => {
-          window.location.assign(adminDirectLink.href);
-        }, 250);
       });
     </script>
   </body>
