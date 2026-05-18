@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NŌRÉVA Owner Access</title>
-    <link rel="stylesheet" href="styles.css?v=20260518-10" />
+    <link rel="stylesheet" href="styles.css?v=20260518-11" />
     <style>
       body {
         min-height: 100vh;
@@ -59,7 +59,7 @@
       }
 
       .owner-links {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns: 1fr;
       }
 
       .owner-error {
@@ -79,7 +79,7 @@
     <main class="owner-card glass-panel">
       <p class="eyebrow">Private Owner Link</p>
       <h1>NŌRÉVA Owner</h1>
-      <p>لينك خاص للإدارة. بعد الدخول تقدر تفتح موقع العملاء أو لوحة الطلبات والعملاء.</p>
+      <p>لينك خاص للإدارة. اكتب الرقم السري لفتح لوحة الطلبات والعملاء.</p>
 
       <form class="owner-auth" id="ownerAuth">
         <input id="ownerPassword" type="password" placeholder="الرقم السري" autocomplete="current-password" required />
@@ -88,8 +88,8 @@
       </form>
 
       <section class="owner-links" id="ownerLinks" hidden>
-        <a class="primary-action" href="index.html?v=20260518-9">فتح موقع العملاء</a>
-        <a class="secondary-action" href="admin.html">فتح لوحة الإدارة</a>
+        <a class="primary-action" id="adminDirectLink" href="admin.html?v=20260518-11">فتح لوحة الإدارة</a>
+        <a class="secondary-action" href="index.html?v=20260518-11">فتح موقع العملاء</a>
       </section>
     </main>
 
@@ -99,6 +99,7 @@
       const ownerLinks = document.querySelector("#ownerLinks");
       const ownerPassword = document.querySelector("#ownerPassword");
       const ownerError = document.querySelector("#ownerError");
+      const adminDirectLink = document.querySelector("#adminDirectLink");
 
       ownerAuth.addEventListener("submit", (event) => {
         event.preventDefault();
@@ -110,7 +111,13 @@
           return;
         }
         sessionStorage.setItem("noreva-admin-authenticated", "1");
-        window.location.href = "admin.html?v=20260518-10";
+        ownerAuth.hidden = true;
+        ownerLinks.hidden = false;
+        ownerError.textContent = "";
+        adminDirectLink.focus();
+        setTimeout(() => {
+          window.location.assign(adminDirectLink.href);
+        }, 250);
       });
     </script>
   </body>
