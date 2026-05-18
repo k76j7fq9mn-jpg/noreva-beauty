@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NŌRÉVA Admin | Orders & CRM</title>
-    <link rel="stylesheet" href="styles.css?v=20260518-15" />
+    <link rel="stylesheet" href="styles.css?v=20260518-16" />
     <style>
       body {
         min-height: 100vh;
@@ -310,6 +310,27 @@
           font-weight: 900;
         }
 
+        .admin-table td.record-details {
+          display: block;
+        }
+
+        .admin-table td.record-details::before {
+          display: block;
+          margin-bottom: 8px;
+        }
+
+        .record-message {
+          display: block;
+          padding: 12px;
+          border: 1px solid rgba(216, 182, 106, 0.16);
+          border-radius: 8px;
+          color: rgba(251, 247, 236, 0.92);
+          background: rgba(0, 0, 0, 0.24);
+          line-height: 1.75;
+          white-space: pre-wrap;
+          word-break: break-word;
+        }
+
         .site-quick-link {
           right: 14px;
           left: 14px;
@@ -319,7 +340,7 @@
     </style>
   </head>
   <body class="admin-locked">
-    <a class="primary-action site-quick-link" href="index.html?v=20260518-15">فتح الموقع</a>
+    <a class="primary-action site-quick-link" href="index.html?v=20260518-16">فتح الموقع</a>
 
     <section class="auth-screen" id="authScreen" aria-label="تسجيل دخول الإدارة">
       <form class="auth-card glass-panel" id="adminAuthForm">
@@ -338,8 +359,8 @@
         <h1>لوحة الطلبات والعملاء</h1>
         <p>متابعة الطلبات، الاقتراحات، اختيارات العطور، وقائمة العملاء الموافقين على استقبال العروض. الطلبات تستمر في واتساب وتتسجل هنا، أما الاقتراحات والشكاوي فتظهر هنا فقط.</p>
         <div class="admin-actions">
-          <a class="primary-action" href="index.html?v=20260518-15">فتح موقع العملاء</a>
-          <a class="secondary-action" href="owner.html?v=20260518-15">بوابة المالك</a>
+          <a class="primary-action" href="index.html?v=20260518-16">فتح موقع العملاء</a>
+          <a class="secondary-action" href="owner.html?v=20260518-16">بوابة المالك</a>
           <button class="admin-export" type="button" id="exportRecords">تصدير كل البيانات CSV</button>
           <button class="admin-export" type="button" id="exportMarketing">تصدير عملاء العروض CSV</button>
         </div>
@@ -480,7 +501,7 @@
             <td data-label="الاسم">${escapeHTML(record.name || "-")}</td>
             <td data-label="الموبايل">${escapeHTML(record.phone || "-")}</td>
             <td data-label="المدينة">${escapeHTML(record.city || "-")}</td>
-            <td data-label="التفاصيل">${escapeHTML(record.items || record.message || "-")}</td>
+            <td class="record-details" data-label="${record.type === "message" ? "الرسالة" : "التفاصيل"}"><span class="record-message">${escapeHTML(record.items || record.message || "-")}</span></td>
             <td data-label="الإجمالي">${record.total ? `${Number(record.total).toLocaleString("ar-EG")} جنيه` : "-"}</td>
             <td data-label="العروض">${record.marketingConsent ? "نعم" : "لا"}</td>
           </tr>
